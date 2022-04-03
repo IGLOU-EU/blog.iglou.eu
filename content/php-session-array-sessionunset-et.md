@@ -7,6 +7,8 @@ tags = ["programmation"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ### Session my PHP
 
 Aidant de temps en temps sur des forums ou en IRC, je tombe par moment sur des personnes qui mélangent, confondes et font des mélimélo perso. Mais pas seulement, il arrive que ce soit les "helpers" qui induisent en erreur (et là, c'est le drame) ...

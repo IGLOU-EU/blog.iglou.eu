@@ -7,6 +7,8 @@ tags = ["linux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Je me souviens d'il y a ~15ans, le début de mes déboires en informatique. La difficulté que j'avais à comprendre Tutoriels divers passant par ces "Terminaux". Ce n'est qu’après des mois ou plus encore que j'en avais compris l’utilité.
 
 Il est certain que de nos jours avec internet que je n'avais pas à l’époque, les choses sont bien plus simples. Mais si personne ne prend la peine d'expliquer la BASE des BASES, on ne peut pas faire un pas de plus !

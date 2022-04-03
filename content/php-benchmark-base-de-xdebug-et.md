@@ -7,6 +7,8 @@ tags = ["programmation"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ### Des bench, des bench, oui mais des bench xdbug 🍝
 
 ![Image de presentation](/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png "")

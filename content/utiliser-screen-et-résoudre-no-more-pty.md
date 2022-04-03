@@ -7,6 +7,8 @@ tags = ["linux", "memo"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ### Un Screen vaut mieux que deux tu l'auras
 
 Après avoir combattu lamentablement pour utiliser "dtach", je me suis résigné devant mes maigres réussites. Et est donc opté pour le plus simple et le plus rependu "Screen".

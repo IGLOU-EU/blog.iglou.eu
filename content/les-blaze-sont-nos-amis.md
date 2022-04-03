@@ -7,6 +7,8 @@ tags = ["jeux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Si ce titre vous fait penser a une chanson, c'est elle :
 
 [LES INCONNUS - Les Insectes Sont Nos Amis](http://www.dailymotion.com/video/x56jlu_les-inconnus-les-insectes-sont-nos_fun) _par [MOLUSKAILLRA](http://www.dailymotion.com/MOLUSKAILLRA)_

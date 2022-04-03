@@ -7,6 +7,8 @@ tags = ["jeux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Il y a déjà de ça quelque mois un amis m'a partagé un lien, m'informant que c’était un petit jeux, rien de plus.
 
 ![Image de presentation](/images/candy_box_2_title.PNG "[http://candybox2.net/](http://candybox2.net/)") 

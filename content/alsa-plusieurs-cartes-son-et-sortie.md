@@ -7,6 +7,8 @@ tags = ["linux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 **Bonjour à tous,** après deux ans de loyaux services mon casque a rendu l’âme ... Il était donc naturel d'en quérir un nouveau. Malheureusement et bien que choisi avec soin, celui ci à une connectique USB me limitant donc aux ordi. La qualité sonore n'en est pas pourtant pas meilleur, et c'est donc adieu (temporaire) à l'universel JACK qui lui, m'aurait permis de connecter ce casque a ma console ...
 
 ![Image de presentation](/images/www.semageek.com-wp-content-uploads-2010-11-ippod-cl%C3%A9-usb-de-merde-concept-apple.jpg "_Cette image exprime tres bien ce que je pense de l'USB pour l'audio et de Apple en général._Ayant testé cette "technologie" audio sous Windows7 et mon Linux, je peux certifié que l'on est mieux chez les manchot.")

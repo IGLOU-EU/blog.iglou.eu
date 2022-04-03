@@ -7,6 +7,8 @@ tags = ["jeux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Bonjour a tous, je viens de m'offrir Don't starve et comptais m'y metre de suite. Mais là encore Super-Bug est présent. Voici donc comment résoudre certaines erreurs que j'ai eu.
 
 ![Image de presentation](/images/td.png "")

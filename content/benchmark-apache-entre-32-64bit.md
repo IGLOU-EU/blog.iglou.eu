@@ -7,6 +7,8 @@ tags = ["Serveur"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 **Bonjours à tous,** dernièrement je me suis demandé quel seraient les différences entre un OS 32-64bit pour un serveur (notamment apache et ce après une discutions avec mon oncle), je m'attendais à de petites différences en faveur du 64bit. C'est la 1ere fois que je réalise un benchmark espérons que je ne fasse pas trop d'erreur...
 
 ![Image de presentation](/images/www.pointgphone.com-wordpress-wp-content-uploads-2013-08-benchmark-010801.jpg "")

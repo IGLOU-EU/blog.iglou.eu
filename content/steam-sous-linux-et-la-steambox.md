@@ -7,6 +7,8 @@ tags = ["hardware", "linux", "software"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## I Have a Dream _!_
 
  _(pardonne moi martin de t'utiliser en informatique ...)_

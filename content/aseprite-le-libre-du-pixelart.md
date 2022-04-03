@@ -7,6 +7,8 @@ tags = ["software", "graphisme"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Aseprite est un logiciel **Libre** et **OpenSource** destiné au PixelArt.
 
 ![Image de presentation](/images/mamu.backmeister.name-wp-content-uploads-2012-03-aseprite01.png "Image du jeux \"Catacomb Snatch\", réalisé avec Aseprite.")

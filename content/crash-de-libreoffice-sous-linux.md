@@ -7,6 +7,8 @@ tags = ["linux", "software"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## LibreOffice crache sa sauce
 
 Créer un document, rédiger quelques ligne, être fière de son boulot et ce dire "Je vais enregistrer on ne sait jamais", la BAM.   

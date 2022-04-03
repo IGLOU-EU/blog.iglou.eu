@@ -7,6 +7,8 @@ tags = ["Serveur"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Lors de me première installation/configuration d'un serveur dédié, j'ai ramé.
 
 J’étais un habitué des système G/Linux comme utilisateur depuis déjà un moment, mais je n'imaginais pas le monde du serveur web. (Au passage, je ne voulais de base pas faire de serveur sous un Linux mais BSD, ayant débuté sur du serveur virtualisé mon hébergeur donnait que très peu de choix)

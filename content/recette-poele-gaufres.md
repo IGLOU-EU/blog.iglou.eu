@@ -6,6 +6,8 @@ updated = 2015-11-27T16:08:00Z
 tags = ["cuisine"]
 blogimport = true
 +++
+
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
 ### 🧟‍♀️ La nuit des gaufres a la poêle
 Il y a bien longtemps que je voulais me prendre une poêle à gaufres, ce n'est pas trop gros et ça se range dans le placard.
 

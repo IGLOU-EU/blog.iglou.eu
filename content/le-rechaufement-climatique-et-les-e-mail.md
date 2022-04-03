@@ -7,6 +7,8 @@ tags = ["HS"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## L'éco email-eur 💌
 
 _Au moment où j'ai voulu rédiger cet article, je me suis dit, "tien me faut une image avec un écolo super chiant", comme je n'ai pas trouvé…_

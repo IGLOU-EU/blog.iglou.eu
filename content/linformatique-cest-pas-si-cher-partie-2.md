@@ -7,6 +7,8 @@ tags = ["hardware"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ### L'optimisation pour l'infographie.
 
 Mettons les points sur les "I". Que vous ayez l'argent ou pas, faire de l'infographie sur un ordinateur portable est une erreur ! Acheter un ordinateur dit d'infographie dans le commerce en est une autre.

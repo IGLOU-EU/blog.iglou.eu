@@ -7,6 +7,8 @@ tags = ["OS X"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Il est rare pour moi d'avoir a toucher a un terminal de l'Os a la pomme.
 L'Os a la pomme (pourie) et les "Linux" on beaucoup de commandes en commun. Pourquoi ? Car ils sont tout deux basé sur "UNIX" et vous le savez (oui oui).
 Au passage il n'est plus correcte de parler de "MAC" pour désigner cette l'Os, la ligné "MAC" n’étant pas "UNIX" comparé a "MAC OS X"

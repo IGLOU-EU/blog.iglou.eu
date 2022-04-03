@@ -7,6 +7,8 @@ tags = ["linux", "memo"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## Mes "mentos" d'Arch
 
 Dans la partie 3 nous allons retrouver un moment mon très aimable initab, puis la gestion du poweroff et reboot pour les users, ainsi que les lancement a la connexion. Le tout d'un point de vue "virtual console".

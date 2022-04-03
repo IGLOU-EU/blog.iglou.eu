@@ -7,6 +7,8 @@ tags = ["software"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## [epson2] e2_ext_read: cancel request received
 
 Avec cette erreur, il y avait un moment que je n'avais pas touché a mon scanner. Lors d'une numérisation, il débutait et s’arrêtait directement. A l’époque j'avais réalisé des recherches sur quelques centaines de forum qui au final disait qu'il y avait un bug avec les pilotes epson...

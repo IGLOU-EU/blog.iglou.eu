@@ -7,6 +7,8 @@ tags = ["linux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Voici déjà plus de 4jours que je cherchais la solution afin d'avoir le mixage des sources avec plusieurs cartes son. Par la suite de mes recherches, j'avais déjà posté sur comment utiliser plusieurs cartes son avec Alsa.
 
 ![Image de presentation](/images/www.noulakaz.net-weblog-images-20050814-dmix.jpg "")

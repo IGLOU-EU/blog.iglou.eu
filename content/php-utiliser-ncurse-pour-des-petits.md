@@ -7,6 +7,8 @@ tags = ["programmation"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ### ⚡️ Je détiens la Curse toute puissante ⚔️
 
 Alors oui, la curse ce n'est pas vraiment aimé, puis on en croise de moins en moins. N’empêche que j'aime bien moi, c'est classe et faire du curse en PHP c'est rigolo.

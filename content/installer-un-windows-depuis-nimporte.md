@@ -7,6 +7,8 @@ tags = ["BSD", "linux", "OS X"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Haaa, ces produits Windows de chez M$, quel… merde, et dire qu'il y a des moments où l'on ne peut pas s'en passer… Merci les solutions proprio 🤢
 
 _Cette solution fonctionne sur tout Os ayant de la virtualisation (VirtualBox ici)_

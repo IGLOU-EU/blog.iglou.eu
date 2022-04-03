@@ -7,6 +7,8 @@ tags = ["hardware"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ![Image de presentation](/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg "Ayant besoin de commander un ssd, pour quoi ne pas tester un KingFast qui était à moins de ~48€ pour 120Go au moment de mon achat")
 
 ### La réception, direct on ouvre !

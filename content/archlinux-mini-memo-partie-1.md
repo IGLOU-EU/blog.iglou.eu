@@ -7,6 +7,8 @@ tags = ["linux", "memo"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## My Arch 🐧
 
 Qui n'a jamais passé des heures et des heures, a creusé ses méninges afin d'en faire sortir son précieux jus, contenant les commandes permettant de finir son installation correctement. Ou encore a secouer son moteur de recherche comme un prunier !

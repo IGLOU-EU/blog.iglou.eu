@@ -7,6 +7,8 @@ tags = ["hardware"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Sérieusement, étudiant ou pas, la plupart des personnes trimes pour avoir un peu d'argent. Et ainsi pouvoir aller 2-3 fois au cinéma, boire quelques verres entre amis, aller en boite et au resto et ce, en plus de son loyer et des divers charges. Alors comment pourrait on s’offrir un ordinateur correcte ? Si l'on est un gamer les config minimum demandaient sont des ordinateurs dans les 600€ et si l'on voudrais que le jeux tourne correctement on en parle même pas. Même chose pour les suite comme CS5, Maya, etc (Il n'y a que Gimp et Bender qui sont capable d’être optimisé ...)
 
 Vers quoi ce tourner lorsque l'on peut économiser qu'une misérable somme comme 200-300 ? Un NetBook ?

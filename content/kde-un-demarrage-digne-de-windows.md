@@ -7,6 +7,8 @@ tags = ["linux", "software"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 Depuis quelques jours, j'ai réinstallé mon Archnunux. Le SSD en place, je boot en 0,4s depuis le chargement de GRUB2 à KDM, mais la connexion a KDE prend 10-12s.
 
 A son passage en version 4, KDE c'est tout à coup pris de lenteur et bien que ce soit optimisé sur les dernières versions, le problème persiste.

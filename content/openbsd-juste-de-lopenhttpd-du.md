@@ -7,6 +7,8 @@ tags = ["BSD", "Serveur", "memo"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## Le dernier espoir : OpenHTTPD
 
 ![Image de presentation](/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png "")

@@ -7,6 +7,8 @@ tags = ["jeux"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## Le sexe, comme la mort c'est naturel ! <br>_<small>Mais il y en a un des deux tout de même plus agréable a vivre.</small>_
 
 ![Image de presentation](/images/the_witcher_yen.jpg 'The Witcher III, avec <span style="color: red;">Y</span><span style="color: orange;">e</span><span style="color: magenta;">nn</span><span style="color: orange;">e</span><span style="color: blue;">f</span><span style="color: orange;">e</span><span style="color: purple;">r</span> !')

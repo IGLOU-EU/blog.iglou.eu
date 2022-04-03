@@ -7,6 +7,8 @@ tags = ["Serveur", "memo"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## 🙈 Deb 🙉 me 🙊
 
 Il y a de cela 8mois, j'avais entamé la configuration de mon nouveau serveur dédié sous debian. Il y a peu, j'eus besoin de modifications très simples, mais pas moyen de me rappeler comment les effectuer. Profitons en pour realiser un memo qui me servira aussi dans le futur.

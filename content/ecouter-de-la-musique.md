@@ -7,6 +7,8 @@ tags = ["musique"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 A vous qui aimez la musique. Qui, chaque jour, soutenu par leurs diverses mélodies travaillent avec entrain (ou ce détendent). J'ai remarqué le peu de respect en vers elle dont beaucoup font preuve, et dédit donc ce post à vous tous qui ne connaissaient probablement pas la véritable sonorité de vos morceaux favoris.
 
 Tout d'abord **Le format audio** :

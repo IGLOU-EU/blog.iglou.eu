@@ -7,6 +7,8 @@ tags = ["jeux", "software"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ### Comment utiliser Wine
 
 ![Image de presentation](/images/lan.nost.biz-wp-content-uploads-2012-10-wine-logo.jpg "")

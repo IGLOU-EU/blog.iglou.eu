@@ -7,6 +7,8 @@ tags = ["hardware", "programmation"]
 blogimport = true
 +++
 
+{{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
+
 ## La base pour utiliser cet écran e-ink
 
 _**EDIT:** Vous allez rire, j'ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j'ai remarqué qu'elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d'indications… C'est du boulot d’être con._
