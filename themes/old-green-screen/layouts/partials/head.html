@@ -115,6 +115,24 @@
         background-color: var(--c-secondary);
     }
 
+    .box {
+        gap: 1em;
+        border: .1em solid;
+        padding: .5em 1em;
+        display: grid;
+        grid-template-columns: auto 1fr;
+    }
+
+    .box::before {
+        content: "";
+        font-size: 2em;
+        line-height: .3em;
+    }
+
+    .box.warning::before {
+        content: "⚠";
+    }
+
     .intext {
         font-size: inherit;
         display: inline;
