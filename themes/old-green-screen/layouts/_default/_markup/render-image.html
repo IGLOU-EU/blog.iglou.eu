@@ -1,0 +1,10 @@
+</p>
+<figure class="article_content__img" tabindex="0">
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+    {{ if .Title }}
+    <figcaption class="article_content__img_desc">
+        {{ .Title | markdownify | safeHTML }}
+    </figcaption>
+    {{ end }}
+</figure>
+<p>

@@ -1,0 +1,37 @@
+<div class="list">
+    <div class="articles">
+        {{range .Paginator.Pages}}
+        <article class="article_link">
+            <header class="article_link__header">
+                <h2 class="article_link__title monospace m0"><a class="link inherit" href="{{.Permalink}}">{{ .Title }}</a></h2>
+                <aside class="article_link__date right monospace">
+                    <time class="article_link__date_format" datetime="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}">{{.Date.Format "02 Jan 2006"}}</time>
+                </aside>
+            </header>
+
+            <hr class="hr">
+            <p class="article_link__summary">■ {{.Summary}}</p>
+
+            <footer class="article_link__footer">
+                <aside class="article_link__tags monospace capitalize">
+                    {{range .Params.tags}}
+                    <a class="article_link__tag link important {{.}}" href="/tags/{{.}}/">{{.}}</a>
+                    {{end}}
+                </aside>
+                <a class="article_link__read btn inherit right monospace" href="{{.Permalink}}">Lire …</a>
+            </footer>
+        </article>
+        {{end}}
+    </div>
+
+    <div class="paginator">
+        {{if .Paginator.HasPrev}}
+        <a href="{{.Paginator.Prev.URL}}" title="Page précédente" class="paginator_link prev link inherit important">↩</a>
+        {{end}}
+        <span class="paginator_actual">{{.Paginator.PageNumber}}</span>
+        <span class="paginator_total"> / {{.Paginator.TotalPages}}</span>
+        {{if .Paginator.HasNext}}
+        <a href="{{.Paginator.Next.URL}}" title="Page suivante" class="paginator_link next link inherit important">↪</a>
+        {{end}}
+    </div>
+</div>

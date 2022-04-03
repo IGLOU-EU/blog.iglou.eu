@@ -1,0 +1,35 @@
+<aside class="author">
+    <img src="/me.png" alt="Ma tronche en dithering" class="author_view">
+    <div class="author_desc">
+        <h2 class="author_desc__name"><span class="emoji">🐧</span> {{ .Site.Author.name }}</h2>
+        <a href="mailto:{{ .Site.Author.email }}?subject=%5BContact%5D%20Depuis%20Blog.Iglou.eu&amp;body=Bonjour%20{{ .Site.Author.name }}%20d%27Iglou.eu%2C%0D%0A%7BVotre%20message%7D%0D%0A%0D%0ACordialement%2C" class="author_desc__contact link inherit">adrien@iglou.eu</a>
+        <p class="author_desc__prez">■ {{ .Site.Author.presentation | safeHTML }}</p>
+    </div>
+    <hr class="hr">
+    <div class="author_social">
+        <a href="/index.xml" class="author_social__rss link svg inherit" title="Le flux RSS">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                <path d="M384 32H64C28.65 32 0 60.66 0 96v320c0 35.34 28.65 64 64 64h320c35.35 0 64-28.66 64-64V96C448 60.66 419.3 32 384 32zM150.6 374.6C144.4 380.9 136.2 384 128 384s-16.38-3.121-22.63-9.371c-12.5-12.5-12.5-32.76 0-45.26C111.6 323.1 119.8 320 128 320s16.38 3.121 22.63 9.371C163.1 341.9 163.1 362.1 150.6 374.6zM249.6 383.9C249 383.1 248.5 384 247.1 384c-12.53 0-23.09-9.75-23.92-22.44C220.5 306.9 173.1 259.5 118.4 255.9c-13.22-.8438-23.25-12.28-22.39-25.5c.8594-13.25 12.41-22.81 25.52-22.38c77.86 5.062 145.3 72.5 150.4 150.4C272.8 371.7 262.8 383.1 249.6 383.9zM345 383.1C344.7 384 344.3 384 343.1 384c-12.8 0-23.42-10.09-23.97-23C315.6 254.6 225.4 164.4 119 159.1C105.8 159.4 95.47 148.3 96.02 135C96.58 121.8 107.9 111.2 121 112c130.7 5.469 241.5 116.3 246.1 246.1C368.5 372.3 358.3 383.4 345 383.1z" />
+            </svg>
+        </a>
+        <a href="{{ .Site.Author.site }}" class="author_social__site link svg inherit" title="Site internet Iglou.eu">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                <path d="M320 160H48.5C100.2 82.82 188.1 32 288 32C298.8 32 309.5 32.6 320 33.76V160zM352 39.14C424.9 55.67 487.2 99.82 527.5 160H352V39.14zM96 192V320H0C0 274 10.77 230.6 29.94 192H96zM192 320H128V192H448V320H384V352H576V432C576 458.5 554.5 480 528 480H352V352C352 316.7 323.3 288 288 288C252.7 288 224 316.7 224 352V480H48C21.49 480 0 458.5 0 432V352H192V320zM480 192H546.1C565.2 230.6 576 274 576 320H480V192z" />
+            </svg>
+        </a>
+        <a href="{{ .Site.Author.github }}" class="author_social__github link svg inherit" target="_blank" rel="noreferrer nofollow noopener" title="Mon github">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                <path d="M439.55 236.05L244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z" />
+            </svg>
+        </a>
+        <a href="{{ .Site.Author.linkedin }}" class="author_social__linkdin link svg inherit" target="_blank" rel="noreferrer nofollow noopener" title="Mon linkedin">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" />
+            </svg>
+        </a>
+    </div>
+</aside>

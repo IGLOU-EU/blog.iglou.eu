@@ -1,0 +1,21 @@
+{{ if .IsPage }}
+<aside class="infos monospace">
+    <span class="infos_by">
+        Par {{ .Site.Author.name }}
+    </span>
+    <span class="infos_date right">
+        Le <time class="article_link__date_format text_neon blue" datetime="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}">{{.Date.Format "02 Jan 2006"}}</time>
+        {{if ne ((.Date.Format "02 Jan 2006")) (.Lastmod.Format "02 Jan 2006")}}
+        · Maj le <time class="article_link__date_format text_neon blue" datetime="{{.Lastmod.Format "2006-01-02T15:04:05Z07:00"}}">{{.Lastmod.Format "02 Jan 2006"}}</time>
+        {{end}}
+    </span>
+    <span class="infos_time">
+        Lecture {{div .FuzzyWordCount 150}} minutes
+    </span>
+    <span class="infos_tags capitalize right">
+        {{range .Params.tags}}
+        <a class="article_link__tag link important {{.}}" href="/tags/{{.}}/">{{.}}</a>
+        {{end}}
+    </span>
+</aside>
+{{ end }}

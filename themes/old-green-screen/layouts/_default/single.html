@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article class="article">
+    {{ .Content }}
+    <aside class="article_comm right">
+        <a class="article_comm__email btn inherit right monospace" href="mailto:{{ .Site.Author.email }}?subject=%5BCommentaire%5D+{{ .Title }}&body=Bonjour%20Adrien%2C%0D%0A">M'envoyer un commentaire</a>
+        ·
+        <a class="article_comm__issue btn inherit right monospace" href="https://github.com/IGLOU-EU/blog.iglou.eu/issues/new?title=Erreur:+{{ .Title }}&body=Lien:+{{.Permalink}}%0A%0AMince+quel+est+mon+erreur+?%0A">Reporter une erreur</a>
+    </aside>
+</article>
+{{ end }}
