@@ -14,14 +14,14 @@ tags: [hs]
 ![Affiche de eat my shit](/images/eatmyshit.jpg)
 
 ## Je vous dresse le tableau
-Par une journée printanière, nous découvrons, avec ou sans bonheur, le magnifique choix qu'il nous est offert entre les deux formidables futures personnes présidente.   
+Par une journée printanière, nous découvrons, avec ou sans bonheur, le magnifique choix qu'il nous est offert entre les deux formidables futures personnes présidentes.   
 Un choix, qui ne devrait pas satisfaire les 17 216 061 français votants et les 543 609 de votes blancs, 247 151 de votes nuls et 12 824 169 d'abstentions, ce qui nous donne 30 830 990 personnes, donc je fais`30830990/48747876*100` = ~63,25% des électeurs inscrits [[Source]](https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/FE.html).   
 Bien que les abstentions soient relativement discutables, surtout pour ceux qui appellent à voter barrage au second tour... Toujours est-il que 63,25% de personnes non satisfaites, ne me semble pas très démocratique.
 
 ## Mon état
-Dans ma position, et en sachant qu'il m'est impensable de voter Macron, vu ses divers engagements et futures propositions, j'en visage pour la première fois de ma vie Le Pen. Pure folie, je me dégoûte moi-même, et cela, en dit long. Je fais des recherches, regarde des débats… Elle ne me parait pas si mal (accoté de Macron)… Mais on les connait ces deux c******s, ils sont prêts à raconter n'importe quoi, juste pour avoir le pouvoir.
+Dans ma position, et en sachant qu'il m'est impensable de voter Macron, vu ses divers engagements et futures propositions, j'envisage pour la première fois de ma vie Le Pen. Pure folie, je me dégoûte moi-même, et cela, en dit long. Je fais des recherches, regarde des débats… Elle ne me parait pas si mal (accoté de Macron)… Mais on les connait ces deux c******s, ils sont prêts à raconter n'importe quoi, juste pour avoir le pouvoir.
 
-En tout cas, ma position avant d'aller plus loin, et, qu'ils se valent. Que les idées de l'une vont séduire l'autre et inversement, quelle que soit l'issue, nous sommes dans la merde ! Et pour 5 à 7 ans en plus !
+En tout cas, ma position avant d'aller plus loin, et, qu'ils se valent. Que les idées de l'une vont séduire l'autre et inversement, quelque soit l'issue, nous sommes dans la merde ! Et pour 5 à 7 ans en plus !
 
 ## Comment savoir
 Du coup, comment, comment se faire une "véritable idée" sur cette personne, sans se baser sur son baratin. Car pour l'autre, Macaron, nous savons, pour peu que vous preniez le temps de réfléchir, et non pas, de vous laisser abuser.   
@@ -30,7 +30,7 @@ Le moins que l'on puisse dire, est que ces 12 derniers mois, elle ne s'est pas b
 
 <iframe frameborder="0" scrolling="no" src="//www.nosdeputes.fr/widget15/marine-le-pen?iframe=true&notags=1&width=780" height="225" width="800"></iframe>
 
-N'oublions pas qu'Emmanuel Macron, lui, n'a même jamais fais l'effort de passer député, appelant en 2015 cette fonction (Qui, en bon garde-fou, a plusieurs fois fait son travail) :
+N'oublions pas qu'Emmanuel Macron, lui, n'a même jamais fait l'effort de passer député, appelant en 2015 cette fonction (Qui, en bon garde-fou, a plusieurs fois fait son travail) :
 >Le cursus honorum d'un ancien temps
 
 ## La vie en Bleu Marine
@@ -675,7 +675,7 @@ Le 19/04/18 vote <b class="vote-contre">contre</b> [[Voir]](https://www.nosdeput
 Le 19/04/18 vote <b class="vote-contre">contre</b> [[Voir]](https://www.nosdeputes.fr//15/scrutin/492)
 >l'amendement n° 817 de Mme Faucillon et l'amendement identique suivant à l'article 5 du ....
             
----
+--
 Le 19/04/18 vote <b class="vote-contre">contre</b> [[Voir]](https://www.nosdeputes.fr//15/scrutin/486)
 >l'article 3 du ....
             
@@ -1359,7 +1359,7 @@ Le 10/07/17 vote <b class="vote-pour">pour</b> [[Voir]](https://www.nosdeputes.f
 >la motion de renvoi en commission, deposee par M. Olivier Faure, du ....
 
 ## Constatation
-- L'accès au scrutin de l'Assemblée nationale est super flou, et rien n'est fait pour un croisement simple des informations
+- L'accès aux scrutins de l'Assemblée nationale est super flou, et rien n'est fait pour un croisement simple des informations
 - Le mode d'élection actuel, n'est probablement pas le plus efficace pour assurer une démocratie…
 - La candidate, Marine Le Pen, semble en partie se contredire entre ses actions à l'assemblée et ses discours politiques
 
