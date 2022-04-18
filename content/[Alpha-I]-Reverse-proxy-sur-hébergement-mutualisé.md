@@ -5,9 +5,9 @@ tags: ["alpha", "Serveur"]
 draft: false
 ---
 
-{{% warning `Cette série "Alpha", tourne autour du thème de l'exécution de code
-non prévus par les fournisseurs d'hébergement mutualisé. Et ce, affin de passer
-outre des limitations comme le support de langages de script ou binaires` %}}
+{{% warning `Cette série "Alpha" tourne autour du thème de l'exécution de code
+non prévu par les fournisseurs d'hébergement mutualisé. Et ce, affin de passer
+outre les limitations comme le support de langages de script ou binaires` %}}
 
 # 🎤 Viens chez mon :27039, j'habite chez :443
 _Sur les bords au milieu c'est vrai qu'je crains un peu._
@@ -15,30 +15,30 @@ _Sur les bords au milieu c'est vrai qu'je crains un peu._
 ![Elle mate :27039, et elle fait bien](/images/865675824.jpg "Comment elle mate mon :27039 depuis son :443 😱")
 
 Il y a de cela fort longtemps, je me suis focalisé sur les langages de script,
-et plus particulièrement PHP. Ce choix fut principalement orienté, du fait que
-je pensais naïvement, qu'elle était la seule techno permettant de profiter des
-hébergements mutualisés. Mais avec l'age vient la sagesse, et après maintes
-dépenses en serveur dédié pour faire tourner diverses applications. Je connais
+et plus particulièrement PHP. Ce choix fut principalement orienté du fait que
+je pensais, naïvement, qu'elle était la seule techno permettant de profiter des
+hébergements mutualisés. Mais avec l'âge vient la sagesse, et après maintes
+dépenses en serveurs dédiés pour faire tourner diverses applications. Je connais
 le Kung-fu !
 
-Il serait probablement bien plus raisonnable de commencer cette série "Alpha", par
+Il serait probablement bien plus raisonnable de commencer cette série "Alpha" par
 l'exécution de code ou logiciel qui ne sont pas officiellement disponibles...
 Mais j'avais la blague du matage de :27039 depuis :443 en tête, et j'en suis 
-fière, même si je ne devrais pas.
+fier, même si je ne devrais pas.
 
 ## Reverse proxy dans ton .htaccess
 Je ne sais pas si vous avez déjà entendu parlé d'un fichier du nom de 
-`.htaccess`. C'est un fichier très peu utilise, et très peu rependu sur les
+`.htaccess`. C'est un fichier très peu utilisé, et très peu répandu sur les
 hébergements mutualisés 😏 Celui-ci, quand il est supporté, permet un tas de 
-choses sympa vu qu'il permet modifier la configuration du serveur au niveau du
+choses sympa vu qu'il permet de modifier la configuration du serveur au niveau du
 répertoire courant. C'est notamment lui qui permet d'avoir du `Pretty URLs`.
 
-Tien, cela tombe bien de parler des jolies URL, car pour notre reverse proxy,
+Tiens, cela tombe bien de parler des jolies URL, car pour notre reverse proxy,
 nous allons utiliser le même mécanisme. Il y a donc de très grandes chances que
 cette méthode fonctionne pour tous, `mod_rewrite` étant "toujours" disponible.
 
-Mettons l'hypothèse suivante, nous disposons d'une app local écoutant sur
-`127.0.0.1:27039`, et nous désirons "rediriger" tout le flux arrivant vers celui
+Mettons l'hypothèse suivante, nous disposons d'une app locale écoutant sur
+`127.0.0.1:27039`, et nous désirons "rediriger" tout le flux arrivant vers celui-
 ci. Attention, c'est vraiment complexe, accrochez-vous bien les yeux.
 ```dracula
     RewriteEngine on
@@ -66,17 +66,17 @@ via un .htaccess.
 
 ## Reverse proxy dans ton PHP
 Il est ironique de passer par un langage de script pour exploiter du natif,
-voire traumatisant pour certains (dons moi).
+voire traumatisant pour certains (dont moi).
 
-Un proxy, basiquement, a pour seule mission de transférer les informations reçu
+Un proxy, basiquement, a pour seule mission de transférer les informations reçues
 sur un point A vers un point B. Il est possible de faire cela avec n'importe quel
-langages, et pour le coup nous allons exploiter le support de PHP par le
+langage, et pour le coup nous allons exploiter le support de PHP par le
 serveur. Comme je ne suis bien sûr pas le seul à avoir exploité ce genre de
 choses, il y a un script PHP mis à disposition par une gentille personne 
 [ici sur github](https://github.com/michaelfranzl/no.php/blob/master/no.php).
 Ce script utilise la lib Curl, il est envisageable de faire du plus bas niveau 
 avec par exemple l'usage de `php://input` ainsi que `fsockopen`. Cette technique 
-entraine, cependant, quelques limitations, comme les connexions persistantes…
+entraîne, cependant, quelques limitations, comme les connexions persistantes…
 
 L'hypothèse, nous avons un domaine `minsc.boo` qui "pointe" vers un dossier
 `~/minsc.boo/` et une application qui écoute `127.0.0.1:27039`
@@ -96,31 +96,31 @@ une url, avoir un buffersize...
 _Équipement de Protection Individuelle_
 
 ### Le voisin est un mateur 😭
-Comme vous avez pu le constater, tout le trafique de notre reverse proxy passant
-par un port, ce fait sur le protocole `http`. Il n'est effectivement pas
+Comme vous avez pu le constater, tout le trafic de notre reverse proxy passant
+par un port, se fait sur le protocole `http`. Il n'est effectivement pas
 possible de passer des instructions comme `SSLProxyCACertificateFile` via le
 fichier .htaccess. La confidentialité tout comme l'intégrité des données ne
-peuvent donc pas être assurée . 
+peuvent donc pas être assurées. 
 
 Il y a cependant quelques solutions viables et passionnantes à mettre en place, 
 comme :
 - Le chiffrement de bout en bout, cela fera les pieds au mec du milieu
 - Transmissions des informations de connexions via des hash uniquement
-- Implémenter un système comparable a `Auth Digest` avec `qop=auth-int` mais
+- Implémenter un système comparable à `Auth Digest` avec `qop=auth-int` mais
 bidirectionnel
 - Instaurer un contrat de confiance SSL avec la solution en PHP
 
 ### Subir du harcèlement 🦟
 Suivant la sécurité mise en place par votre hébergeur, il est probable que
-vous n'ayez aucunes protection sur l'exploitation d'un port local. Il
+vous n'ayez aucune protection sur l'exploitation d'un port local. Il
 est possible que votre voisin frappe à votre :27039 plusieurs fois par
-jours, que ce soit pour voir qui répond, ce qu'il en ressort, voler des mots de
-passe... Avec une sensibilité accrue aux brute-force
+jour, que ce soit pour voir qui répond, ce qu'il en ressort, voler des mots de
+passe... Avec une sensibilité accrue aux brute-force.
 
 Dans le cas présent, impossible de se protéger efficacement à notre niveau.
-Tout repose uniquement de la politique de sécurité de l'hébergeur. Si votre
-application cette limite bien a l'adresse locale, c'est déjà ça, toutes les 
-requêtes seront émises localement, mais toutes auront la même origine 🤷
+Tout repose uniquement sur la politique de sécurité de l'hébergeur. Si votre
+application se limite bien à l'adresse locale, c'est déjà ça, toutes les 
+requêtes seront émises localement, mais toutes auront la même origine 🤷.
 
 ### YOU wa SOCKET 🤜
 _Ai de sora ga ochite kuru_
@@ -137,7 +137,7 @@ Cela me donne très envie de faire un proxy PHP pour les Unix Socket, mais vu le
 nombre de projets déjà en cours…
 
 ## Finissons bons amis 🫂
-Sur le test de 6 hébergements mutualisé, tous avaient
+Sur le test de 6 hébergements mutualisés, tous avaient
 - Une isolation de mon environnement d'exécution
 - Une isolation de mon espace de travail `cat /proc/<ENV>/mountinfo` contient une ligne `/<ID> /home/<ID>`
 - Pas d'offuscation ou isolation des ports
@@ -148,9 +148,9 @@ avec le temps. Celui-ci n'est malheureusement pas très utile ou recommandé :)
 Je ne saurais que trop vous conseiller d'apprendre à faire du déploiement 
 ServeurLess, même si détourner ces hébergements est intrigant et pratique.
 
-{{% warning `Les hébergements mutualise ne sont pas toujours très transparents
+{{% warning `Les hébergements mutualisés ne sont pas toujours très transparents
 sur ce qu'ils acceptent ou pas. Il est donc nécessaire d'être prudent sur les
-déploiement que vous entreprendrez` %}}
+déploiements que vous entreprendrez` %}}
 
 Comme dit l'adage
 >THERE IS NO CLOUD. It’s just someone else’s computer
