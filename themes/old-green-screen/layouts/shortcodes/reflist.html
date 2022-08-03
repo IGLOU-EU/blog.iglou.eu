@@ -1,0 +1,3 @@
+<ol class="references">{{ range $id, $ref := .Params }}
+    <li id="reference-{{ $id }}" class="reference"><span class="reference_content">{{ $ref | markdownify | safeHTML }}</span></li>{{ end }}
+</ol>

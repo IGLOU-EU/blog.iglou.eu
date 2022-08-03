@@ -2,12 +2,17 @@
 :root {
     --c-dark: #33331a;
     --c-light: #dbf3f4;
+    --c-links: #c2c2ff;
 
     --c-primary: var(--c-light);
     --c-secondary: var(--c-dark);
 
     --ff-monospace: 'Roboto Mono', SFMono-Regular, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     --ff-sans-serif: 'Roboto', "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji", sans-serif;
+}
+
+a {
+    color: var(--c-links);
 }
 
 pre,
@@ -142,7 +147,16 @@ code {
     border-right: none;
 }
 
+.reference:target {
+    font-weight: bold;
+    margin: .5em;
+}
+
 /* ## Specific */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     color: var(--c-primary);
     font-size: 1.2rem;
