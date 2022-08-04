@@ -82,10 +82,10 @@ Il est "impossible" et contre-productif de chercher à produire un logiciel qui 
 Pour corriger un bug, il faut déjà le trouver, pour le trouver, il faut le reproduire, et pour le reproduire, il faut suffisamment d'informations sur le moment où le bug a été détecté. Informations qui sont généralement fournies par des utilisateurs, et donc sont floues, voire erronées et difficiles à interpréter.
 
 ## 😱 Mais alors que faire quand survient un dysfonctionnement ?
-Vous devrez toujours en faire part au développeur, et ce quel que soit le moyen de communication.
-N'oubliez pas d'être courtois et respectueux en vers sa personne et son travail. Comme nous l'avons vu, un bug est normal.
+Vous devrez toujours en faire part au développeur, et ce quelque soit le moyen de communication.
+N'oubliez pas d'être courtois et respectueux envers sa personne et son travail. Comme nous l'avons vu, un bug est normal.
 
-Suivant le niveau de gravité du bug, laissez lui un peu de temps pour prendre connaissance de l'erreur. Vous n'êtes probablement pas son seul client et il peut être en mission. Pour un bug Critique UNIQUEMENT, vous pouvez le relancer toutes les 24h, la vie ou la santé de votre entreprise pouvant en dépendre.
+Suivant le niveau de gravité du bug, laissez lui un peu de temps pour prendre connaissance de l'erreur. Vous n'êtes probablement pas son seul client et il peut être en mission. Pour un bug Critique UNIQUEMENT, vous pouvez le relancer toute les 24h, la vie ou la santé de votre entreprise pouvant en dépendre.
 
 ### En période d'engagement ⏳
 Si vous êtes toujours dans sa période d'engagement, il doit le régler GRATUITEMENT et dans un délai raisonnable suivant le niveau de gravité du bug.
@@ -101,7 +101,7 @@ Il peut cependant y avoir des mentions particulières dans votre contrat de comm
 ### La perversion 🫦
 Je fais beaucoup de connecteur API, du  binding de données entre logiciels qui ne sont bien sûr pas compatibles. C'est passionnant, mais il arrive des comportements inattendus...
 
-Un jour, ou peut être une nuit. Alors que nous avions clôturée une mission sentant bon l'herbe fraiche, un bug critique se déclenchât. Le client me contacta en panique, plus rien ne fonctionne. Je me mets au travail le plus rapidement possible. Après 30 mn, je trouve le coupable. Un des logiciels à synchroniser c'est mis à jour et change l'architecture de sa base de données... Il n'y a pas loin de quatre jours de travail, ce bug demande une évolution, il n'était pas prévisible et n'est pas la faute du client ni du développeur.
+Un jour, ou peut être une nuit. Alors que nous avions clôturé une mission sentant bon l'herbe fraiche, un bug critique se déclenchât. Le client me contacta en panique, plus rien ne fonctionne. Je me mets au travail le plus rapidement possible. Après 30 mn, je trouve le coupable. Un des logiciels à synchroniser c'est mis à jour et change l'architecture de sa base de données... Il n'y a pas loin de quatre jours de travail, ce bug demande une évolution, il n'était pas prévisible et n'est pas la faute du client ni du développeur.
 
 Alors comment résoudre ce type de problème ? Comment cela ce passe ?    
 Vous pouvez choisir de harceler votre développeur, le faire craquer pour qu'il réalise les changements gratuitement et faire en sorte qu'il ne veuille plus jamais travailler avec vous. C'est clairement la pire des idées, que ce soit pour des raisons professionnelles ou humaines...
