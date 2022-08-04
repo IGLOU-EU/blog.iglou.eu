@@ -26,20 +26,20 @@ Ce type de prestation n'est pas du tout le sujet de cet article, principalement 
 Une forme proche du salariat déguisé, n'ayons pas peur des mots et ne nous mentons pas. Je l'apprécie cependant, tout comme le commanditaire. Elle permet, en ce qui me concerne, de conserver la liberté de choix de l'indépendant, tout en ayant une situation "fixe". Et pour lui de me remercier à tous moments 😅
 
 En 4 points cela donne:
-- Facturation au temps de travail (sur base d'un TJM{{% ref `0` %}})
-- TJM de 277€/jours pour un junior front-end a +1010€/jours pour un senior{{% ref `1` %}} (principalement data-scientist et cybersécurité)
+- Facturation au temps de travail (sur base d'un TJM{{% ref 0 %}})
+- TJM de 277€/jours pour un junior front-end a +1010€/jours pour un senior{{% ref 1 %}} (principalement data-scientist et cybersécurité)
 - On est là pour aider au mieux le client à réaliser ses objectifs
 - Pas d'obligation de résultats, s'opère principalement en mode agile
 
 En France, un développeur a moins de 250€/jours, n'est pas forcément mauvais, il peut simplement creuver la dalle et désespérer de trouver un client.   
-Si vous payez un indépendant moins de 140€/jours, cela représente net un salaire inférieur à un serveur McDonald's en France{{% ref `2` %}} ...
+Si vous payez un indépendant moins de 140€/jours, cela représente net un salaire inférieur à un serveur McDonald's en France{{% ref 2 %}} ...
 
 ### La prestation au "forfait" 🥷🏼
 Annoncer une question pour répondre 3 paragraphes plus loin. Il y en a qui abusent vraiment de votre temps !
 
 L'idée, est que le client dit ce qu'il veut, le prestataire réalise un devis avec une date de livraison. Il y a une obligation de résultats, et de test de son code, un objectif final, possible demande de pénalités de retard de livraison, prix ferme… Tout est beau dans le meilleur des mondes. Non, bien sûr que non, il y a souvent des extensions de devis, car le client change d'avis, des retards pour diverses raisons (y compris le client qui ne donne pas les infos requises)...
 
-Il est très rare que ces prestations intègrent de l'assistance ou de la hotline et encore moins inclus à vie 😉 Habituellement, la solution est livrée avec un manuel et/ou de la documentation, une période de rodage/test pendant laquelle le client DOIT valider le bon fonctionnement et le respect de sa demande, ainsi qu'une période durant laquelle le prestataire s'engage à corriger les bugs. Cependant, les clients ont la fâcheuse tendance à ne tester qu'après la mise en production{{% ref `3` %}}, trouvent des "bug" que 1 à 2 ans après la livraison, et les "bugs" en sont rarement de vrais. À maintes reprises, j'ai eu des appels ou des e-mails pour en signaler un, alors que le problème se trouvait manifestement entre son ordinateur et sa chaise.
+Il est très rare que ces prestations intègrent de l'assistance ou de la hotline et encore moins inclus à vie 😉 Habituellement, la solution est livrée avec un manuel et/ou de la documentation, une période de rodage/test pendant laquelle le client DOIT valider le bon fonctionnement et le respect de sa demande, ainsi qu'une période durant laquelle le prestataire s'engage à corriger les bugs. Cependant, les clients ont la fâcheuse tendance à ne tester qu'après la mise en production{{% ref 3 %}}, trouvent des "bug" que 1 à 2 ans après la livraison, et les "bugs" en sont rarement de vrais. À maintes reprises, j'ai eu des appels ou des e-mails pour en signaler un, alors que le problème se trouvait manifestement entre son ordinateur et sa chaise.
 
 Je résumerai ces prestations ainsi :
 - Date de livraison
@@ -52,13 +52,13 @@ Pendant cette période, le ou les prestataires sont libres de travailler comme e
 ## 🗺 Pourquoi payer plus cher, si je peux avoir la même qualité plus loin 
 C'est vrai à 100% ! Il est tout à fait envisageable de travailler avec des personnes en Inde, Chine, et d'autres pays où le prix de la vie est différent. Cela n'entache en rien les capacités de travail de ces populations.
 
-Cependant, il est plus simple de se faire avoir par un prestataire que vous ne pourriez pas assigner en justice. Qui n'est pas dans l'obligation de se soumettre aux lois Européennes ou Françaises. Il est aussi possible d'avoir des problèmes de communication et d'incompréhension (seulement 28% de Français bilingue{{% ref `4` %}} ...) ou de fuseau horaire. `On avait dit le 12 janvier 13h UTC+1 pour la reunion ? A moins que ce ne soit le fuseau horaire du prestataire a Noumea, en UTC+11.`   
+Cependant, il est plus simple de se faire avoir par un prestataire que vous ne pourriez pas assigner en justice. Qui n'est pas dans l'obligation de se soumettre aux lois Européennes ou Françaises. Il est aussi possible d'avoir des problèmes de communication et d'incompréhension (seulement 28% de Français bilingue{{% ref 4 %}} ...) ou de fuseau horaire. `On avait dit le 12 janvier 13h UTC+1 pour la reunion ? A moins que ce ne soit le fuseau horaire du prestataire a Noumea, en UTC+11.`   
 J'ai déjà eu ce genre de problème, et encore, avec des Anglais, donc uniquement une heure de différence.
 
-Dernière problématique, la RGPD et l'exportation des données personnelles. Il est possible que votre demande fasse l'objet d'un traitement de données personnelles, et qu'il soit donc interdit{{% ref `5` %}} de les faire sortir du pays d'origine.
+Dernière problématique, la RGPD et l'exportation des données personnelles. Il est possible que votre demande fasse l'objet d'un traitement de données personnelles, et qu'il soit donc interdit{{% ref 5 %}} de les faire sortir du pays d'origine.
 
 ## 🐞 Qu'est-ce qu'un bug ?
-Dans son livre Design of Design{{% ref `6` %}}, Frederick Brooks définit que `la présence de bugs dans les logiciels n'est pas un accident, mais est due à la nature même des logiciels, autrement dit, il existe des bugs dans les logiciels parce que ce sont des logiciels.`
+Dans son livre Design of Design{{% ref 6 %}}, Frederick Brooks définit que `la présence de bugs dans les logiciels n'est pas un accident, mais est due à la nature même des logiciels, autrement dit, il existe des bugs dans les logiciels parce que ce sont des logiciels.`
 
 Un bug est une erreur dans un programme duquel peut découler un dysfonctionnement plus ou moins grave.
 - Plantage (arrêt inattendu) du programme, voir de la machine 
@@ -66,13 +66,13 @@ Un bug est une erreur dans un programme duquel peut découler un dysfonctionneme
 - Mises en danger divers (explosion, fuite, mort...)
 
 On peut classer les bugs en trois catégories:
-- les mineurs (les plus courants, leurs corrections n'est pas toujours souhaitable)
-- les majeurs (on en trouve toujours dans de sombres recoins du code)
-- les critiques (ne devrait pas arriver en production)
+- les mineurs: Un bug graphique, une mauvaise formulation, du bleu a la place du rouge, mauvaise mise en page... (les plus courants, leurs corrections n'est pas toujours souhaitable)
+- les majeurs: Plantage d'un logiciel non vital, problèmes de modules de payement, et autres erreurs graves, mais pas mortel pour l'entreprise (on en trouve toujours dans de sombres recoins du code)
+- les critiques: Plantage d'un logiciel sensible, faille de sécurité, pertes de données irrécupérables...  (ne devrait pas arriver en production)
 
-Dans le Kernel Linux, il y a une moyenne de 1 bug toutes les 5 000 lignes de code{{% ref `7` %}}. Sur 985 identifier, 259 mineurs, 627 majeurs et 100 critiques et non Windows ou OsX ne font pas mieux. On estime un maximum de 20 bugs pour 1000 lignes de code pour un logiciel commercial. Un logiciel comme WordPress comporte 346 000 lignes de code{{% ref `8` %}} et sa dernière version majeure corrige pas moins de 1000 bugs{{% ref `9` %}}.
+Dans le Kernel Linux, il y a une moyenne de 1 bug toutes les 5 000 lignes de code{{% ref 7 %}}. Sur 985 identifier, 259 mineurs, 627 majeurs et 100 critiques et non Windows ou OsX ne font pas mieux. On estime un maximum de 20 bugs pour 1000 lignes de code pour un logiciel commercial. Un logiciel comme WordPress comporte 346 000 lignes de code{{% ref 8 %}} et sa dernière version majeure 6.0.0, corrige pas moins de 150 bugs{{% ref 9 %}}.
 
-Les bugs mortels ont tendance à se raréfier, grâce à de plus en plus de soin, de tests et de nouvelles approches dans la conception des logiciels. Mais même les plus grosses entreprises peuvent y faire face. En 2009, la Lexus ES350{{% ref `10` %}} pouvait d'un seul coup accélérer à 150km/h en désactivant le système de freinage. Le funeste résultat en fut + de 300 morts.
+Les bugs mortels ont tendance à se raréfier, grâce à de plus en plus de soin, de tests et de nouvelles approches dans la conception des logiciels. Mais même les plus grosses entreprises peuvent y faire face. En 2009, la Lexus ES350{{% ref 10 %}} pouvait d'un seul coup accélérer à 150km/h en désactivant le système de freinage. Le funeste résultat en fut + de 300 morts.
 
 ## 🐛 Je ne veux pas de bug dans mon projet 
 Réponse plus que simple a cette affirmation → `Alors autant ne pas faire ce projet`
@@ -80,6 +80,32 @@ Réponse plus que simple a cette affirmation → `Alors autant ne pas faire ce p
 Il est "impossible" et contre-productif de chercher à produire un logiciel qui ne contient pas de bug. D'autant plus sur les bugs mineurs, qui peuvent être extrêmement long à corriger pour un résultat proche de l'inutile. À moins que votre entreprise soit, bien entendu, dans un secteur particulièrement à risque (et encore, comme vu plus haut, cela ne va pas en empêcher).
 
 Pour corriger un bug, il faut déjà le trouver, pour le trouver, il faut le reproduire, et pour le reproduire, il faut suffisamment d'informations sur le moment où le bug a été détecté. Informations qui sont généralement fournies par des utilisateurs, et donc sont floues, voire erronées et difficiles à interpréter.
+
+## 😱 Mais alors que faire quand survient un dysfonctionnement ?
+Vous devrez toujours en faire part au développeur, et ce quel que soit le moyen de communication.
+N'oubliez pas d'être courtois et respectueux en vers sa personne et son travail. Comme nous l'avons vu, un bug est normal.
+
+Suivant le niveau de gravité du bug, laissez lui un peu de temps pour prendre connaissance de l'erreur. Vous n'êtes probablement pas son seul client et il peut être en mission. Pour un bug Critique UNIQUEMENT, vous pouvez le relancer toutes les 24h, la vie ou la santé de votre entreprise pouvant en dépendre.
+
+### En période d'engagement ⏳
+Si vous êtes toujours dans sa période d'engagement, il doit le régler GRATUITEMENT et dans un délai raisonnable suivant le niveau de gravité du bug.
+En cas de non-respect de cet engagement, il est toujours possible de porter l'affaire en justice. Mais, ce sont des procédures, longues, couteuses, et désagréables.
+
+### Hors période d'engagement ⌛️
+Hors de cette période, vous aurez à payer une prestation pour le traitement du bug. Vous pouvez aussi tomber sur un développeur super gentil qui veut bien vous le faire gratuitement.
+
+Tout comme pour la construction d'une maison, vous ne venez pas 11 ans après pour demander une réparation gratuite, ou un changement que vous auriez voulu avoir au moment de la réalisation de votre bien.
+
+Il peut cependant y avoir des mentions particulières dans votre contrat de commande, permettant de bénéficier d'avantages en cas de problèmes critiques. Mais, c'est un sujet complexe et qui peut demander de se plonger dans le droit. Il faut aussi être réaliste, et ne pas se perdre dans les formulations.
+
+### La perversion 🫦
+Je fais beaucoup de connecteur API, du  binding de données entre logiciels qui ne sont bien sûr pas compatibles. C'est passionnant, mais il arrive des comportements inattendus...
+
+Un jour, ou peut être une nuit. Alors que nous avions clôturée une mission sentant bon l'herbe fraiche, un bug critique se déclenchât. Le client me contacta en panique, plus rien ne fonctionne. Je me mets au travail le plus rapidement possible. Après 30 mn, je trouve le coupable. Un des logiciels à synchroniser c'est mis à jour et change l'architecture de sa base de données... Il n'y a pas loin de quatre jours de travail, ce bug demande une évolution, il n'était pas prévisible et n'est pas la faute du client ni du développeur.
+
+Alors comment résoudre ce type de problème ? Comment cela ce passe ?    
+Vous pouvez choisir de harceler votre développeur, le faire craquer pour qu'il réalise les changements gratuitement et faire en sorte qu'il ne veuille plus jamais travailler avec vous. C'est clairement la pire des idées, que ce soit pour des raisons professionnelles ou humaines...
+La seule solution est de passer à la caisse, demander gentiment au prestataire de faire de son mieux et le plus rapidement possible. Et bien sûr, ne pas faire trainer le devis en espérant que le développeur réalise les changements avant signature par conscience professionnelle.
 
 ## 📚 Sources et définitions
 {{% reflist 
@@ -92,7 +118,7 @@ Pour corriger un bug, il faut déjà le trouver, pour le trouver, il faut le rep
     "[Design of Design](https://isbnsearch.org/isbn/0201362988)"
     "[Nombre de bugs](https://www.wired.com/2004/12/linux-fewer-bugs-than-rivals/)"
     "[Informations WordPress](https://wordpressfoundation.org/projects/)"
-    "[Note de version WordPress 6.0](https://wordpress.org/news/2022/05/arturo/)"
+    "[Corrections de Bugs WordPress 6.0](https://core.trac.wordpress.org/milestone/6.0?by=type)"
     "[Bug mortel chez Toyota](https://www.washingtonpost.com/business/economy/toyota-reaches-12-billion-settlement-to-end-criminal-probe/2014/03/195738a3c4-af69-11e3-9627-c65021d6d572_story.html)"
  %}}
 
