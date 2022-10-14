@@ -216,12 +216,12 @@ code:not([data-lang]) {
     background-color: var(--c-primary);
 }
 
-.article_content__img_src,
 .article_content__img:focus {
-    width: 100%;
+    width: auto;
 }
 
 .article_content__img_src {
+    width: 100%;
     max-height: 50vh;
     object-fit: contain;
 }
