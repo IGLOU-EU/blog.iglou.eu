@@ -1,6 +1,17 @@
 {{ define "main" }}
 <article class="article">
     {{ .Content }}
+
+    {{ if .Params.notes }}
+    <div class="article__notes">
+        <ol class="article__notes__list">
+            {{ range .Params.notes }}
+            <li class="note__item light__link"><em>{{ . | markdownify }}</em></li>
+            {{ end }}
+        </ol>
+    </div>
+    {{ end }}
+
     <aside class="article_comm right">
         <a class="article_comm__email btn inherit right monospace" href="mailto:{{ .Site.Author.email }}?subject=%5BCommentaire%5D+{{ .Title }}&body=Bonjour%20Adrien%2C%0D%0A">M'envoyer un commentaire</a>
         ·

@@ -236,6 +236,12 @@ code:not([data-lang]) {
     margin: auto
 }
 
+.article__notes {
+    font-size: .90em;
+    border-top: 1px solid;
+    padding-top: .5em;
+}
+
 .article_link {
     border: .1em solid var(--c-primary);
     margin: 1em 0;
