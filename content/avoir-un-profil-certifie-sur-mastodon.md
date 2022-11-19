@@ -54,15 +54,15 @@ Pour pallier à ce problème sans toute fois le résoudre totalement, Mastodon d
 
 Si l'on a le choix entre plusieurs personnes qui se nomment `@Mediapart`, comment identifier le compte officiel ? Mediapart a forcément les droits sur son site `mediapart.fr`, ce qui lui permettrait d'afficher sur son profil que le lien vers son site lui appartient effectivement. Ainsi, nous pouvons savoir que le compte est bien l'officiel de Mediapart.
 
-Contrairement aux grands groupes qui se "permettent" de réclamer des papiers d'identité et/ou de l'argent, les instances Mastodon ne peuvent pas le faire. Cela requerraient de l'argent, de la main d'œuvre et une morale douteuse. Mais il est fort probable que de nouvelles procédures de "certification" voient bientot le jour.
+Contrairement aux grands groupes qui se "permettent" de réclamer des papiers d'identité et/ou de l'argent, les instances Mastodon ne peuvent pas le faire. Cela requerraient des moyens financier et humains, ainsi qu'une morale douteuse. Il est fort probable que de nouvelles procédures de "certification" voient bientot le jour.
 
 #### Quel type de modification ? 
-Mastodon vérifie la légitimité de la cible en cherchant sur la page un "lien" de type `rel="me"`. Il propose de mettre en place un lien, mais cette méthode nécessite de l'ajouter  sur votre site internet. Il est aussi possible, a la place, de l'ajouter sous forme de balise link dans le header. J'ai personnellement choisi cette dernière.
+Mastodon vérifie la légitimité de la cible en cherchant sur la page un "lien" de type `rel="me"`. Il propose de mettre en place un `<a>`, mais il est aussi possible, de l'ajouter sous forme de balise link dans le header. J'ai personnellement choisi cette dernière.
 
 - Via un lien : `<a rel="me" href="https://[INSTANCE MASTODON]/@[NOM D'UTILISATEUR]">[NOM DU LIEN]</a>`
 - Via le header : `<link rel="me" href="https://[INSTANCE MASTODON]/@[NOM D'UTILISATEUR]">`
 
-_Voir le bas de page pour des liens vers des tutoriels, pour ajouter le lien sur votre site internet ou votre header._
+_Voir le bas de page pour des tutoriels, ajouter le lien sur votre site internet ou votre header._
 
 #### Ajouter le lien sur votre profil :
 ![Indication visuelle du site mastodon](/images/avoir-un-profil-certifie-sur-mastodon_img-2.jpg "Modifier le profil")
