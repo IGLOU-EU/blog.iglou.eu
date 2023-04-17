@@ -9,7 +9,7 @@ draft: true
 non prévu par les fournisseurs d'hébergement mutualisé. Et ce, affin de passer
 outre les limitations comme le support de langages de script ou binaires` %}}
 
-# 
+# U
 
 L'execution de code peut prendre bien des formes, et meme si les personnes en 
 charge du SAV des fournisseur d'hébergement mutualisé ne semble pas le
