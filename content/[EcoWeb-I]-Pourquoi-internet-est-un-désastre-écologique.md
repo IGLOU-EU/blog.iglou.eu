@@ -1,6 +1,6 @@
 ---
 title: "[EcoWeb I] Pourquoi Internet Est Un Désastre Écologique"
-date: 2022-10-12T12:56:28+02:00
+date: 2023-17-04T12:56:28+02:00
 tags: ["ecoWeb", "eco-conception", "web"]
 ---
 
