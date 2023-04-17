@@ -4,7 +4,7 @@ date: 2023-04-17T12:56:28+02:00
 tags: ["ecoWeb", "eco-conception", "web"]
 ---
 
-{{% warning `Cette série "EcoWeb" ce concentrent sur les sites internet. Et ce, afin d'aider à prendre conscience de leur impact et de voir si il est possible de le réduire. Ces principes peuvent etre appliques aux intranet, webapp...` %}}
+{{% warning `Cette série “EcoWeb” se concentre sur les sites internet. Et ce, afin d’aider à prendre conscience de leur impact et de voir s' il est possible de le réduire. Ces principes peuvent être appliqués aux intranet, webapp…` %}}
 
 # 🌳 L'arbre qui cache la foret de serveur !
 *Sur l'air de C'est ton destin"*   
