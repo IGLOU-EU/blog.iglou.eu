@@ -23,21 +23,21 @@ notes:
 _🎵 Même s'il se lève tôt, sortir de Google_   
 _🎶 En perpétrant son forfait, nul ne perçoit son méfait_   
 _🎵 Déployant son Matomo, rester aveugle_   
-_🎶 Gargantua encore pourra, digérer nos après data_   
+_🎶 Gargantua encore pourra, digérer nos âpre data_   
 
 ![Représentation satirique de Gargantua mangeant un ordinateur](/images/gargantua_eat_computer.png "Gargantua n'a jamais fait d'aussi bon repas")
 
 ## 🥸 Vous avez dit Analytics ?
-Petites data prospères, emmagasinées et stockées, une accumulation obsessionnelle de statistiques personnelles à des fins non définies ! Depuis la mise en place de la réglementation RGPD, Google Analytics a pris du plomb dans l'aile. La fin de cette hérésie de la récolte statistique du côté client, semblait vivre ses dernières heures pour le commun des mortels. Rien ne pouvait me rendre plus joyeux en cet instant. Nous l'avions vu dans un précédent article, moins de 30% des sites sont actifs et mis à jour par leur propriétaire, imaginez le peu de personnes ayant un attrait autre, qu'une curiosité passagère pour les statistiques de visites de leur site. La vision quand bien même agréable de ces graphiques in-intuitif aux demeurant et peu parlant, pour qui n'est pas du métier de l'analyse SEO. Nous avons donc, un gadget, qui, pour une grande majorité, n'aura aucune utilité.
+Petites data prospères, emmagasinées et stockées, une accumulation obsessionnelle de statistiques personnelles à des fins non définies ! Depuis la mise en place de la réglementation RGPD, Google Analytics a pris du plomb dans l'aile. La fin de cette hérésie de la récolte statistique du côté client, semblait vivre ses derniers instants pour le commun des mortels. Rien ne pouvait me rendre plus joyeux en cet heure. Nous l'avions vu dans un précédent article, moins de 30% des sites sont actifs et mis à jour par leur propriétaire, imaginez le peu de personnes ayant un attrait autre, qu'une curiosité passagère pour les statistiques de visites de leur site. La vision quand bien même agréable de ces graphiques in-intuitif aux demeurant, est peu parlant pour qui n'est pas du métier de l'analyse SEO. Nous avons donc, un gadget, qui, pour une grande majorité, n'aura aucune utilité.
 
-Mais les mauvaises habitudes ont la vie dure, il n'en fallut point plus pour que du monde eut envie de se rabattre sur des alternatives, comme le logiciel libre Matomo. N'allez pas vous imaginer que je ne connais pas le sujet, j'eus a déployé Piwik et étudié son code PHP, puis à nouveau quand il changeât de nom pour Matomo. Comme beaucoup, mes armes furent forgées sur Google Analytics, immondice sortie d'insondables profondeurs, fuis à grande vitesse, car depuis toujours, fervent défenseur du logiciel libre.
+Mais les mauvaises habitudes ont la vie dure, il n'en fallut point plus pour que du monde eut envie de se rabattre sur des alternatives, comme le logiciel libre Matomo. N'allez pas vous imaginer que je ne connais pas quelque peu le sujet, j'eus a déployé Piwik et étudié son code PHP, puis à nouveau quand il changeât de nom pour Matomo. Comme beaucoup, mes armes furent forgées sur Google Analytics, immondice sortie d'insondables profondeurs, fuis à grande vitesse, car depuis toujours, fervent défenseur du logiciel libre.
 
 Pratiquant de la sainte doctrine KISS (keep it simple, stupid), j'ai toujours eu à cœur de chercher le plus simple moyen d'effectuer une tâche. Et je dois vous avouer, très honorables lecteurs et lectrices, que de déployer un logiciel, dont il faudra maintenir le service, payer l'hébergement et ajouter une couche JavaScript sur chaque page cible, le tout dans des langages de script (PHP et JavaScript), n'est certes pas la méthode la plus simple, mais pas non plus l'une des plus intellectuellement productive.
 
 ## 🕰 À l'origine
 Il y a bien longtemps, dans un internet oublié de tous, vivait NCSA HTTPd. L'un des premiers, si ce ne fut LE premier serveur web. Avec lui naquirent vers **1993** les prémices de "Common Log Format", un format de fichier texte permettant de conserver les traces des "demandes utilisateur". Avec le temps, il y eu de nouveaux formats comme le "Extended Log Format" qui permet de conserver encore plus d'informations dudit utilisateur.
 
-Voyons un peu une partie de ce qui peut et est enregistré dans ces dits "logs" lors d'une visite d'un outil en ligne :
+Voyons une partie de ce qui peut et est enregistré dans ces dits "logs" lors d'une visite d'un outil en ligne :
 - Date et heure de la visite
 - Adresse IP du client (utilisateur) qui effectue la visite
 - Chemin de l'URL (adresse du site web) visité
@@ -72,7 +72,7 @@ Pour vous autres, par ma barbe, vous disposez probablement de ce que nous avons 
 
 ![Capture d'ecran de l'interface AWStata... moche](/images/awstats_example.png "Exemple des plus parlants")
 
-À cette vision, j'en vois, blêmissant et désireux de retrouver l'art et l'UX de concurrents. Réaction compréhensible, mais bien mal avisé, comme nous l'avons vu, l'effort, le cout et la puissance de calcule global, n'est pas comparable. Remarquez, logiciel libre aidant, proposez vos compétences pour l'évolution visuelle du produit, un ticket fut ouvert pendant la rédaction de cet article par votre serviteur, [suivez le lapin blanc](https://github.com/eldy/AWStats/issues/233).
+À cette vision, j'en vois, blêmissant et désireux de retrouver l'art et l'UX de concurrents. Réaction compréhensible, mais bien mal avisé, comme nous l'avons vu, l'effort, le cout et la puissance de calcule global, n'est pas comparable. Remarquez, logiciel libre aidant, proposez vos compétences pour l'évolution visuelle du produit ! un ticket fut ouvert pendant la rédaction de cet article par votre serviteur, [suivez le lapin blanc](https://github.com/eldy/AWStats/issues/233).
 
 Point n'étant un tuto ~~beauté~~, mais bien une présentation à l'alternative de complexe déploiement, se perdre en plus de palabres n'a aucune pertinences. Sachez cependant deux choses.
 - Les "access log" sont bien souvent disponibles au téléchargement, potentiellement perdu dans les méandres de sous menus ou d'architectures de fichiers via FTP
