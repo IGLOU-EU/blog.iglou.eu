@@ -10,7 +10,7 @@
             </header>
 
             <hr class="hr">
-            <p class="article_link__summary">■ {{.Summary}}</p>
+            <p class="article_link__summary">■ {{if .Description}}{{.Description}}{{else}}{{.Summary}}{{end}}</p>
 
             <footer class="article_link__footer">
                 <aside class="article_link__tags monospace capitalize">
