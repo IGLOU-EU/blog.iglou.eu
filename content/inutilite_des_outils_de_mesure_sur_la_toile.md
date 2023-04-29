@@ -57,7 +57,7 @@ Ces informations, sont enregistrées en une unique ligne par requête (échange 
 ## 💡 Et la lumière fut
 Dans vos cerveaux, partiellement embrumés de méconnaissance, vient probablement de s'allumer la lumière de la compréhension. **OUI MES AMIS**, il était déjà possible, en 93, d'ériger des statistiques de visites, des "Suivi de campagne", des "Données de conversion"... Incroyable n'est-il pas ? Question rhétorique, ne répondez pas.
 
-Afin d'exploiter cette puissance, plusieurs logiciels sont venus au monde. Enfantés par des cercles d'érudits ou d'adolescents dans leur grenier. Comme le célèbre AWStats de la révolution 2000 ou le sublime Goaccess de 2010. Ils ne sont généralement pas limités à la seule étude statistique des sites internet. Offrant, bien souvent, l'avantage de la non-gloutonnerie, en permettant la génération de compte rendu statique, ne nécessitant aucun recours à de complexe ressources. Nous verrons l'incommensurable avantage de ces systèmes dans l'épisode 3 de "Ecoweb", une délicieuse aventure à découvrir entre Chalands.
+Afin d'exploiter cette puissance, plusieurs logiciels sont venus au monde. Enfantés par des cercles d'érudits ou d'adolescents dans leur grenier. Comme le célèbre AWStats de la révolution 2000 ou le sublime Goaccess de 2010. Rarement limités à la seule étude statistique des sites internet. Offrant, bien souvent, l'avantage de la non-gloutonnerie, en permettant la génération de compte rendu statique, ne nécessitant aucun recours à de complexe ressources. Nous verrons l'incommensurable avantage de ces systèmes dans l'épisode 3 de "Ecoweb", une délicieuse aventure à découvrir entre Chalands.
 
 Mais alors, me direz-vous, pourquoi tout ce "nouveau" farda, augmentant de façon exponentielle l'impacte de nos technologies numériques en ligne ? Pourquoi déployer ces autres services et prendre la peine d'ajouter des codes complexe et lourd sur vos sites ? 
 
@@ -73,6 +73,8 @@ Pour vous autres, par ma barbe, vous disposez probablement de ce que nous avons 
 ![Capture d'ecran de l'interface AWStata... moche](/images/awstats_example.png "Exemple des plus parlants")
 
 À cette vision, j'en vois, blêmissant et désireux de retrouver l'art et l'UX de concurrents. Réaction compréhensible, mais bien mal avisé, comme nous l'avons vu, l'effort, le cout et la puissance de calcule global, n'est pas comparable. Remarquez, logiciel libre aidant, proposez vos compétences pour l'évolution visuelle du produit ! un ticket fut ouvert pendant la rédaction de cet article par votre serviteur, [suivez le lapin blanc](https://github.com/eldy/AWStats/issues/233).
+
+GAnalytics a écrasé toute concurrence, avec un profond encrage de nouvelles habitudes. Cela mit partiellement fin à l'évolution des autres approches, expliquant de ce fait leur faible évolution, voir leur disparition de certains fournisseurs d'hébergement peu scrupuleux. Je gage cependant l'apparition d'une nouvelle aire, d'un engouement renouvelé pour ces outils et de nouveaux développements dans le secteur, au même titre que les générateurs de site statique.
 
 Point n'étant un tuto ~~beauté~~, mais bien une présentation à l'alternative de complexe déploiement, se perdre en plus de palabres n'a aucune pertinences. Sachez cependant deux choses.
 - Les "access log" sont bien souvent disponibles au téléchargement, potentiellement perdu dans les méandres de sous menus ou d'architectures de fichiers via FTP
