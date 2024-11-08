@@ -13,8 +13,8 @@
 <meta name="theme-color" content="{{ .Site.Params.color }}" />
 {{ end }}
 
-{{- if .Site.Author.name -}}
-<meta name="author" content="{{ .Site.Author.name }}" />
+{{- if .Site.Params.Author.name -}}
+<meta name="author" content="{{ .Site.Params.Author.name }}" />
 {{ end }}
 
 {{- if .IsPage -}}
@@ -29,7 +29,7 @@
 
 <meta property="article:published_time" content="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}" />
 <meta property="article:modified_time" content="{{.Lastmod.Format "2006-01-02T15:04:05Z07:00"}}" />
-<meta property="article:author" content="{{ .Site.Author.name }}" />
+<meta property="article:author" content="{{ .Site.Params.Author.name }}" />
 <meta property="article:tag" content="{{ delimit .Params.tags " " }}" />
 {{ else -}}
 <meta name="description" content="{{ .Site.Params.description | safeHTML }}" />
@@ -43,8 +43,8 @@
 
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22%3E%3Ctext%20y=%22.9em%22%20font-size=%2290%22%3E💾%3C/text%3E%3C/svg%3E" />
 
-{{- if .Site.Author.mastodon -}}
-<link rel="me" href="{{ .Site.Author.mastodon }}">
+{{- if .Site.Params.Author.mastodon -}}
+<link rel="me" href="{{ .Site.Params.Author.mastodon }}">
 {{ end -}}
 
 <link rel="canonical" href="{{ .Permalink }}" />

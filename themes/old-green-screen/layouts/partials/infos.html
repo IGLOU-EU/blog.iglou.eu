@@ -1,7 +1,7 @@
 {{ if .IsPage }}
 <aside class="infos monospace">
     <span class="infos_by">
-        Par {{ .Site.Author.name }}
+        Par {{ .Site.Params.Author.name }}
     </span>
     <span class="infos_date right">
         Le <time class="article_link__date_format text_neon blue" datetime="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}">{{.Date.Format "02 Jan 2006"}}</time>

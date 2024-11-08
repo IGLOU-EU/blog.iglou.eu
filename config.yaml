@@ -5,19 +5,18 @@ languageCode: 'fr-fr'
 enableGitInfo: true
 defaultContentLanguage: 'fr'
 
-author: 
-    name: 'Adrien K'
-    email: 'adrien@iglou.eu'
-    presentation: 'Avec une formation de photographe et animateur 2D, jʼai, suite à plusieurs mauvaises décisions, pris le chemin de ma deuxième passion, lʼinformatique. Sous Gnu/Linux depuis 1998, premier langage C et script Shell, une passade par flash puis 17 ans de PHP et actuellement sur Go depuis 2019. En passant par JS, Python, Lua...<br><br>☃ Créateur dʼapplication Web et Natives <br>⟳ Automatisations <br>☁ API et Scrapping <br>'
-    site: 'https://iglou.eu'
-    github: 'https://github.com/IGLOU-EU'
-    linkedin: 'https://www.linkedin.com/in/adrien-iglou/'
-    mastodon: 'https://mastodon.social/@norihiori'
-
 params: 
     color: '#dbf3f4'
     locale: 'fr_fr'
     description: 'Le blog dʼun mec dans son iglou de solitude, qui fait des mémentos et autres réflexions à partager.'
+    author: 
+        name: 'Adrien K'
+        email: 'adrien@iglou.eu'
+        presentation: 'Avec une formation de photographe et animateur 2D, jʼai, suite à plusieurs mauvaises décisions, pris le chemin de ma deuxième passion, lʼinformatique. Sous Gnu/Linux depuis 1998, premier langage C et script Shell, une passade par flash puis 17 ans de PHP et actuellement sur Go depuis 2019. En passant par JS, Python, Lua...<br><br>☃ Créateur dʼapplication Web et Natives <br>⟳ Automatisations <br>☁ API et Scrapping <br>'
+        site: 'https://iglou.eu'
+        github: 'https://github.com/IGLOU-EU'
+        linkedin: 'https://www.linkedin.com/in/adrien-iglou/'
+        mastodon: 'https://mastodon.social/@norihiori'
 
 # Configuration for production environment
 environment: production
