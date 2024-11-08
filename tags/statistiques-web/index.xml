@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statistiques web on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/statistiques-web/</link><description>Recent content in Statistiques web on Blog Iglou.eu</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Thu, 27 Apr 2023 15:25:53 +0200</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/statistiques-web/index.xml" rel="self" type="application/rss+xml"/><item><title>Pourquoi Matomo ne devrait pas être votre alternative à Google Analytics</title><link>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</link><pubDate>Thu, 27 Apr 2023 15:25:53 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</guid><description>📊 De l&amp;rsquo;inutilité des outils de mesure statistiques sur la toile 🎵 Même s&amp;rsquo;il se lève tôt, sortir de Google
-🎶 En perpétrant son forfait, nul ne perçoit son méfait
-🎵 Déployant son Matomo, rester aveugle
-🎶 Gargantua encore pourra, digérer nos âpre data
-Gargantua n&amp;rsquo;a jamais fait d&amp;rsquo;aussi bon repas 🥸 Vous avez dit Analytics ? Petites data prospères, emmagasinées et stockées, une accumulation obsessionnelle de statistiques personnelles à des fins non définies !</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statistiques Web on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/statistiques-web/</link><description>Recent content in Statistiques Web on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Fri, 08 Nov 2024 15:43:47 +0100</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/statistiques-web/index.xml" rel="self" type="application/rss+xml"/><item><title>Pourquoi Matomo ne devrait pas être votre alternative à Google Analytics</title><link>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</link><pubDate>Thu, 27 Apr 2023 15:25:53 +0200</pubDate><guid>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</guid><description>&lt;h1 id="-de-linutilité-des-outils-de-mesure-statistiques-sur-la-toile">📊 De l&amp;rsquo;inutilité des outils de mesure statistiques sur la toile&lt;/h1>
+&lt;p>&lt;em>🎵 Même s&amp;rsquo;il se lève tôt, sortir de Google&lt;/em>&lt;br>
+&lt;em>🎶 En perpétrant son forfait, nul ne perçoit son méfait&lt;/em>&lt;br>
+&lt;em>🎵 Déployant son Matomo, rester aveugle&lt;/em>&lt;br>
+&lt;em>🎶 Gargantua encore pourra, digérer nos âpre data&lt;/em>&lt;/p>
+&lt;p>&lt;/p>
+&lt;figure class="article_content__img" tabindex="0">
+ &lt;img src="https://blog.iglou.eu/images/gargantua_eat_computer.png" alt="Représentation satirique de Gargantua mangeant un ordinateur" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+ 
+ &lt;figcaption class="article_content__img_desc">
+ Gargantua n&amp;rsquo;a jamais fait d&amp;rsquo;aussi bon repas
+ &lt;/figcaption>
+ 
+&lt;/figure>
+&lt;p>&lt;/p>
+&lt;h2 id="-vous-avez-dit-analytics-">🥸 Vous avez dit Analytics ?&lt;/h2>
+&lt;p>Petites data prospères, emmagasinées et stockées, une accumulation obsessionnelle de statistiques personnelles à des fins non définies ! Depuis la mise en place de la réglementation RGPD, Google Analytics a pris du plomb dans l&amp;rsquo;aile. La fin de cette hérésie de la récolte statistique du côté client, semblait vivre ses dernières heures pour le commun des mortels. Rien ne pouvait me rendre plus joyeux en cet instant. Nous l&amp;rsquo;avions vu dans un précédent article, moins de 30% des sites sont actifs et mis à jour par leur propriétaire, imaginez le peu de personnes ayant un attrait autre, qu&amp;rsquo;une curiosité passagère pour les statistiques de visites de leur site. La vision quand bien même agréable de ces graphiques in-intuitif aux demeurant et peu parlant, pour qui n&amp;rsquo;est pas du métier de l&amp;rsquo;analyse SEO. Nous avons donc, un gadget, qui, pour une grande majorité, n&amp;rsquo;aura aucune utilité.&lt;/p></description></item></channel></rss>

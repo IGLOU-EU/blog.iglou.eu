@@ -1,8 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>graphisme on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/graphisme/</link><description>Recent content in graphisme on Blog Iglou.eu</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Thu, 13 Mar 2014 17:27:00 +0000</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/graphisme/index.xml" rel="self" type="application/rss+xml"/><item><title>Aseprite, le libre du PixelArt</title><link>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</link><pubDate>Thu, 13 Mar 2014 17:27:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</guid><description>Cet article est issu d&amp;rsquo;une importation historique.
-Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible. EDIT : Aseprite Aseprite étant sous licence propriétaire depuis 2016, un fork a vu le jour sous le nom de
-LibeSprite 😘 Aseprite est un logiciel Libre et OpenSource destiné au PixelArt.
-Image du jeux &amp;quot;Catacomb Snatch&amp;quot;, réalisé avec Aseprite. Apres avoir testé bon nombre de ses logiciel spécialisé, mais aussi des tentatives raté via Gimp, Photoshop, etc &amp;hellip; Je peux vous affirmer que celui ci est adapté.</description></item><item><title>Un remplaçant a Photoshop.</title><link>https://blog.iglou.eu/un-remplacant-photoshop/</link><pubDate>Tue, 02 Apr 2013 02:22:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/un-remplacant-photoshop/</guid><description>Cet article est issu d&amp;rsquo;une importation historique.
-Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible. Krita
-Il a tout d&amp;rsquo;un grand et fait tout comme un grand !
-Krita est un logiciel de traitement d&amp;rsquo;image au même titre que photoshop, gimp &amp;hellip;
-Krita s&amp;rsquo;appuie sur Calligra , qui est une suite bureautique développé pour l&amp;rsquo;environnement de bureau KDE.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Graphisme on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/graphisme/</link><description>Recent content in Graphisme on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Thu, 07 Apr 2022 22:41:21 +0200</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/graphisme/index.xml" rel="self" type="application/rss+xml"/><item><title>Aseprite, le libre du PixelArt</title><link>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</link><pubDate>Thu, 13 Mar 2014 17:27:00 +0000</pubDate><guid>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;hr>
+&lt;div class="box warning monospace">&lt;span>&lt;strong>EDIT&lt;/strong> : Aseprite Aseprite étant sous licence propriétaire depuis
+2016, un fork a vu le jour sous le nom de&lt;br>
+&lt;a href="https://libresprite.github.io/#!/" class="article_content__link link inherit" rel="noreferrer nofollow noopener">LibeSprite&lt;/a> 😘&lt;/span>&lt;/div>
+&lt;p>Aseprite est un logiciel &lt;strong>Libre&lt;/strong> et &lt;strong>OpenSource&lt;/strong> destiné au PixelArt.&lt;/p>
+&lt;p>&lt;/p>
+&lt;figure class="article_content__img" tabindex="0">
+ &lt;img src="https://blog.iglou.eu/images/546537-the-humble-bundle-mojam-windows-screenshot-catacomb-snatch.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+ 
+ &lt;figcaption class="article_content__img_desc">
+ Image du jeux &amp;quot;Catacomb Snatch&amp;quot;, réalisé avec Aseprite.
+ &lt;/figcaption>
+ 
+&lt;/figure>
+&lt;p>&lt;/p></description></item><item><title>Un remplaçant a Photoshop.</title><link>https://blog.iglou.eu/un-remplacant-photoshop/</link><pubDate>Tue, 02 Apr 2013 02:22:00 +0000</pubDate><guid>https://blog.iglou.eu/un-remplacant-photoshop/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;strong>Krita&lt;/strong>&lt;/p>
+&lt;p>&lt;/p>
+&lt;figure class="article_content__img" tabindex="0">
+ &lt;img src="https://blog.iglou.eu/images/doc.ubuntu-fr.org-_media-applications-kde-koffice-krita.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+ 
+&lt;/figure>
+&lt;p>&lt;/p>
+&lt;p>Il a tout d&amp;rsquo;un grand et fait tout comme un grand !&lt;/p>
+&lt;p>Krita est un logiciel de traitement d&amp;rsquo;image au même titre que photoshop, gimp &amp;hellip;&lt;/p>
+&lt;p>Krita s&amp;rsquo;appuie sur Calligra , qui est une suite bureautique développé pour l&amp;rsquo;environnement de bureau KDE.&lt;/p></description></item></channel></rss>
