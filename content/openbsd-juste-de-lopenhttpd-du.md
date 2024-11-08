@@ -3,7 +3,7 @@ title = "[OpenBSD] Juste de l'OpenHttpd, du LuaPatterns et du Let's encrypt"
 slug = "openbsd-juste-de-lopenhttpd-du"
 date = 2018-08-02T20:18:00Z
 updated = 2018-08-02T20:18:04Z
-tags = ["BSD", "Serveur", "memo"]
+tags = ["bsd", "serveur", "memo"]
 blogimport = true
 +++
 

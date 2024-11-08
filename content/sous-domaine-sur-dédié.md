@@ -3,7 +3,7 @@ title = "Sous domaine sur dédié"
 slug = ""
 date = 2012-11-29T14:03:00Z
 updated = 2013-08-06T15:57:42Z
-tags = ["Serveur"]
+tags = ["serveur"]
 blogimport = true
 +++
 

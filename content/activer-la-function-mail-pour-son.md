@@ -3,7 +3,7 @@ title = "Activer la function mail() pour son serveur php"
 slug = "activer-la-function-mail-pour-son"
 date = 2012-08-02T20:13:00Z
 updated = 2013-08-06T16:08:23Z
-tags = ["Serveur", "memo"]
+tags = ["serveur", "memo"]
 blogimport = true
 +++
 

@@ -3,7 +3,7 @@ title: "Avoir un profil certifié sur Mastodon"
 miniature: /images/avoir-un-profil-certifie-sur-mastodon_img-1.jpg
 description: Petit guide et explication sur la certification de profil et son importance sur Mastodon.
 date: 2022-11-18T18:34:21+02:00
-tags: ["Mastodon", "Social"]
+tags: ["mastodon", "social"]
 notes:
   - "[Aide de mastodon en francais](https://mastodon.help/fr)"
   - "[Partie head en HTML](https://developer.mozilla.org/fr/docs/Web/HTML/Element/head)"

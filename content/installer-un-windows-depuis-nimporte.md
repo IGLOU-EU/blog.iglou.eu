@@ -3,7 +3,7 @@ title = "Installer un Windows depuis \"n'importe\" quel OS"
 slug = "installer-un-windows-depuis-nimporte"
 date = 2017-05-24T11:18:00Z
 updated = 2017-05-24T11:18:42Z
-tags = ["BSD", "linux", "OS X"]
+tags = ["bsd", "linux", "os x"]
 blogimport = true
 +++
 

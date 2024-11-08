@@ -1,7 +1,7 @@
 ---
 title: "[EcoWeb I] Pourquoi Internet Est Un Désastre Écologique"
 date: 2023-04-17T12:56:28+02:00
-tags: ["ecoWeb", "eco-conception", "web"]
+tags: ["eco-web", "eco-conception", "web"]
 ---
 
 {{% warning `Cette série “EcoWeb” se concentre sur les sites internet. Et ce, afin d’aider à prendre conscience de leur impact et de voir s' il est possible de le réduire. Ces principes peuvent être appliqués aux intranet, webapp…` %}}

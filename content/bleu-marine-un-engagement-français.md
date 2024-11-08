@@ -1,7 +1,7 @@
 ---
 title: "Bleu Marine Un Engagement Français"
 date: 2022-04-18T12:54:58+02:00
-tags: [hs]
+tags: ["hs"]
 ---
 
 <style>

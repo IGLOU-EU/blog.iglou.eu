@@ -13,8 +13,8 @@
         Lecture {{div .FuzzyWordCount 150}} minutes
     </span>
     <span class="infos_tags capitalize right">
-        {{range .Params.tags}}
-        <a class="article_link__tag link important {{.}}" href="/tags/{{.}}/">{{.}}</a>
+        {{ range (.GetTerms "tags") }}
+        <a class="article_link__tag link important {{ .RelPermalink }}" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
         {{end}}
     </span>
 </aside>

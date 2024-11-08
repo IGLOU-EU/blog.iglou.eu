@@ -3,7 +3,7 @@ title = "Un peu d'OS X (les bases)"
 slug = "un-peu-dos-x-les-bases"
 date = 2012-01-16T10:30:00Z
 updated = 2013-08-06T15:50:49Z
-tags = ["OS X"]
+tags = ["os x"]
 blogimport = true
 +++
 

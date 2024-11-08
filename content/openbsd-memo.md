@@ -3,7 +3,7 @@ title = "OpenBSD Memo"
 slug = "openbsd-memo"
 date = 2013-05-31T16:15:00Z
 updated = 2013-08-06T16:01:07Z
-tags = ["BSD"]
+tags = ["bsd"]
 blogimport = true
 +++
 
