@@ -22,6 +22,10 @@
 <!-- Include Open Graph metadata template for social media sharing -->
 {{ template "_internal/opengraph.html" . }}
 
+{{- with or .Params.miniature }}
+    <meta property="og:image" content="{{ . }}">
+{{- end }}
+
 <!-- Link to RSS feed if available -->
 {{ partialCached "head/rss.html" . }}
 
