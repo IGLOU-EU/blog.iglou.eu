@@ -11,7 +11,7 @@ menu:
       weight: 1
 
 params: 
-  icon: 'data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22%3E%3Ctext%20y=%22.9em%22%20font-size=%2290%22%3E💾%3C/text%3E%3C/svg%3E'
+  icon: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIj7wn5K+PC90ZXh0Pjwvc3ZnPg=='
   color: '#dbf3f4'
   locale: fr_fr
   description: Le blog d'un mec dans son iglou, qui écrit des trucs.
