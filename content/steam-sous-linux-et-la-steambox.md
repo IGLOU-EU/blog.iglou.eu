@@ -2,7 +2,7 @@
 title = "Steam sous linux Et la SteamBox"
 slug = "steam-sous-linux-et-la-steambox"
 date = 2013-03-04T02:30:00Z
-updated = 2013-08-06T16:05:25Z
+lastmod = 2013-08-06T16:05:25Z
 tags = ["hardware", "linux", "software"]
 blogimport = true
 +++

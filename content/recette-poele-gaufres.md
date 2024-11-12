@@ -2,7 +2,7 @@
 title = "[recette] Poêle à gaufres"
 slug = "recette-poele-gaufres"
 date = 2015-11-27T16:07:00Z
-updated = 2015-11-27T16:08:00Z
+lastmod = 2015-11-27T16:08:00Z
 tags = ["cuisine"]
 blogimport = true
 +++

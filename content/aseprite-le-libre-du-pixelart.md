@@ -2,7 +2,7 @@
 title = "Aseprite, le libre du PixelArt"
 slug = "aseprite-le-libre-du-pixelart"
 date = 2014-03-13T17:27:00Z
-updated = 2014-04-07T17:27:00Z
+lastmod = 2014-04-07T17:27:00Z
 tags = ["software", "graphisme"]
 blogimport = true
 +++

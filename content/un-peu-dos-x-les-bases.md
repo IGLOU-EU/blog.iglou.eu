@@ -2,7 +2,7 @@
 title = "Un peu d'OS X (les bases)"
 slug = "un-peu-dos-x-les-bases"
 date = 2012-01-16T10:30:00Z
-updated = 2013-08-06T15:50:49Z
+lastmod = 2013-08-06T15:50:49Z
 tags = ["os x"]
 blogimport = true
 +++
@@ -10,7 +10,7 @@ blogimport = true
 {{% warning `Cet article est issu d'une importation historique.<br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.` %}}
 
 Il est rare pour moi d'avoir a toucher a un terminal de l'Os a la pomme.
-L'Os a la pomme (pourie) et les "Linux" on beaucoup de commandes en commun. Pourquoi ? Car ils sont tout deux basé sur "UNIX" et vous le savez (oui oui).
+L'Os a la pomme (pourie) et les Gnu/Linux on beaucoup de commandes en commun. Pourquoi ? Car ils sont tout deux des "UNIX Like" et vous le savez (oui oui).
 Au passage il n'est plus correcte de parler de "MAC" pour désigner cette l'Os, la ligné "MAC" n’étant pas "UNIX" comparé a "MAC OS X"
 
 ### Les bases

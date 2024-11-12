@@ -2,7 +2,7 @@
 title = "Archlinux passé au papercraft"
 slug = "archlinux-passe-au-papercraft"
 date = 2012-01-10T13:30:00Z
-updated = 2013-08-06T16:03:54Z
+lastmod = 2013-08-06T16:03:54Z
 tags = ["linux"]
 blogimport = true
 +++

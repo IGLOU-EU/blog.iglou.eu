@@ -2,7 +2,7 @@
 title = "Un remplaçant a Photoshop."
 slug = "un-remplacant-photoshop"
 date = 2013-04-02T02:22:00Z
-updated = 2013-08-06T15:59:08Z
+lastmod = 2013-08-06T15:59:08Z
 tags = ["graphisme"]
 blogimport = true
 +++

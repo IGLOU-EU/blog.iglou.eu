@@ -2,7 +2,7 @@
 title = "Candy Box 2"
 slug = "candy-box-2"
 date = 2014-03-12T16:49:00Z
-updated = 2014-03-12T16:49:00Z
+lastmod = 2014-03-12T16:49:00Z
 tags = ["jeux"]
 blogimport = true
 +++

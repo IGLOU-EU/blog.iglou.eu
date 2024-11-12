@@ -2,7 +2,7 @@
 title = "Utiliser Screen et résoudre \"No more PTY\""
 slug = ""
 date = 2013-01-22T16:07:00Z
-updated = 2013-08-06T16:05:43Z
+lastmod = 2013-08-06T16:05:43Z
 tags = ["linux", "memo"]
 blogimport = true
 +++

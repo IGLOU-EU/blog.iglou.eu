@@ -2,7 +2,7 @@
 title = "L'informatique c'est pas si cher [Partie 2]"
 slug = ""
 date = 2012-11-09T04:07:00Z
-updated = 2013-08-06T15:46:31Z
+lastmod = 2013-08-06T15:46:31Z
 tags = ["hardware"]
 blogimport = true
 +++

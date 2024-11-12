@@ -2,7 +2,7 @@
 title = "[TEST] KingFast F8 120GB / Du ssd 100% chinoi, ça donne quoi ?"
 slug = "test-kingfast-f8-120gb-du-ssd-100"
 date = 2014-10-18T16:51:00Z
-updated = 2014-10-20T12:22:43Z
+lastmod = 2014-10-20T12:22:43Z
 tags = ["hardware"]
 blogimport = true
 +++

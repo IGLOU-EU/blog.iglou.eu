@@ -2,7 +2,7 @@
 title = "Utiliser un Terminal Linux et le comprendre"
 slug = "utiliser-un-terminal-linux-et-le"
 date = 2013-04-17T18:37:00Z
-updated = 2014-03-11T20:27:03Z
+lastmod = 2014-03-11T20:27:03Z
 tags = ["linux"]
 blogimport = true
 +++

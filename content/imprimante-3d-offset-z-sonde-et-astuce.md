@@ -2,7 +2,7 @@
 title = "[Imprimante 3D] Offset Z, Sonde et astuce ATX"
 slug = "imprimante-3d-offset-z-sonde-et-astuce"
 date = 2018-02-03T00:22:00Z
-updated = 2018-02-03T01:05:09Z
+lastmod = 2018-02-03T01:05:09Z
 tags = ["hardware", "reprap"]
 blogimport = true
 +++

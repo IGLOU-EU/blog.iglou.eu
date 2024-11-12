@@ -2,7 +2,7 @@
 title = "Archlinux mini memo (partie 3)"
 slug = "archlinux-mini-memo-partie-3"
 date = 2012-01-13T10:30:00Z
-updated = 2013-08-06T16:08:50Z
+lastmod = 2013-08-06T16:08:50Z
 tags = ["linux", "memo"]
 blogimport = true
 +++

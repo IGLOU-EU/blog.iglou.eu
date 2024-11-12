@@ -2,7 +2,7 @@
 title = "Ecouter de la musique"
 slug = "ecouter-de-la-musique"
 date = 2012-01-26T02:56:00Z
-updated = 2013-08-06T15:52:51Z
+lastmod = 2013-08-06T15:52:51Z
 tags = ["musique"]
 blogimport = true
 +++

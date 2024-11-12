@@ -2,7 +2,7 @@
 title = "Présentation et première astuce"
 slug = "presentation-et-premiere-astuce"
 date = 2011-12-14T18:09:00Z
-updated = 2013-08-06T16:04:08Z
+lastmod = 2013-08-06T16:04:08Z
 tags = ["news"]
 blogimport = true
 +++

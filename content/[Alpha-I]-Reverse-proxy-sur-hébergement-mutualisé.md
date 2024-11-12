@@ -3,7 +3,7 @@ title: "[Alpha I] Reverse Proxy Sur Hébergement Mutualisé"
 description: "Du reverse proxy pour code arbitraire sur hébergement mutualisé"
 miniature: "/images/865675824.jpg"
 date: 2022-04-07T00:42:19+02:00
-updated: 2023-11-04T13:52:46+01:00
+lastmod: 2023-11-04T13:52:46+01:00
 tags: ["alpha", "hébergement mutualisé", "niveau:intermédiaire"]
 notes:
     - "[rewrite flag P](https://httpd.apache.org/docs/trunk/fr/rewrite/flags.html#flag_p)"

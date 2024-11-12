@@ -2,7 +2,7 @@
 title = "Heltec e-ink 1.54\" avec Arduino UNO"
 slug = "heltec-e-ink-154-avec-arduino-uno"
 date = 2019-03-18T13:17:00Z
-updated = 2019-03-18T21:40:24Z
+lastmod = 2019-03-18T21:40:24Z
 tags = ["hardware", "programmation"]
 blogimport = true
 +++

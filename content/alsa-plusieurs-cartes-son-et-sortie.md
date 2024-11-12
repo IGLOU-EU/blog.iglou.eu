@@ -2,7 +2,7 @@
 title = "Alsa plusieurs cartes son et sortie audio USB"
 slug = "alsa-plusieurs-cartes-son-et-sortie"
 date = 2014-03-11T14:33:00Z
-updated = 2014-03-16T18:26:39Z
+lastmod = 2014-03-16T18:26:39Z
 tags = ["linux"]
 blogimport = true
 +++

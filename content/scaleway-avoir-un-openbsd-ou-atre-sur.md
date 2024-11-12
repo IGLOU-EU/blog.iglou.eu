@@ -2,7 +2,7 @@
 title = "[Scaleway] Avoir un OpenBSD (ou autre) sur les serveurs Scaleway"
 slug = "scaleway-avoir-un-openbsd-ou-autre-sur"
 date = 2018-05-11T16:00:00Z
-updated = 2018-05-14T11:37:53Z
+lastmod = 2018-05-14T11:37:53Z
 tags = ["bsd", "serveur"]
 blogimport = true
 +++

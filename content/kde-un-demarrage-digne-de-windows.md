@@ -2,7 +2,7 @@
 title = "KDE, un démarrage digne de windows."
 slug = "kde-un-demarrage-digne-de-windows"
 date = 2012-11-09T02:15:00Z
-updated = 2013-08-06T16:08:06Z
+lastmod = 2013-08-06T16:08:06Z
 tags = ["linux", "software"]
 blogimport = true
 +++

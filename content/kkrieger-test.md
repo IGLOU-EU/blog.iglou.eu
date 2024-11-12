@@ -2,7 +2,7 @@
 title = ".kkrieger [Test]"
 slug = "kkrieger-test"
 date = 2013-04-19T00:59:00Z
-updated = 2013-08-06T16:00:36Z
+lastmod = 2013-08-06T16:00:36Z
 tags = ["jeux"]
 blogimport = true
 +++

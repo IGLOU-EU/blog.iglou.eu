@@ -2,7 +2,7 @@
 title = "[Alsa+Dmix] Mixer les sources pour plusieurs cartes"
 slug = "alsa-mixer-les-sources-avec-plusieurs"
 date = 2014-03-16T22:44:00Z
-updated = 2014-03-17T18:17:55Z
+lastmod = 2014-03-17T18:17:55Z
 tags = ["linux"]
 blogimport = true
 +++

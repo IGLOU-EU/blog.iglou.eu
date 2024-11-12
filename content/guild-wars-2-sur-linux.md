@@ -2,7 +2,7 @@
 title = "Guild wars 2 sur Linux"
 slug = "guild-wars-2-sur-linux"
 date = 2013-03-18T05:00:00Z
-updated = 2013-08-06T16:04:52Z
+lastmod = 2013-08-06T16:04:52Z
 tags = ["jeux", "linux"]
 blogimport = true
 +++

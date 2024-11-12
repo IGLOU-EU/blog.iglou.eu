@@ -2,7 +2,7 @@
 title = "Les Blaze sont nos amis !"
 slug = "les-blaze-sont-nos-amis"
 date = 2012-01-11T10:00:00Z
-updated = 2013-08-06T16:03:31Z
+lastmod = 2013-08-06T16:03:31Z
 tags = ["jeux"]
 blogimport = true
 +++

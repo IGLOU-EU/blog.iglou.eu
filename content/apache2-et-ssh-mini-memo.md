@@ -2,7 +2,7 @@
 title = "Apache2 et ssh, mini memo"
 slug = ""
 date = 2012-11-14T05:56:00Z
-updated = 2013-08-06T16:07:32Z
+lastmod = 2013-08-06T16:07:32Z
 tags = ["serveur", "memo"]
 blogimport = true
 +++

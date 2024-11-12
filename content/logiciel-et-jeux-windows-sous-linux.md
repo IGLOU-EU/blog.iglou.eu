@@ -2,7 +2,7 @@
 title = "Logiciel et Jeux Windows sous Linux avec wine"
 slug = "logiciel-et-jeux-windows-sous-linux"
 date = 2013-04-14T16:56:00Z
-updated = 2013-08-06T15:59:35Z
+lastmod = 2013-08-06T15:59:35Z
 tags = ["jeux", "software"]
 blogimport = true
 +++

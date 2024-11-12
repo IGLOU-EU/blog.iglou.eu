@@ -2,7 +2,7 @@
 title = "Une solution a la lenteur de YouTube"
 slug = "une-solution-la-lenteur-de-youtube"
 date = 2013-03-05T02:31:00Z
-updated = 2013-08-06T15:58:22Z
+lastmod = 2013-08-06T15:58:22Z
 tags = ["memo"]
 blogimport = true
 +++

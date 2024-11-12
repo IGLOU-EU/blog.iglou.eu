@@ -2,7 +2,7 @@
 title = "[PHP] $_SESSION = array(), session_unset et session_destroy()"
 slug = "php-session-array-sessionunset-et"
 date = 2015-03-24T18:30:00Z
-updated = 2015-03-24T19:59:36Z
+lastmod = 2015-03-24T19:59:36Z
 tags = ["programmation"]
 blogimport = true
 +++

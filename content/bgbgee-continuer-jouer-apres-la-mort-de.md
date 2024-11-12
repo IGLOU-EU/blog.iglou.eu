@@ -2,7 +2,7 @@
 title = "[BG/BGEE] Continuer à jouer apres la mort de Sarevok"
 slug = "bgbgee-continuer-jouer-apres-la-mort-de"
 date = 2014-06-25T01:26:00Z
-updated = 2014-06-25T09:23:28Z
+lastmod = 2014-06-25T09:23:28Z
 tags = ["jeux"]
 blogimport = true
 +++

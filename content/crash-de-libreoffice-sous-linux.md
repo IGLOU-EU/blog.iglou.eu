@@ -2,7 +2,7 @@
 title = "Crash de LibreOffice sous Linux"
 slug = "crash-de-libreoffice-sous-linux"
 date = 2014-01-16T04:59:00Z
-updated = 2014-01-16T04:59:16Z
+lastmod = 2014-01-16T04:59:16Z
 tags = ["linux", "software"]
 blogimport = true
 +++

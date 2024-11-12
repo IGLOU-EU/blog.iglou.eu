@@ -2,7 +2,7 @@
 title = "Erreur scanner Epson et Xsane"
 slug = "erreur-scanner-epson-et-xsane"
 date = 2013-04-16T13:56:00Z
-updated = 2013-08-06T16:02:15Z
+lastmod = 2013-08-06T16:02:15Z
 tags = ["software"]
 blogimport = true
 +++

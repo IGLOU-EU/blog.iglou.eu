@@ -2,7 +2,7 @@
 title = "[PHP] Utiliser ncurse pour des petits projets php"
 slug = "php-utiliser-ncurse-pour-des-petits"
 date = 2015-11-30T09:00:00Z
-updated = 2015-11-30T09:00:11Z
+lastmod = 2015-11-30T09:00:11Z
 tags = ["programmation"]
 blogimport = true
 +++

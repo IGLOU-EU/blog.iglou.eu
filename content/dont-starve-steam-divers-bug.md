@@ -2,7 +2,7 @@
 title = "Don't Starve Steam - Divers bug !"
 slug = "dont-starve-steam-divers-bug"
 date = 2013-05-11T19:52:00Z
-updated = 2013-08-06T16:00:51Z
+lastmod = 2013-08-06T16:00:51Z
 tags = ["jeux"]
 blogimport = true
 +++
