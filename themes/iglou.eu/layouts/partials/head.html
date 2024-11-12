@@ -23,7 +23,7 @@
 {{ template "_internal/opengraph.html" . }}
 
 {{- with or .Params.miniature }}
-    <meta property="og:image" content="{{ . }}">
+    <meta property="og:image" content="{{ absURL . }}">
 {{- end }}
 
 <!-- Link to RSS feed if available -->
