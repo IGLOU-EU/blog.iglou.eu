@@ -1,0 +1,11 @@
+{{ if and (not .Destination) (findRE "^\\d+(?:,\\d+)*$" .Text) }}
+    <sup class="reference cite">
+    {{- range $i, $v := split .Text "," -}}
+        <a href="#ref-{{ $v }}">{{ if (ne $i 0) }},{{ end }}{{ $v }}</a>
+    {{- end -}}
+    </sup>
+{{ else if strings.HasPrefix .Destination "http" }} 
+    <a href="{{ .Destination | safeURL }}" {{ with .Title}} title="{{ . }}" {{ end }} class="external-link" rel="noreferrer nofollow noopener" target="_blank" >{{ .Text | safeHTML }}</a>
+{{ else }}
+    <a href="{{ .Destination | safeURL }}" {{ with .Title}} title="{{ . }}" {{ end }} class="internal-link">{{ .Text | safeHTML }}</a>
+{{ end }}

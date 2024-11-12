@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ or site.Language.LanguageCode site.Language.Lang }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+  {{ partial "head.html" . }}
+</head>
+
+<body>
+  {{ block "floating_widget" . }}{{ end }}
+  
+  <header class="site-header">
+    {{ partial "header.html" . }}
+  </header>
+  <main class="content-main {{ .BundleType }}">
+    <div class="top_panel">
+      {{ block "top_panel" . }}{{ end }}
+    </div>
+    <div class="left_panel">
+      {{ block "left_panel" . }}{{ end }}
+    </div>
+    <div class="right_panel">
+      {{ block "right_panel" . }}{{ end }}
+    </div>
+  </main>
+  <footer class="site-footer">
+    {{ partial "footer.html" . }}
+  </footer>
+</body>
+
+</html>

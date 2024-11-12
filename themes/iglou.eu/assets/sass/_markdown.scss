@@ -1,0 +1,56 @@
+.markdown {
+    blockquote {
+        color: var(--color-article-quote-text);
+        padding: 0 1em;
+        border-left: .25em solid var(--color-article-quote-border);
+        background-color: var(--color-article-quote-background);
+        border-radius: 0 .5em .5em 0;
+
+        cite {
+            font-style: italic;
+            font-size: 0.8em;
+        }
+    }
+
+    code {
+        background-color: var(--color-article-code-background);
+        border-radius: 3px;
+        font-size: 85%;
+        margin: 0;
+        padding: .2em .4em;
+    }
+
+    pre {
+        background-color: var(--color-article-pre-background);
+        border-radius: 3px;
+        font-size: 85%;
+        line-height: 1.45;
+        overflow: auto;
+        padding: 16px;
+
+        code {
+            background-color: unset;
+        }
+    }
+
+    .external-link::after {
+        content: " [⤤]";
+        font-size: .5em;
+        font-style: italic;
+        vertical-align: super;
+    }
+
+    .article-img {
+        margin: 0;
+        background-color: var(--color-article-figure-background);
+        color: var(--color-article-figure-text);
+        text-align: center;
+        border-radius: 1em;
+        overflow: hidden;
+
+        .img-desc {
+            font-style: italic;
+            padding: .5em;
+        }
+    }
+}

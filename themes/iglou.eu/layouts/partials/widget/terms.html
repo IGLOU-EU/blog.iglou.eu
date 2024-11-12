@@ -1,0 +1,13 @@
+{{- $taxonomy := .taxonomy }}
+
+{{- with .page.GetTerms $taxonomy }}
+  {{- $label := (index . 0).Parent.LinkTitle }}
+  <div class="{{ $taxonomy }}">
+    <h2 class="{{ $taxonomy }}-title">{{ $label }}</h2>
+    <ul class="{{ $taxonomy }}-list">
+      {{- range . }}
+      <li class="{{ $taxonomy }}-item"><a class="{{ $taxonomy }}-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+  </div>
+{{- end }}

@@ -1,0 +1,10 @@
+{{- if .tags }}
+  <div class="tags">
+    <h2 class="tags-title">Tags</h2>
+    <ul class="tags-list">
+      {{- range .tags }}
+      <li class="tags-item"><a class="tags-link" href="/tags/{{ .Name }}">{{ .Name | humanize }} ({{ len .WeightedPages }})</a></li>
+      {{- end }}
+    </ul>
+  </div>
+{{- end }}

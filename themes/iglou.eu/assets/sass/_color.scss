@@ -1,0 +1,197 @@
+$color-black: #0A070D;
+$color-dark: #161616;
+
+$color-dark-grey: #1e1e1e;
+$color-grey: #696969;
+$color-light-grey: #9A9996;
+
+$color-neon-orange: #ffdf80;
+$color-neon-green: #D0FF80;
+
+$color-muted-orange: #C64600;
+$color-muted-blue: #1A5FB4;
+
+$color-light-white: #EBEBEB;
+$color-white: #FCFCFC;
+
+$color-transparent: transparent;
+
+:root {
+    --color-highlight: #{$color-neon-green};
+
+    // Global
+    --color-global-text: #{$color-light-white};
+    --color-global-link: #{$color-white};
+    --color-global-link-hover: #{$color-light-white};
+    --color-global-link-visited: #{$color-white};
+    --color-global-border: #{$color-dark};
+    --color-global-background: #{$color-dark};
+
+    // Main menu
+    --color-mmenu-link-active: var(--color-highlight);
+    --color-mmenu-link-hover: var(--color-highlight);
+
+    // Top panel
+    --color-tpanel-text: #{$color-light-white};
+    --color-tpanel-border: #{$color-dark-grey};
+    --color-tpanel-background: #{$color-transparent};
+
+    // Side panel
+    --color-spanel-text: #{$color-light-white};
+    --color-spanel-border: #{$color-dark-grey};
+    --color-spanel-background: #{$color-dark-grey};
+
+    // Side Panel Author
+    --color-spanel-author-link: #{$color-light-white};
+    --color-spanel-author-link-hover: var(--color-highlight);
+    --color-spanel-author-link-visited: #{$color-light-white};
+
+    // Side panel TOC
+    --color-spanel-toc-link: #{$color-light-white};
+    --color-spanel-toc-link-hover: #{$color-light-white};
+    --color-spanel-toc-link-visited: #{$color-light-white};
+    --color-spanel-toc-marker: var(--color-highlight);
+
+    // Side panel Ref
+    --color-spanel-ref-link: var(--color-highlight);
+    --color-spanel-ref-link-hover: var(--color-highlight);
+    --color-spanel-ref-link-visited: var(--color-highlight);
+    --color-spanel-ref-marker: var(--color-highlight);
+
+    // Side panel Tags
+    --color-spanel-tags-button-text: #{$color-light-white};
+    --color-spanel-tags-button-text-hover: #{$color-dark-grey};
+    --color-spanel-tags-button-text-visited: #{$color-light-white};
+    --color-spanel-tags-button-border: var(--color-highlight);
+    --color-spanel-tags-button-border-hover: var(--color-highlight);
+    --color-spanel-tags-button-background: #{$color-transparent};
+    --color-spanel-tags-button-background-hover: var(--color-highlight);
+
+    // Article
+    --color-article-text: #{$color-light-white};
+    --color-article-link: var(--color-highlight);
+    --color-article-link-hover: var(--color-highlight);
+    --color-article-link-visited: var(--color-highlight);
+    --color-article-title-border: var(--color-highlight);
+    --color-article-background: #{$color-dark};
+
+    // Article Box
+    --color-article-box-msg-border: var(--color-highlight);
+    --color-article-box-warn-border: #{$color-neon-orange};
+
+    // Article Quote
+    --color-article-quote-text: #{$color-white};
+    --color-article-quote-border: var(--color-highlight);
+    --color-article-quote-background: #{$color-dark-grey};
+
+    // Article Pre
+    --color-article-pre-background: #{$color-dark-grey};
+
+    // Article Code
+    --color-article-code-background: #{$color-dark-grey};
+
+    // Article Figure
+    --color-article-figure-text: #{$color-light-white};
+    --color-article-figure-background: #{$color-dark-grey};
+
+    // Footer
+    --color-footer-text: #{$color-light-white};
+    --color-footer-border: #{$color-dark-grey};
+    --color-footer-background: #{$color-transparent};
+
+    // Widget Toggle
+    --color-wtoggle-line: var(--color-highlight);
+    --color-wtoggle-line-focus: #{$color-neon-orange};
+    --color-wtoggle-background: #{$color-dark-grey};
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --color-highlight: #{$color-muted-blue};
+
+        // Global
+        --color-global-text: #{$color-dark-grey};
+        --color-global-link: #{$color-dark};
+        --color-global-link-hover: #{$color-dark-grey};
+        --color-global-link-visited: #{$color-dark};
+        --color-global-border: #{$color-light-white};
+        --color-global-background: #{$color-white};
+
+        // Main menu
+        --color-mmenu-link-active: var(--color-highlight);
+        --color-mmenu-link-hover: var(--color-highlight);
+
+        // Top panel
+        --color-tpanel-text: #{$color-dark-grey};
+        --color-tpanel-border: #{$color-light-white};
+        --color-tpanel-background: #{$color-transparent};
+
+        // Side panel
+        --color-spanel-text: #{$color-black};
+        --color-spanel-border: #{$color-light-white};
+        --color-spanel-background: #{$color-light-white};
+
+        // Side Panel Author
+        --color-spanel-author-link: #{$color-black};
+        --color-spanel-author-link-hover: var(--color-highlight);
+        --color-spanel-author-link-visited: #{$color-black};
+
+        // Side panel TOC
+        --color-spanel-toc-link: #{$color-black};
+        --color-spanel-toc-link-hover: #{$color-black};
+        --color-spanel-toc-link-visited: #{$color-black};
+        --color-spanel-toc-marker: var(--color-highlight);
+
+        // Side panel Ref
+        --color-spanel-ref-link: var(--color-highlight);
+        --color-spanel-ref-link-hover: var(--color-highlight);
+        --color-spanel-ref-link-visited: var(--color-highlight);
+        --color-spanel-ref-marker: var(--color-highlight);
+
+        // Side panel Tags
+        --color-spanel-tags-button-text: #{$color-black};
+        --color-spanel-tags-button-text-hover: #{$color-light-white};
+        --color-spanel-tags-button-text-visited: #{$color-black};
+        --color-spanel-tags-button-border: var(--color-highlight);
+        --color-spanel-tags-button-border-hover: var(--color-highlight);
+        --color-spanel-tags-button-background: #{$color-transparent};
+        --color-spanel-tags-button-background-hover: var(--color-highlight);
+
+        // Article
+        --color-article-text: #{$color-dark-grey};
+        --color-article-link: var(--color-highlight);
+        --color-article-link-hover: var(--color-highlight);
+        --color-article-link-visited: var(--color-highlight);
+        --color-article-title-border: var(--color-highlight);
+        --color-article-background: #{$color-white};
+
+        // Article Box
+        --color-article-box-msg-border: var(--color-highlight);
+        --color-article-box-warn-border: #{$color-muted-orange};
+
+        // Article Quote
+        --color-article-quote-text: #{$color-black};
+        --color-article-quote-border: var(--color-highlight);
+        --color-article-quote-background: #{$color-light-white};
+
+        // Article Pre
+        --color-article-pre-background: #{$color-light-white};
+
+        // Article Code
+        --color-article-code-background: #{$color-light-white};
+
+        // Article Figure
+        --color-article-figure-text: #{$color-dark};
+        --color-article-figure-background: #{$color-light-white};
+
+        // Footer
+        --color-footer-text: #{$color-black};
+        --color-footer-border: #{$color-light-white};
+        --color-footer-background: #{$color-transparent};
+
+        // Widget Toggle
+        --color-wtoggle-line: var(--color-highlight);
+        --color-wtoggle-line-focus: #{$color-muted-orange};
+        --color-wtoggle-background: #{$color-light-white};
+    }
+}

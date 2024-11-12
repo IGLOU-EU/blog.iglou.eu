@@ -1,0 +1,43 @@
+{{ define "floating_widget" }}
+  <!-- Panel toggle for < md -->
+  {{ partial "widget/toggle.html" (dict "target" "left_panel" "path" ".content-main .left_panel" "status" "block") }}
+{{ end }}
+
+{{ define "top_panel" }}
+<aside class="article-info">
+  <!-- Date Information -->
+  <span  class="date-info">
+    Le <time class="published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+      {{.Date.Format "02 Jan 2006"}}
+    </time>
+    {{if .Lastmod}}
+    · Maj le <time class="editited" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+      {{.Lastmod.Format "02 Jan 2006"}}
+    </time>
+    {{end}}
+  </span>
+  <!-- Spacer -->
+  <span class="spacer"></span>
+  <!-- Reading Time -->
+  <span class="reading-time">
+    {{div .FuzzyWordCount .Site.Params.wpm.high}}-{{div .FuzzyWordCount .Site.Params.wpm.low}} minutes
+  </span>
+</aside>
+{{ end }}
+
+{{ define "left_panel" }}
+<aside class="sidebar">
+  <!-- Table of Contents Widget -->
+  {{ partial "widget/toc.html" (dict "toc" .TableOfContents) }}
+  <!-- References Widget -->
+  {{ partial "widget/refs.html" (dict "refs" .Params.refs) }}
+  <!-- Tags Widget -->
+  {{ partial "widget/terms.html" (dict "taxonomy" "tags" "page" .) }}
+</aside>
+{{ end }}
+
+{{ define "right_panel" }}
+<article class="blog-article markdown">
+  {{ .Content }}
+</article>
+{{ end }}

@@ -1,0 +1,17 @@
+<div class="toggle-widget" id="open-{{ .target }}">
+  <style>
+    #open-{{ .target }} .toggle-close {display: none}
+    #open-{{ .target }}:target ~ {{ .path }} {display: {{ .status }};position:fixed;top:0;left:0;right:0;bottom:0;overflow:auto;z-index:10}
+    #open-{{ .target }}:target .toggle-icon-line {background-color: var(--color-wtoggle-line-focus)}
+    #open-{{ .target }}:target .toggle-icon-line.vertical {transform: rotate(360deg)}
+    #open-{{ .target }}:target .toggle-icon-line.horizontal {transform: rotate(180deg)}
+    #open-{{ .target }}:target .toggle-close {display: initial}
+    #open-{{ .target }}:target .toggle-open {display: none}
+  </style>
+  <div class="toggle-icon">
+    <span class="toggle-icon-line vertical"></span>
+    <span class="toggle-icon-line horizontal"></span>
+  </div>
+  <a class="toggle-open toggle-link" title="Ouvrir {{ .target | humanize }}" href="#open-{{ .target }}"></a>
+  <a class="toggle-close toggle-link" title="Fermer {{ .target | humanize }}" href="#close-{{ .target }}"></a>
+</div>

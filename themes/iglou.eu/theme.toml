@@ -1,0 +1,12 @@
+name = 'Iglou.eu'
+license = 'MIT'
+licenselink = ''
+description = 'My blog theme'
+
+# Taxonomy terms
+tags = ["blog", "responsive", "light", "dark"]
+features = ["dark-theme", "opengraph"]
+
+# If the theme has a single author
+[author]
+  name = 'Adrien Kara'

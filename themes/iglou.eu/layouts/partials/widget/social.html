@@ -1,0 +1,25 @@
+<div class="liens">
+    <h2 class="liens-title">Liens</h2>
+    <div class="author_contact">
+        {{ range .author.contact }}
+        <a href="{{ .link }}" class="icon-link svg" target="_blank" rel="noreferrer nofollow noopener"
+            title="{{ .title }}">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="{{ .svg_size }}">
+                <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+                <path d="{{ .svg_path }}" />
+            </svg>
+        </a>
+        {{ end }}
+    </div>
+    <div class="author_social">
+        {{ range .author.social }}
+        <a href="{{ .link }}" class="icon-link svg" target="_blank" rel="noreferrer nofollow noopener"
+            title="{{ .title }}">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="{{ .svg_size }}">
+                <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+                <path d="{{ .svg_path }}" />
+            </svg>
+        </a>
+        {{ end }}
+    </div>
+</div>

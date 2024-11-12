@@ -1,0 +1,11 @@
+{{- with .refs }}
+  <div class="refs markdown">
+    <h2 class="refs-title">Références</h2>
+    <ol class="refs-list">
+      {{- range $i, $v := . }}
+      {{ $i = add $i 1 }}
+      <li id="ref-{{ $i }}" class="ref-item"><span class="ref-id">[{{ $i }}]</span> {{ . | markdownify }}</li>
+      {{- end }}
+    </ol>
+  </div>
+{{- end }}

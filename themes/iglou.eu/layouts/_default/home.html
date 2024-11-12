@@ -1,0 +1,49 @@
+{{ define "floating_widget" }}
+  <!-- Panel toggle for < md -->
+  {{ partial "widget/toggle.html" (dict "target" "left_panel" "path" ".content-main .left_panel" "status" "block") }}
+{{ end }}
+
+{{ define "left_panel" }}
+<aside class="sidebar">
+  <!-- Author infos Widget -->
+  {{ partial "widget/author.html" (dict "author" .Site.Params.Author) }}
+  <!-- Contact and Social Widget -->
+  {{ partial "widget/social.html" (dict "author" .Site.Params.Author) }}
+  <!-- Tags Widget -->
+  {{ partial "widget/alltags.html" (dict "tags" .Site.Taxonomies.tags.ByCount) }}
+</aside>
+{{ end }}
+
+{{ define "right_panel" }}
+<div class="list">
+  <div class="articles">
+      {{range .Paginator.Pages}}
+      <article class="article-view">
+          <header class="article-header">
+              <h1 class="article-title"><a href="{{.Permalink}}">{{ .Title }}</a></h1>
+              <aside class="article-date">
+                  <time class="article-date-format" datetime="{{.Date.Format "2006-01-02T15:04:05Z07:00"}}">{{.Date.Format "02 Jan 2006"}}</time>
+              </aside>
+          </header>
+
+          <p class="article-summary">■ {{if .Description}}{{.Description}}{{else}}{{.Summary}}{{end}}</p>
+
+          <footer class="article-footer">
+              <a class="article-read tags-link" href="{{.Permalink}}">Lire la suite …</a>
+          </footer>
+      </article>
+      {{end}}
+  </div>
+
+  <div class="paginator">
+      {{if .Paginator.HasPrev}}
+      <a href="{{.Paginator.Prev.URL}}" title="Page précédente" class="paginator_link prev link inherit important">↩</a>
+      {{end}}
+      <span class="paginator_actual">{{.Paginator.PageNumber}}</span>
+      <span class="paginator_total"> / {{.Paginator.TotalPages}}</span>
+      {{if .Paginator.HasNext}}
+      <a href="{{.Paginator.Next.URL}}" title="Page suivante" class="paginator_link next link inherit important">↪</a>
+      {{end}}
+  </div>
+</div>
+{{ end }}

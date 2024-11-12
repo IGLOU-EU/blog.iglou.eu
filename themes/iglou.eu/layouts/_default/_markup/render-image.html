@@ -1,0 +1,13 @@
+{{ $url := .Destination | safeURL }}
+</p>
+<figure class="article-img">
+    <a href="{{ $url }}" target="_blank" title="Ouvrir l'image dans un onglet">
+        <img src="{{ $url }}" alt="{{ .Text }}" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+    </a>
+    {{ if .Title }}
+    <figcaption class="img-desc">
+        {{ .Title | markdownify | safeHTML }}
+    </figcaption>
+    {{ end }}
+</figure>
+<p>
