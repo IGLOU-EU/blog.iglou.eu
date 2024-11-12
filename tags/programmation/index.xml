@@ -1,35 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programmation on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/programmation/</link><description>Recent content in Programmation on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Mon, 01 Aug 2022 23:23:26 +0200</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/programmation/index.xml" rel="self" type="application/rss+xml"/><item><title>Il a Livré Un Logiciel Avec Des Bug</title><link>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</link><pubDate>Mon, 01 Aug 2022 23:23:26 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</guid><description>&lt;div class="box warning monospace">&lt;span>Article a l&amp;rsquo;attention des clients en prestation informatiques. À lire avec des capacités minimales d&amp;rsquo;autodérision.&lt;/span>&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programmation on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/programmation/</link><description>Recent content in Programmation on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Mon, 18 Mar 2019 21:40:24 +0000</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/programmation/index.xml" rel="self" type="application/rss+xml"/><item><title>Il a Livré Un Logiciel Avec Des Bug</title><link>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</link><pubDate>Mon, 01 Aug 2022 23:23:26 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</guid><description>&lt;div class="box warning monospace">&lt;span>Article a l&amp;rsquo;attention des clients en prestation informatiques. À lire avec des capacités minimales d&amp;rsquo;autodérision.&lt;/span>&lt;/div>
 &lt;h1 id="-mon-développeur-freelance-livre-des-bugs-et-nassume-même-pas">👾 Mon développeur freelance livre des bugs et n&amp;rsquo;assume même pas&lt;/h1>
 &lt;p>&lt;em>Et dire que j&amp;rsquo;ai payé ce logiciel presque aussi cher qu&amp;rsquo;un préparateur Mcdo&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/mais-enfiiin-jean-claude.gif" alt="Merci à Benjamin Daniel (alias Benzaie) pour cette illustration" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/mais-enfiiin-jean-claude.gif" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/mais-enfiiin-jean-claude.gif" alt="Merci à Benjamin Daniel (alias Benzaie) pour cette illustration" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Attendez, mais je suis payé pour faire ça moi ? 💸
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Soyons sérieux, même si je n&amp;rsquo;en ai pas l&amp;rsquo;habitude&amp;hellip; Comme toutes personnes sérieuses, j&amp;rsquo;aime annoncer des évidences.&lt;/p></description></item><item><title>Heltec e-ink 1.54" avec Arduino UNO</title><link>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</link><pubDate>Mon, 18 Mar 2019 13:17:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Soyons sérieux, même si je n&amp;rsquo;en ai pas l&amp;rsquo;habitude&amp;hellip; Comme toutes personnes sérieuses, j&amp;rsquo;aime annoncer des évidences.&lt;/p></description></item><item><title>Heltec e-ink 1.54" avec Arduino UNO</title><link>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</link><pubDate>Mon, 18 Mar 2019 13:17:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="la-base-pour-utiliser-cet-écran-e-ink">La base pour utiliser cet écran e-ink&lt;/h2>
-&lt;p>&lt;em>&lt;strong>EDIT:&lt;/strong> Vous allez rire, j&amp;rsquo;ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j&amp;rsquo;ai remarqué qu&amp;rsquo;elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d&amp;rsquo;indications… C&amp;rsquo;est du boulot d’être con.&lt;/em>&lt;/p></description></item><item><title>[PHP] Utiliser ncurse pour des petits projets php</title><link>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</link><pubDate>Mon, 30 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;em>&lt;strong>EDIT:&lt;/strong> Vous allez rire, j&amp;rsquo;ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j&amp;rsquo;ai remarqué qu&amp;rsquo;elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d&amp;rsquo;indications… C&amp;rsquo;est du boulot d’être con.&lt;/em>&lt;/p></description></item><item><title>[PHP] Utiliser ncurse pour des petits projets php</title><link>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</link><pubDate>Mon, 30 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="-je-détiens-la-curse-toute-puissante-">⚡️ Je détiens la Curse toute puissante ⚔️&lt;/h3>
 &lt;p>Alors oui, la curse ce n&amp;rsquo;est pas vraiment aimé, puis on en croise de moins en moins. N’empêche que j&amp;rsquo;aime bien moi, c&amp;rsquo;est classe et faire du curse en PHP c&amp;rsquo;est rigolo.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/_Screenshot_DwarfFortressThree.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/_Screenshot_DwarfFortressThree.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/_Screenshot_DwarfFortressThree.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Envie d&amp;rsquo;un Dwarf Fortress en PHP ?
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>[PHP] Benchmark a base de XDebug et graphiques by kcachegrind</title><link>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</link><pubDate>Sat, 28 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>[PHP] Benchmark a base de XDebug et graphiques by kcachegrind</title><link>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</link><pubDate>Sat, 28 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="des-bench-des-bench-oui-mais-des-bench-xdbug-">Des bench, des bench, oui mais des bench xdbug 🍝&lt;/h3>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
@@ -41,6 +50,6 @@
 &lt;li>Ils utilisent time() et microtime()(plus rarement), n&amp;rsquo;utilisent pas les fonctions de math &amp;hellip; et presque jamais $_SERVER[&amp;lsquo;REQUEST_TIME&amp;rsquo;]&lt;/li>
 &lt;li>Le temps d’exécution est en variation constante, il est donc logique de faire des résultats relatifs (%)&lt;/li>
 &lt;/ul>
-&lt;p>Débutons donc avec ces bench qui sont peut-être complétement débiles, mais tester par soi-même avec des approches différentes c&amp;rsquo;est sympa :)&lt;/p></description></item><item><title>[PHP] $_SESSION = array(), session_unset et session_destroy()</title><link>https://blog.iglou.eu/php-session-array-sessionunset-et/</link><pubDate>Tue, 24 Mar 2015 18:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/php-session-array-sessionunset-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Débutons donc avec ces bench qui sont peut-être complétement débiles, mais tester par soi-même avec des approches différentes c&amp;rsquo;est sympa :)&lt;/p></description></item><item><title>[PHP] $_SESSION = array(), session_unset et session_destroy()</title><link>https://blog.iglou.eu/php-session-array-sessionunset-et/</link><pubDate>Tue, 24 Mar 2015 18:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/php-session-array-sessionunset-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="session-my-php">Session my PHP&lt;/h3>
 &lt;p>Aidant de temps en temps sur des forums ou en IRC, je tombe par moment sur des personnes qui mélangent, confondes et font des mélimélo perso. Mais pas seulement, il arrive que ce soit les &amp;ldquo;helpers&amp;rdquo; qui induisent en erreur (et là, c&amp;rsquo;est le drame) &amp;hellip;&lt;/p></description></item></channel></rss>

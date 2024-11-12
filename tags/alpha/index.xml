@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alpha on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/alpha/</link><description>Recent content in Alpha on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Thu, 07 Apr 2022 00:42:19 +0200</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/alpha/index.xml" rel="self" type="application/rss+xml"/><item><title>[Alpha I] Reverse Proxy Sur Hébergement Mutualisé</title><link>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</link><pubDate>Thu, 07 Apr 2022 00:42:19 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</guid><description>&lt;div class="box warning monospace">&lt;span>Cette série &amp;ldquo;Alpha&amp;rdquo; tourne autour du thème de l&amp;rsquo;exécution de code
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alpha on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/alpha/</link><description>Recent content in Alpha on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Sat, 04 Nov 2023 13:52:46 +0100</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/alpha/index.xml" rel="self" type="application/rss+xml"/><item><title>[Alpha I] Reverse Proxy Sur Hébergement Mutualisé</title><link>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</link><pubDate>Thu, 07 Apr 2022 00:42:19 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</guid><description>&lt;div class="box warning monospace">&lt;span>Cette série &amp;ldquo;Alpha&amp;rdquo; tourne autour du thème de l&amp;rsquo;exécution de code
 non prévu par les fournisseurs d&amp;rsquo;hébergement mutualisé. Et ce, affin de passer
 outre les limitations comme le support de langages de script ou binaires&lt;/span>&lt;/div>
 &lt;h1 id="-viens-chez-mon-27039-jhabite-chez-443">🎤 Viens chez mon :27039, j&amp;rsquo;habite chez :443&lt;/h1>
 &lt;p>&lt;em>Sur les bords au milieu, c&amp;rsquo;est vrai qu&amp;rsquo;je crains un peu.&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/865675824.jpg" alt="Elle mate :27039, et elle fait bien" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/865675824.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/865675824.jpg" alt="Elle mate :27039, et elle fait bien" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Comment elle mate mon :27039 depuis son :443 😱
  &lt;/figcaption>
  

@@ -1,57 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hardware on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/hardware/</link><description>Recent content in Hardware on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Mon, 04 Apr 2022 00:31:17 +0200</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>Heltec e-ink 1.54" avec Arduino UNO</title><link>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</link><pubDate>Mon, 18 Mar 2019 13:17:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hardware on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/hardware/</link><description>Recent content in Hardware on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Mon, 18 Mar 2019 21:40:24 +0000</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/hardware/index.xml" rel="self" type="application/rss+xml"/><item><title>Heltec e-ink 1.54" avec Arduino UNO</title><link>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</link><pubDate>Mon, 18 Mar 2019 13:17:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="la-base-pour-utiliser-cet-écran-e-ink">La base pour utiliser cet écran e-ink&lt;/h2>
-&lt;p>&lt;em>&lt;strong>EDIT:&lt;/strong> Vous allez rire, j&amp;rsquo;ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j&amp;rsquo;ai remarqué qu&amp;rsquo;elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d&amp;rsquo;indications… C&amp;rsquo;est du boulot d’être con.&lt;/em>&lt;/p></description></item><item><title>[Imprimante 3D] Offset Z, Sonde et astuce ATX</title><link>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</link><pubDate>Sat, 03 Feb 2018 00:22:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;em>&lt;strong>EDIT:&lt;/strong> Vous allez rire, j&amp;rsquo;ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j&amp;rsquo;ai remarqué qu&amp;rsquo;elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d&amp;rsquo;indications… C&amp;rsquo;est du boulot d’être con.&lt;/em>&lt;/p></description></item><item><title>[Imprimante 3D] Offset Z, Sonde et astuce ATX</title><link>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</link><pubDate>Sat, 03 Feb 2018 00:22:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Bonjours a tou·te·s,&lt;/p>
 &lt;p>Waaoooo, bien tôt 1 an sans articles, je suis tout ému !&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  “I do not understand why the Designer chose to put such flaws into the world, that it appears almost as if it were damaged. But I must believe that there is a purpose here I cannot see.” – &lt;em>1w/Faith v10.3.0047f&lt;/em>
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>[TEST] KingFast F8 120GB / Du ssd 100% chinoi, ça donne quoi ?</title><link>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</link><pubDate>Sat, 18 Oct 2014 16:51:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>&lt;/p></description></item><item><title>[TEST] KingFast F8 120GB / Du ssd 100% chinoi, ça donne quoi ?</title><link>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</link><pubDate>Sat, 18 Oct 2014 16:51:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Ayant besoin de commander un ssd, pour quoi ne pas tester un KingFast qui était à moins de ~48€ pour 120Go au moment de mon achat
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;h3 id="la-réception-direct-on-ouvre-">La réception, direct on ouvre !&lt;/h3>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/1.bp.blogspot.com-GzZGt4tHxLs-VEI_sEAqaDI-AAAAAAAAAnQ-L5-I-kAf35E-s1600-17102014304.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/1.bp.blogspot.com-GzZGt4tHxLs-VEI_sEAqaDI-AAAAAAAAAnQ-L5-I-kAf35E-s1600-17102014304.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/1.bp.blogspot.com-GzZGt4tHxLs-VEI_sEAqaDI-AAAAAAAAAnQ-L5-I-kAf35E-s1600-17102014304.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Kingfast F8
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>
-&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/3.bp.blogspot.com-Wb9INTnO8eI-VEI_tq8GJjI-AAAAAAAAAnY-FUOYjms28LY-s1600-17102014305.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
- 
-&lt;/figure>
-&lt;p>
-&lt;/p></description></item><item><title>Steam sous linux Et la SteamBox</title><link>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</link><pubDate>Mon, 04 Mar 2013 02:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+
+&lt;/p></description></item><item><title>Steam sous linux Et la SteamBox</title><link>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</link><pubDate>Mon, 04 Mar 2013 02:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="i-have-a-dream-__">I Have a Dream &lt;em>!&lt;/em>&lt;/h2>
 &lt;p>&lt;em>(pardonne moi martin de t&amp;rsquo;utiliser en informatique &amp;hellip;)&lt;/em>&lt;/p>
 &lt;p>Hé oui, steam est officiellement sous G/Linux depuis plus de 3semaines et c&amp;rsquo;est loin d’être un flop !&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/img.clubic.com-05720824-photo-steam-linux.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/img.clubic.com-05720824-photo-steam-linux.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/img.clubic.com-05720824-photo-steam-linux.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Avec un démarrage du feu des dieux, Steam-Linux serait déjà utilisé par plus de ~2,84%(tout linux confondu) de la communauté steam contre ~3.07% pour apple (bien que les mac ne soit pas des playeurs).&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 2]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</link><pubDate>Fri, 09 Nov 2012 04:07:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Avec un démarrage du feu des dieux, Steam-Linux serait déjà utilisé par plus de ~2,84%(tout linux confondu) de la communauté steam contre ~3.07% pour apple (bien que les mac ne soit pas des playeurs).&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 2]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</link><pubDate>Fri, 09 Nov 2012 04:07:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="loptimisation-pour-linfographie">L&amp;rsquo;optimisation pour l&amp;rsquo;infographie.&lt;/h3>
 &lt;p>Mettons les points sur les &amp;ldquo;I&amp;rdquo;. Que vous ayez l&amp;rsquo;argent ou pas, faire de l&amp;rsquo;infographie sur un ordinateur portable est une erreur ! Acheter un ordinateur dit d&amp;rsquo;infographie dans le commerce en est une autre.&lt;/p>
-&lt;p>Je vais vous parler ici des optimisations préférables pour l&amp;rsquo;infographie, que ce soit pour de la 3D, de la retouche, création 2D, etc &amp;hellip; Pour illustrer mes propos je vais utiliser les noms de logiciels connus comme Photoshop ou encore maya, mais ces optimisations sont valables pour tout logiciel du même genre.&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 1]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</link><pubDate>Mon, 25 Jun 2012 19:08:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Je vais vous parler ici des optimisations préférables pour l&amp;rsquo;infographie, que ce soit pour de la 3D, de la retouche, création 2D, etc &amp;hellip; Pour illustrer mes propos je vais utiliser les noms de logiciels connus comme Photoshop ou encore maya, mais ces optimisations sont valables pour tout logiciel du même genre.&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 1]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</link><pubDate>Mon, 25 Jun 2012 19:08:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Sérieusement, étudiant ou pas, la plupart des personnes trimes pour avoir un peu d&amp;rsquo;argent. Et ainsi pouvoir aller 2-3 fois au cinéma, boire quelques verres entre amis, aller en boite et au resto et ce, en plus de son loyer et des divers charges. Alors comment pourrait on s’offrir un ordinateur correcte ? Si l&amp;rsquo;on est un gamer les config minimum demandaient sont des ordinateurs dans les 600€ et si l&amp;rsquo;on voudrais que le jeux tourne correctement on en parle même pas. Même chose pour les suite comme CS5, Maya, etc (Il n&amp;rsquo;y a que Gimp et Bender qui sont capable d’être optimisé &amp;hellip;)&lt;/p></description></item></channel></rss>

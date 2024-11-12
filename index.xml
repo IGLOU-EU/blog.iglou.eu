@@ -1,20 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog Iglou.eu</title><link>https://blog.iglou.eu/</link><description>Recent content on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Fri, 08 Nov 2024 15:43:47 +0100</lastBuildDate><atom:link href="https://blog.iglou.eu/index.xml" rel="self" type="application/rss+xml"/><item><title>Pourquoi Matomo ne devrait pas être votre alternative à Google Analytics</title><link>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</link><pubDate>Thu, 27 Apr 2023 15:25:53 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</guid><description>&lt;h1 id="-de-linutilité-des-outils-de-mesure-statistiques-sur-la-toile">📊 De l&amp;rsquo;inutilité des outils de mesure statistiques sur la toile&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog Iglou.eu</title><link>https://blog.iglou.eu/</link><description>Recent content on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Sat, 04 Nov 2023 13:52:46 +0100</lastBuildDate><atom:link href="https://blog.iglou.eu/index.xml" rel="self" type="application/rss+xml"/><item><title>La quête du chausson pour pied</title><link>https://blog.iglou.eu/la-quete-du-chausson-pour-pieds/</link><pubDate>Wed, 06 Nov 2024 02:35:54 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/la-quete-du-chausson-pour-pieds/</guid><description>&lt;h1 id="-la-quête-du-chausson-pour-pied">🧶 La quête du chausson pour pied&lt;/h1>
+&lt;p>&lt;em>Nu, je suis venu en ce monde, et nu dois-je le quitter.&lt;/em>&lt;/p>
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/la-quete-du-chausson-pour-pieds.webp" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/la-quete-du-chausson-pour-pieds.webp" alt="Crédit photos, la boulangerie La Parisienne sur painrisien.com, chaussons de laruedesartisans, montage Gimp" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
+ 
+ &lt;figcaption class="img-desc">
+ Magasin charentais de chaussons traditionnel
+ &lt;/figcaption>
+ 
+&lt;/figure>
+&lt;p>&lt;/p>
+&lt;h2 id="-jai-froid-aux-pieds-">☃️ J&amp;rsquo;ai froid aux pieds !&lt;/h2>
+&lt;h3 id="constation-du-soir">Constation du soir&lt;/h3>
+&lt;p>Une constatation faite tous les hivers, et tous les jours de ces hivers, et ce, depuis… de nombreux hivers ! C&amp;rsquo;est idiot d&amp;rsquo;avoir froid aux pieds, non pas que je me plaigne d&amp;rsquo;avoir des pieds, mais dans le cas contraire, au moins, ils n&amp;rsquo;auraient plus froid. Ceci étant dit, mes pieds, j&amp;rsquo;y tiens. Ce ne sont pas les plus seyants et ils sont petits, mais extrêmement pratique. Je les utilise tous les jours et ne m&amp;rsquo;en séparerais pour rien au monde.&lt;/p></description></item><item><title>Pourquoi Matomo ne devrait pas être votre alternative à Google Analytics</title><link>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</link><pubDate>Thu, 27 Apr 2023 15:25:53 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</guid><description>&lt;h1 id="-de-linutilité-des-outils-de-mesure-statistiques-sur-la-toile">📊 De l&amp;rsquo;inutilité des outils de mesure statistiques sur la toile&lt;/h1>
 &lt;p>&lt;em>🎵 Même s&amp;rsquo;il se lève tôt, sortir de Google&lt;/em>&lt;br>
 &lt;em>🎶 En perpétrant son forfait, nul ne perçoit son méfait&lt;/em>&lt;br>
 &lt;em>🎵 Déployant son Matomo, rester aveugle&lt;/em>&lt;br>
 &lt;em>🎶 Gargantua encore pourra, digérer nos âpre data&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/gargantua_eat_computer.png" alt="Représentation satirique de Gargantua mangeant un ordinateur" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/gargantua_eat_computer.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/gargantua_eat_computer.png" alt="Représentation satirique de Gargantua mangeant un ordinateur" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Gargantua n&amp;rsquo;a jamais fait d&amp;rsquo;aussi bon repas
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;h2 id="-vous-avez-dit-analytics-">🥸 Vous avez dit Analytics ?&lt;/h2>
-&lt;p>Petites data prospères, emmagasinées et stockées, une accumulation obsessionnelle de statistiques personnelles à des fins non définies ! Depuis la mise en place de la réglementation RGPD, Google Analytics a pris du plomb dans l&amp;rsquo;aile. La fin de cette hérésie de la récolte statistique du côté client, semblait vivre ses dernières heures pour le commun des mortels. Rien ne pouvait me rendre plus joyeux en cet instant. Nous l&amp;rsquo;avions vu dans un précédent article, moins de 30% des sites sont actifs et mis à jour par leur propriétaire, imaginez le peu de personnes ayant un attrait autre, qu&amp;rsquo;une curiosité passagère pour les statistiques de visites de leur site. La vision quand bien même agréable de ces graphiques in-intuitif aux demeurant et peu parlant, pour qui n&amp;rsquo;est pas du métier de l&amp;rsquo;analyse SEO. Nous avons donc, un gadget, qui, pour une grande majorité, n&amp;rsquo;aura aucune utilité.&lt;/p></description></item><item><title>[EcoWeb I] Pourquoi Internet Est Un Désastre Écologique</title><link>https://blog.iglou.eu/ecoweb-i-pourquoi-internet-est-un-d%C3%A9sastre-%C3%A9cologique/</link><pubDate>Mon, 17 Apr 2023 12:56:28 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/ecoweb-i-pourquoi-internet-est-un-d%C3%A9sastre-%C3%A9cologique/</guid><description>&lt;div class="box warning monospace">&lt;span>Cette série “EcoWeb” se concentre sur les sites internet. Et ce, afin d’aider à prendre conscience de leur impact et de voir s&amp;rsquo; il est possible de le réduire. Ces principes peuvent être appliqués aux intranet, webapp…&lt;/span>&lt;/div>
+&lt;p>Petites data prospères, emmagasinées et stockées, une accumulation obsessionnelle de statistiques personnelles à des fins non définies ! Depuis la mise en place de la réglementation RGPD, Google Analytics a pris du plomb dans l&amp;rsquo;aile. La fin de cette hérésie de la récolte statistique du côté client, semblait vivre ses dernières heures pour le commun des mortels. Rien ne pouvait me rendre plus joyeux en cet instant. Nous l&amp;rsquo;avions vu dans un précédent article, moins de 30% des sites sont actifs et mis à jour par leur propriétaire, imaginez le peu de personnes ayant un attrait autre, qu&amp;rsquo;une curiosité passagère pour les statistiques de visites de leur site. La vision quand bien même agréable de ces graphiques in-intuitif aux demeurant et peu parlant, pour qui n&amp;rsquo;est pas du métier de l&amp;rsquo;analyse SEO. Nous avons donc, un gadget, qui, pour une grande majorité, n&amp;rsquo;aura aucune utilité.&lt;/p></description></item><item><title>[EcoWeb I] Pourquoi Internet Est Un Désastre Écologique</title><link>https://blog.iglou.eu/ecoweb-i-pourquoi-internet-est-un-d%C3%A9sastre-%C3%A9cologique/</link><pubDate>Mon, 17 Apr 2023 12:56:28 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/ecoweb-i-pourquoi-internet-est-un-d%C3%A9sastre-%C3%A9cologique/</guid><description>&lt;div class="box warning monospace">&lt;span>Cette série “EcoWeb” se concentre sur les sites internet. Et ce, afin d’aider à prendre conscience de leur impact et de voir s&amp;rsquo; il est possible de le réduire. Ces principes peuvent être appliqués aux intranet, webapp…&lt;/span>&lt;/div>
 &lt;h1 id="-larbre-qui-cache-la-foret-de-serveur-">🌳 L&amp;rsquo;arbre qui cache la foret de serveur !&lt;/h1>
 &lt;p>&lt;em>Sur l&amp;rsquo;air de C&amp;rsquo;est ton destin&amp;quot;&lt;/em>&lt;br>
 &lt;em>🎵 Eh les dev, eh l&amp;rsquo;client, dans les CMS&lt;/em>&lt;br>
@@ -22,7 +42,7 @@
 &lt;em>🎶 Ton web c&amp;rsquo;est tres moche&lt;/em>&lt;br>
 &lt;em>🎶 Alors prends ton clavier&lt;/em>&lt;br>
 &lt;em>🎶 Si tu sais coder, si tu sais coder&lt;/em>&lt;br>
-&lt;em>🎶 Prends, prends, prends ton clavier, si tu sais coder&lt;/em>&lt;/p></description></item><item><title>Avoir un profil certifié sur Mastodon</title><link>https://blog.iglou.eu/avoir-un-profil-certifie-sur-mastodon/</link><pubDate>Fri, 18 Nov 2022 18:34:21 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/avoir-un-profil-certifie-sur-mastodon/</guid><description>&lt;h1 id="-tu-vas-au-mastodon-">🎤 Tu Vas Au Mastodon ?&lt;/h1>
+&lt;em>🎶 Prends, prends, prends ton clavier, si tu sais coder&lt;/em>&lt;/p></description></item><item><title>Avoir un profil certifié sur Mastodon</title><link>https://blog.iglou.eu/avoir-un-profil-certifie-sur-mastodon/</link><pubDate>Fri, 18 Nov 2022 18:34:21 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/avoir-un-profil-certifie-sur-mastodon/</guid><description>&lt;h1 id="-tu-vas-au-mastodon-">🎤 Tu Vas Au Mastodon ?&lt;/h1>
 &lt;p>&lt;em>Mon pote est mort de Musk&lt;/em>&lt;br>
 &lt;em>D&amp;rsquo;toute façon y m&amp;rsquo;gonflait&lt;/em>&lt;br>
 &lt;em>Voulait jamais d&amp;rsquo;la liberté&lt;/em>&lt;br>
@@ -34,144 +54,176 @@
 &lt;em>Dans une instance pas du tout privée&lt;/em>&lt;br>
 &lt;em>Et j&amp;rsquo;ai rien regretté&lt;/em>&lt;br>
 &lt;em>Mais alors rien du tout !&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/avoir-un-profil-certifie-sur-mastodon_img-1.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/avoir-un-profil-certifie-sur-mastodon_img-1.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/avoir-un-profil-certifie-sur-mastodon_img-1.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Crédit : Christopher Mineses/Mashable – Mastodon&lt;br>&lt;br>🧚‍♀️ L&amp;rsquo;écrasant poids de la liberté 🎱
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>Il a Livré Un Logiciel Avec Des Bug</title><link>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</link><pubDate>Mon, 01 Aug 2022 23:23:26 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</guid><description>&lt;div class="box warning monospace">&lt;span>Article a l&amp;rsquo;attention des clients en prestation informatiques. À lire avec des capacités minimales d&amp;rsquo;autodérision.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>Il a Livré Un Logiciel Avec Des Bug</title><link>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</link><pubDate>Mon, 01 Aug 2022 23:23:26 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/il-a-livr%C3%A9-un-logiciel-avec-des-bug/</guid><description>&lt;div class="box warning monospace">&lt;span>Article a l&amp;rsquo;attention des clients en prestation informatiques. À lire avec des capacités minimales d&amp;rsquo;autodérision.&lt;/span>&lt;/div>
 &lt;h1 id="-mon-développeur-freelance-livre-des-bugs-et-nassume-même-pas">👾 Mon développeur freelance livre des bugs et n&amp;rsquo;assume même pas&lt;/h1>
 &lt;p>&lt;em>Et dire que j&amp;rsquo;ai payé ce logiciel presque aussi cher qu&amp;rsquo;un préparateur Mcdo&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/mais-enfiiin-jean-claude.gif" alt="Merci à Benjamin Daniel (alias Benzaie) pour cette illustration" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/mais-enfiiin-jean-claude.gif" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/mais-enfiiin-jean-claude.gif" alt="Merci à Benjamin Daniel (alias Benzaie) pour cette illustration" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Attendez, mais je suis payé pour faire ça moi ? 💸
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Soyons sérieux, même si je n&amp;rsquo;en ai pas l&amp;rsquo;habitude&amp;hellip; Comme toutes personnes sérieuses, j&amp;rsquo;aime annoncer des évidences.&lt;/p></description></item><item><title>Bleu Marine Un Engagement Français</title><link>https://blog.iglou.eu/bleu-marine-un-engagement-fran%C3%A7ais/</link><pubDate>Mon, 18 Apr 2022 12:54:58 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/bleu-marine-un-engagement-fran%C3%A7ais/</guid><description>&lt;style>
+&lt;p>Soyons sérieux, même si je n&amp;rsquo;en ai pas l&amp;rsquo;habitude&amp;hellip; Comme toutes personnes sérieuses, j&amp;rsquo;aime annoncer des évidences.&lt;/p></description></item><item><title>Bleu Marine Un Engagement Français</title><link>https://blog.iglou.eu/bleu-marine-un-engagement-fran%C3%A7ais/</link><pubDate>Mon, 18 Apr 2022 12:54:58 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/bleu-marine-un-engagement-fran%C3%A7ais/</guid><description>&lt;style>
  .vote-contre{color: red}
  .vote-pour{color: green}
 &lt;/style>
 &lt;h1 id="allons--enfants-du-racisme--le-jour-de-gloire-est-arrivé-">Allons ! Enfants du racisme ! Le jour de gloire est arrivé !&lt;/h1>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/eatmyshit.jpg" alt="Affiche de eat my shit" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/eatmyshit.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/eatmyshit.jpg" alt="Affiche de eat my shit" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;h2 id="je-vous-dresse-le-tableau">Je vous dresse le tableau&lt;/h2>
 &lt;p>Par une journée printanière, nous découvrons, avec ou sans bonheur, le magnifique choix qu&amp;rsquo;il nous est offert entre les deux formidables futures personnes présidentes.&lt;br>
-Un choix, qui ne devrait pas satisfaire les 17 216 061 français votants et les 543 609 de votes blancs, 247 151 de votes nuls et 12 824 169 d&amp;rsquo;abstentions, ce qui nous donne 30 830 990 personnes, donc je fais&lt;code>30830990/48747876*100&lt;/code> = ~63,25% des électeurs inscrits &lt;a href="https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/FE.html" class="article_content__link link inherit" rel="noreferrer nofollow noopener">[Source]&lt;/a>.&lt;br>
-Bien que les abstentions soient relativement discutables, surtout pour ceux qui appellent à voter barrage au second tour&amp;hellip; Toujours est-il que 63,25% de personnes non satisfaites, ne me semble pas très démocratique.&lt;/p></description></item><item><title>[Alpha I] Reverse Proxy Sur Hébergement Mutualisé</title><link>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</link><pubDate>Thu, 07 Apr 2022 00:42:19 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</guid><description>&lt;div class="box warning monospace">&lt;span>Cette série &amp;ldquo;Alpha&amp;rdquo; tourne autour du thème de l&amp;rsquo;exécution de code
+Un choix, qui ne devrait pas satisfaire les 17 216 061 français votants et les 543 609 de votes blancs, 247 151 de votes nuls et 12 824 169 d&amp;rsquo;abstentions, ce qui nous donne 30 830 990 personnes, donc je fais&lt;code>30830990/48747876*100&lt;/code> = ~63,25% des électeurs inscrits 
+ &lt;a href="https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/FE.html" class="external-link" rel="noreferrer nofollow noopener" target="_blank" >[Source]&lt;/a>
+
+.&lt;br>
+Bien que les abstentions soient relativement discutables, surtout pour ceux qui appellent à voter barrage au second tour&amp;hellip; Toujours est-il que 63,25% de personnes non satisfaites, ne me semble pas très démocratique.&lt;/p></description></item><item><title>[Alpha I] Reverse Proxy Sur Hébergement Mutualisé</title><link>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</link><pubDate>Thu, 07 Apr 2022 00:42:19 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/alpha-i-reverse-proxy-sur-h%C3%A9bergement-mutualis%C3%A9/</guid><description>&lt;div class="box warning monospace">&lt;span>Cette série &amp;ldquo;Alpha&amp;rdquo; tourne autour du thème de l&amp;rsquo;exécution de code
 non prévu par les fournisseurs d&amp;rsquo;hébergement mutualisé. Et ce, affin de passer
 outre les limitations comme le support de langages de script ou binaires&lt;/span>&lt;/div>
 &lt;h1 id="-viens-chez-mon-27039-jhabite-chez-443">🎤 Viens chez mon :27039, j&amp;rsquo;habite chez :443&lt;/h1>
 &lt;p>&lt;em>Sur les bords au milieu, c&amp;rsquo;est vrai qu&amp;rsquo;je crains un peu.&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/865675824.jpg" alt="Elle mate :27039, et elle fait bien" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/865675824.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/865675824.jpg" alt="Elle mate :27039, et elle fait bien" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Comment elle mate mon :27039 depuis son :443 😱
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>Heltec e-ink 1.54" avec Arduino UNO</title><link>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</link><pubDate>Mon, 18 Mar 2019 13:17:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>Heltec e-ink 1.54" avec Arduino UNO</title><link>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</link><pubDate>Mon, 18 Mar 2019 13:17:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/heltec-e-ink-154-avec-arduino-uno/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="la-base-pour-utiliser-cet-écran-e-ink">La base pour utiliser cet écran e-ink&lt;/h2>
-&lt;p>&lt;em>&lt;strong>EDIT:&lt;/strong> Vous allez rire, j&amp;rsquo;ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j&amp;rsquo;ai remarqué qu&amp;rsquo;elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d&amp;rsquo;indications… C&amp;rsquo;est du boulot d’être con.&lt;/em>&lt;/p></description></item><item><title>Le sexe dans les jeux videos</title><link>https://blog.iglou.eu/le-sexe-dans-les-jeux-videos/</link><pubDate>Fri, 15 Mar 2019 12:10:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/le-sexe-dans-les-jeux-videos/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;em>&lt;strong>EDIT:&lt;/strong> Vous allez rire, j&amp;rsquo;ai passé deux jours à chercher de la doc pour cet écran. Puis en rédigeant cet article, j&amp;rsquo;ai remarqué qu&amp;rsquo;elle était disponible sur le site du constructeur… et est dû rédiger à nouveau cet article, et retirant pleinnnnnn d&amp;rsquo;indications… C&amp;rsquo;est du boulot d’être con.&lt;/em>&lt;/p></description></item><item><title>Le sexe dans les jeux videos</title><link>https://blog.iglou.eu/le-sexe-dans-les-jeux-videos/</link><pubDate>Fri, 15 Mar 2019 12:10:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/le-sexe-dans-les-jeux-videos/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="le-sexe-comme-la-mort-cest-naturel--br_smallmais-il-y-en-a-un-des-deux-tout-de-même-plus-agréable-a-vivresmall_">Le sexe, comme la mort c&amp;rsquo;est naturel ! &lt;br>&lt;em>&lt;small>Mais il y en a un des deux tout de même plus agréable a vivre.&lt;/small>&lt;/em>&lt;/h2>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/the_witcher_yen.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/the_witcher_yen.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/the_witcher_yen.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  The Witcher III, avec &lt;span style="color: red;">Y&lt;/span>&lt;span style="color: orange;">e&lt;/span>&lt;span style="color: magenta;">nn&lt;/span>&lt;span style="color: orange;">e&lt;/span>&lt;span style="color: blue;">f&lt;/span>&lt;span style="color: orange;">e&lt;/span>&lt;span style="color: purple;">r&lt;/span> !
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>
-Je ne sais pas si vous avez remarqué. Mais que ce soit dans les jeux, les films ou sur les plateformes en ligne (comme YouTube), il est tout à fait prohibé de voir un morceau de peau en &amp;ldquo;trop&amp;rdquo;… Temps que son détenteur est vivant bien sûr.&lt;/p></description></item><item><title>[OpenBSD] Juste de l'OpenHttpd, du LuaPatterns et du Let's encrypt</title><link>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</link><pubDate>Thu, 02 Aug 2018 20:18:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+Je ne sais pas si vous avez remarqué. Mais que ce soit dans les jeux, les films ou sur les plateformes en ligne (comme YouTube), il est tout à fait prohibé de voir un morceau de peau en &amp;ldquo;trop&amp;rdquo;… Temps que son détenteur est vivant bien sûr.&lt;/p></description></item><item><title>[OpenBSD] Juste de l'OpenHttpd, du LuaPatterns et du Let's encrypt</title><link>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</link><pubDate>Thu, 02 Aug 2018 20:18:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="le-dernier-espoir--openhttpd">Le dernier espoir : OpenHTTPD&lt;/h2>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;p>Salut à toi lecteur.&lt;/p>
 &lt;p>Moi, c&amp;rsquo;est Luc, Jean-Luc, Jean-Luc qui porte un sky, lecteur ! &lt;br>
-Si tu es là, c&amp;rsquo;est qu&amp;rsquo;tu connais un peu le bousin, la force est déjà avec toi et elle t&amp;rsquo;a mené à moi.&lt;/p></description></item><item><title>Le réchauffement climatique et les e-mails</title><link>https://blog.iglou.eu/le-rechauffement-climatique-et-les-e-mail/</link><pubDate>Fri, 18 May 2018 12:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/le-rechauffement-climatique-et-les-e-mail/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+Si tu es là, c&amp;rsquo;est qu&amp;rsquo;tu connais un peu le bousin, la force est déjà avec toi et elle t&amp;rsquo;a mené à moi.&lt;/p></description></item><item><title>Le réchauffement climatique et les e-mails</title><link>https://blog.iglou.eu/le-rechauffement-climatique-et-les-e-mail/</link><pubDate>Fri, 18 May 2018 12:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/le-rechauffement-climatique-et-les-e-mail/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="léco-email-eur-">L&amp;rsquo;éco email-eur 💌&lt;/h2>
 &lt;p>&lt;em>Au moment où j&amp;rsquo;ai voulu rédiger cet article, je me suis dit, &amp;ldquo;tien me faut une image avec un écolo super chiant&amp;rdquo;, comme je n&amp;rsquo;ai pas trouvé…&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/1.bp.blogspot.com-ak9xum0IXx0-WvxTlLixhkI-AAAAAAAAAxs-SNkK73ofTKkZSP7Gk0VOnWETQYdchbxTwCLcBGAs-s1600-mrrelou-1.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/1.bp.blogspot.com-ak9xum0IXx0-WvxTlLixhkI-AAAAAAAAAxs-SNkK73ofTKkZSP7Gk0VOnWETQYdchbxTwCLcBGAs-s1600-mrrelou-1.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/1.bp.blogspot.com-ak9xum0IXx0-WvxTlLixhkI-AAAAAAAAAxs-SNkK73ofTKkZSP7Gk0VOnWETQYdchbxTwCLcBGAs-s1600-mrrelou-1.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Notre écolo super chiant, c&amp;rsquo;est lui, un peu d&amp;rsquo;imagination.
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p>
-&lt;p>Lui: Bon alors, quel est ton problème avec les mails, mec !&lt;br>
-Moi: Je n&amp;rsquo;ai pas de problèmes avec eux, mais la population écolo est généralement fâchée contre eux. Surtout contre Gmail, comme s&amp;rsquo;il n&amp;rsquo;y avait qu&amp;rsquo;eux a conserver des données inutiles et à fournir un service e-mail…&lt;br>
-Lui: Ba wé quoi, ce sont des cons, ils utilisent de l&amp;rsquo;énergie pour garder mes spams &amp;hellip;&lt;br>
-Moi: Effectivement, mais la réponse n&amp;rsquo;est pas aussi simple.&lt;/p></description></item><item><title>[Scaleway] Avoir un OpenBSD (ou autre) sur les serveurs Scaleway</title><link>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</link><pubDate>Fri, 11 May 2018 16:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>[Scaleway] Avoir un OpenBSD (ou autre) sur les serveurs Scaleway</title><link>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</link><pubDate>Fri, 11 May 2018 16:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="scale-my-bsd-">Scale my BSD 🐡&lt;/h2>
 &lt;p>&lt;strong>Moi&lt;/strong>: Vous savez quoi ?&lt;br>
 &lt;strong>Vous&lt;/strong>: Non, mais tu vas nous le dire !&lt;br>
 &lt;strong>Moi&lt;/strong>: En serveur, je préfère grandement un OpenBSD à un GNU/Linux&lt;br>
 &lt;strong>Vous&lt;/strong>: Et pourquoi donc ?&lt;br>
 &lt;strong>Moi&lt;/strong>: Pour pleins de raisons, comme son PF, HTTPD, SMTPD &amp;hellip;&lt;br>
-&lt;strong>Vous&lt;/strong>: Moué, enfin SMTPD il est aussi sur d&amp;rsquo;autres os, puis OpenBSD n&amp;rsquo;est pas disponible de base, et les solutions trouvées jusque-là sur le net ne sont pas pratiques, et c&amp;rsquo;est compliqué et blabla bla &amp;hellip;&lt;/p></description></item><item><title>[Imprimante 3D] Offset Z, Sonde et astuce ATX</title><link>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</link><pubDate>Sat, 03 Feb 2018 00:22:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;strong>Vous&lt;/strong>: Moué, enfin SMTPD il est aussi sur d&amp;rsquo;autres os, puis OpenBSD n&amp;rsquo;est pas disponible de base, et les solutions trouvées jusque-là sur le net ne sont pas pratiques, et c&amp;rsquo;est compliqué et blabla bla &amp;hellip;&lt;/p></description></item><item><title>[Imprimante 3D] Offset Z, Sonde et astuce ATX</title><link>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</link><pubDate>Sat, 03 Feb 2018 00:22:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Bonjours a tou·te·s,&lt;/p>
 &lt;p>Waaoooo, bien tôt 1 an sans articles, je suis tout ému !&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  “I do not understand why the Designer chose to put such flaws into the world, that it appears almost as if it were damaged. But I must believe that there is a purpose here I cannot see.” – &lt;em>1w/Faith v10.3.0047f&lt;/em>
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>Installer un Windows depuis "n'importe" quel OS</title><link>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</link><pubDate>Wed, 24 May 2017 11:18:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>Installer un Windows depuis "n'importe" quel OS</title><link>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</link><pubDate>Wed, 24 May 2017 11:18:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Haaa, ces produits Windows de chez M$, quel… merde, et dire qu&amp;rsquo;il y a des moments où l&amp;rsquo;on ne peut pas s&amp;rsquo;en passer… Merci les solutions proprio 🤢&lt;/p>
 &lt;p>&lt;em>Cette solution fonctionne sur tout Os ayant de la virtualisation (VirtualBox ici)&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/windows-10-installation-maj.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/windows-10-installation-maj.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/windows-10-installation-maj.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Long, moche et sans debug
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>[PHP] Utiliser ncurse pour des petits projets php</title><link>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</link><pubDate>Mon, 30 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>[PHP] Utiliser ncurse pour des petits projets php</title><link>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</link><pubDate>Mon, 30 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/php-utiliser-ncurse-pour-des-petits/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="-je-détiens-la-curse-toute-puissante-">⚡️ Je détiens la Curse toute puissante ⚔️&lt;/h3>
 &lt;p>Alors oui, la curse ce n&amp;rsquo;est pas vraiment aimé, puis on en croise de moins en moins. N’empêche que j&amp;rsquo;aime bien moi, c&amp;rsquo;est classe et faire du curse en PHP c&amp;rsquo;est rigolo.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/_Screenshot_DwarfFortressThree.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/_Screenshot_DwarfFortressThree.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/_Screenshot_DwarfFortressThree.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Envie d&amp;rsquo;un Dwarf Fortress en PHP ?
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>[PHP] Benchmark a base de XDebug et graphiques by kcachegrind</title><link>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</link><pubDate>Sat, 28 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>[PHP] Benchmark a base de XDebug et graphiques by kcachegrind</title><link>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</link><pubDate>Sat, 28 Nov 2015 09:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/php-benchmark-base-de-xdebug-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="des-bench-des-bench-oui-mais-des-bench-xdbug-">Des bench, des bench, oui mais des bench xdbug 🍝&lt;/h3>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-z_JKWn_h10o-WvS7zjloRAI-AAAAAAAAAxU-nnT9pNi6mjYf_wNtvH0ztYPKjVoGtuAHwCLcBGAs-s400-wp_xdebug.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
@@ -183,224 +235,274 @@ Moi: Effectivement, mais la réponse n&amp;rsquo;est pas aussi simple.&lt;/p></d
 &lt;li>Ils utilisent time() et microtime()(plus rarement), n&amp;rsquo;utilisent pas les fonctions de math &amp;hellip; et presque jamais $_SERVER[&amp;lsquo;REQUEST_TIME&amp;rsquo;]&lt;/li>
 &lt;li>Le temps d’exécution est en variation constante, il est donc logique de faire des résultats relatifs (%)&lt;/li>
 &lt;/ul>
-&lt;p>Débutons donc avec ces bench qui sont peut-être complétement débiles, mais tester par soi-même avec des approches différentes c&amp;rsquo;est sympa :)&lt;/p></description></item><item><title>[recette] Poêle à gaufres</title><link>https://blog.iglou.eu/recette-poele-gaufres/</link><pubDate>Fri, 27 Nov 2015 16:07:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/recette-poele-gaufres/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Débutons donc avec ces bench qui sont peut-être complétement débiles, mais tester par soi-même avec des approches différentes c&amp;rsquo;est sympa :)&lt;/p></description></item><item><title>[recette] Poêle à gaufres</title><link>https://blog.iglou.eu/recette-poele-gaufres/</link><pubDate>Fri, 27 Nov 2015 16:07:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/recette-poele-gaufres/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="-la-nuit-des-gaufres-a-la-poêle">🧟‍♀️ La nuit des gaufres a la poêle&lt;/h3>
 &lt;p>Il y a bien longtemps que je voulais me prendre une poêle à gaufres, ce n&amp;rsquo;est pas trop gros et ça se range dans le placard.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/p3.storage.canalblog.com-36-11-1323187-101691122_o.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/p3.storage.canalblog.com-36-11-1323187-101691122_o.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/p3.storage.canalblog.com-36-11-1323187-101691122_o.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  poêleuuuuh
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;p>&lt;strong>On veut bien Adrien, mais c&amp;rsquo;est bon ton truc ?&lt;/strong>&lt;br>
-Ba… De base non ! Ça ne ressemble vraiment pas au gout d&amp;rsquo;une gaufre, mais on y reviendra.&lt;/p></description></item><item><title>[PHP] $_SESSION = array(), session_unset et session_destroy()</title><link>https://blog.iglou.eu/php-session-array-sessionunset-et/</link><pubDate>Tue, 24 Mar 2015 18:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/php-session-array-sessionunset-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+Ba… De base non ! Ça ne ressemble vraiment pas au gout d&amp;rsquo;une gaufre, mais on y reviendra.&lt;/p></description></item><item><title>[PHP] $_SESSION = array(), session_unset et session_destroy()</title><link>https://blog.iglou.eu/php-session-array-sessionunset-et/</link><pubDate>Tue, 24 Mar 2015 18:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/php-session-array-sessionunset-et/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="session-my-php">Session my PHP&lt;/h3>
-&lt;p>Aidant de temps en temps sur des forums ou en IRC, je tombe par moment sur des personnes qui mélangent, confondes et font des mélimélo perso. Mais pas seulement, il arrive que ce soit les &amp;ldquo;helpers&amp;rdquo; qui induisent en erreur (et là, c&amp;rsquo;est le drame) &amp;hellip;&lt;/p></description></item><item><title>[TEST] KingFast F8 120GB / Du ssd 100% chinoi, ça donne quoi ?</title><link>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</link><pubDate>Sat, 18 Oct 2014 16:51:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>Aidant de temps en temps sur des forums ou en IRC, je tombe par moment sur des personnes qui mélangent, confondes et font des mélimélo perso. Mais pas seulement, il arrive que ce soit les &amp;ldquo;helpers&amp;rdquo; qui induisent en erreur (et là, c&amp;rsquo;est le drame) &amp;hellip;&lt;/p></description></item><item><title>[TEST] KingFast F8 120GB / Du ssd 100% chinoi, ça donne quoi ?</title><link>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</link><pubDate>Sat, 18 Oct 2014 16:51:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/test-kingfast-f8-120gb-du-ssd-100/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/kingfastssd.hu-wp-content-uploads-Kingfast_F8_sorozatu_25_SSD_meghajto-1024x682.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Ayant besoin de commander un ssd, pour quoi ne pas tester un KingFast qui était à moins de ~48€ pour 120Go au moment de mon achat
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;h3 id="la-réception-direct-on-ouvre-">La réception, direct on ouvre !&lt;/h3>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/1.bp.blogspot.com-GzZGt4tHxLs-VEI_sEAqaDI-AAAAAAAAAnQ-L5-I-kAf35E-s1600-17102014304.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/1.bp.blogspot.com-GzZGt4tHxLs-VEI_sEAqaDI-AAAAAAAAAnQ-L5-I-kAf35E-s1600-17102014304.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/1.bp.blogspot.com-GzZGt4tHxLs-VEI_sEAqaDI-AAAAAAAAAnQ-L5-I-kAf35E-s1600-17102014304.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Kingfast F8
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>
-&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/3.bp.blogspot.com-Wb9INTnO8eI-VEI_tq8GJjI-AAAAAAAAAnY-FUOYjms28LY-s1600-17102014305.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
- 
-&lt;/figure>
-&lt;p>
-&lt;/p></description></item><item><title>[BG/BGEE] Continuer à jouer apres la mort de Sarevok</title><link>https://blog.iglou.eu/bgbgee-continuer-jouer-apres-la-mort-de/</link><pubDate>Wed, 25 Jun 2014 01:26:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/bgbgee-continuer-jouer-apres-la-mort-de/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+
+&lt;/p></description></item><item><title>[BG/BGEE] Continuer à jouer apres la mort de Sarevok</title><link>https://blog.iglou.eu/bgbgee-continuer-jouer-apres-la-mort-de/</link><pubDate>Wed, 25 Jun 2014 01:26:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/bgbgee-continuer-jouer-apres-la-mort-de/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="cest-moi-imoën-cest-bon-de-vous-revoir">C&amp;rsquo;est moi Imoën, c&amp;rsquo;est bon de vous revoir&lt;/h2>
 &lt;p>Grand fan de La serie Baldur&amp;rsquo;s Gate, je n&amp;rsquo;avais pourtant jamais fini le 1er du nom&amp;hellip; Voici qui est chose faite !&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/f7a5100911490a22491ede623bbee5dd76027469c3759816e4c6ddd389493603.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/f7a5100911490a22491ede623bbee5dd76027469c3759816e4c6ddd389493603.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/f7a5100911490a22491ede623bbee5dd76027469c3759816e4c6ddd389493603.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Mais comme moi, il est probable que vous vous soyez dis&amp;hellip; &amp;ldquo;Tien je vais aller tuer Sarevok et me garde TotSC pour apres&amp;rdquo; !&lt;/p></description></item><item><title>[Alsa+Dmix] Mixer les sources pour plusieurs cartes</title><link>https://blog.iglou.eu/alsa-mixer-les-sources-avec-plusieurs/</link><pubDate>Sun, 16 Mar 2014 22:44:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/alsa-mixer-les-sources-avec-plusieurs/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Mais comme moi, il est probable que vous vous soyez dis&amp;hellip; &amp;ldquo;Tien je vais aller tuer Sarevok et me garde TotSC pour apres&amp;rdquo; !&lt;/p></description></item><item><title>[Alsa+Dmix] Mixer les sources pour plusieurs cartes</title><link>https://blog.iglou.eu/alsa-mixer-les-sources-avec-plusieurs/</link><pubDate>Sun, 16 Mar 2014 22:44:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/alsa-mixer-les-sources-avec-plusieurs/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Voici déjà plus de 4jours que je cherchais la solution afin d&amp;rsquo;avoir le mixage des sources avec plusieurs cartes son. Par la suite de mes recherches, j&amp;rsquo;avais déjà posté sur comment utiliser plusieurs cartes son avec Alsa.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/www.noulakaz.net-weblog-images-20050814-dmix.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/www.noulakaz.net-weblog-images-20050814-dmix.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/www.noulakaz.net-weblog-images-20050814-dmix.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
-&lt;p>&lt;/p>
-&lt;p>N’ayant VRAIMENT pas envie d&amp;rsquo;utiliser quelque chose comme Jack, PulseAudio et autres machines a gaz nécessitant moults configurations, direction Dmix le plugin d&amp;rsquo;Alsa. Alsa, mixage de sources = Dmix.&lt;/p></description></item><item><title>Aseprite, le libre du PixelArt</title><link>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</link><pubDate>Thu, 13 Mar 2014 17:27:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>Aseprite, le libre du PixelArt</title><link>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</link><pubDate>Thu, 13 Mar 2014 17:27:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/aseprite-le-libre-du-pixelart/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;hr>
 &lt;div class="box warning monospace">&lt;span>&lt;strong>EDIT&lt;/strong> : Aseprite Aseprite étant sous licence propriétaire depuis
 2016, un fork a vu le jour sous le nom de&lt;br>
-&lt;a href="https://libresprite.github.io/#!/" class="article_content__link link inherit" rel="noreferrer nofollow noopener">LibeSprite&lt;/a> 😘&lt;/span>&lt;/div>
+&lt;pre>&lt;code>&amp;lt;a href=&amp;quot;https://libresprite.github.io/#!/&amp;quot; class=&amp;quot;external-link&amp;quot; rel=&amp;quot;noreferrer nofollow noopener&amp;quot; target=&amp;quot;_blank&amp;quot; &amp;gt;LibeSprite&amp;lt;/a&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;p>😘&lt;/span>&lt;/div>&lt;/p>
 &lt;p>Aseprite est un logiciel &lt;strong>Libre&lt;/strong> et &lt;strong>OpenSource&lt;/strong> destiné au PixelArt.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/546537-the-humble-bundle-mojam-windows-screenshot-catacomb-snatch.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/546537-the-humble-bundle-mojam-windows-screenshot-catacomb-snatch.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/546537-the-humble-bundle-mojam-windows-screenshot-catacomb-snatch.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Image du jeux &amp;quot;Catacomb Snatch&amp;quot;, réalisé avec Aseprite.
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>Candy Box 2</title><link>https://blog.iglou.eu/candy-box-2/</link><pubDate>Wed, 12 Mar 2014 16:49:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/candy-box-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>Candy Box 2</title><link>https://blog.iglou.eu/candy-box-2/</link><pubDate>Wed, 12 Mar 2014 16:49:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/candy-box-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Il y a déjà de ça quelque mois un amis m&amp;rsquo;a partagé un lien, m&amp;rsquo;informant que c’était un petit jeux, rien de plus.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/candy_box_2_title.PNG" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/candy_box_2_title.PNG" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/candy_box_2_title.PNG" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
- &lt;a href="http://candybox2.net/" class="article_content__link link inherit" rel="noreferrer nofollow noopener">http://candybox2.net/&lt;/a>
+ &lt;figcaption class="img-desc">
+ &lt;a href="http://candybox2.net/" class="external-link" rel="noreferrer nofollow noopener" target="_blank" >http://candybox2.net/&lt;/a>
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Ayant l’habitude des petit jeux idiot j&amp;rsquo;ai persévéré, il faut dire que la 1ere page proposant de manger des bomboms n&amp;rsquo;est pas intéressante très longtemps.&lt;/p></description></item><item><title>Alsa plusieurs cartes son et sortie audio USB</title><link>https://blog.iglou.eu/alsa-plusieurs-cartes-son-et-sortie/</link><pubDate>Tue, 11 Mar 2014 14:33:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/alsa-plusieurs-cartes-son-et-sortie/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
-&lt;p>&lt;strong>Bonjour à tous,&lt;/strong> après deux ans de loyaux services mon casque a rendu l’âme &amp;hellip; Il était donc naturel d&amp;rsquo;en quérir un nouveau. Malheureusement et bien que choisi avec soin, celui ci à une connectique USB me limitant donc aux ordi. La qualité sonore n&amp;rsquo;en est pas pourtant pas meilleur, et c&amp;rsquo;est donc adieu (temporaire) à l&amp;rsquo;universel JACK qui lui, m&amp;rsquo;aurait permis de connecter ce casque a ma console &amp;hellip;&lt;/p></description></item><item><title>Crash de LibreOffice sous Linux</title><link>https://blog.iglou.eu/crash-de-libreoffice-sous-linux/</link><pubDate>Thu, 16 Jan 2014 04:59:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/crash-de-libreoffice-sous-linux/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Ayant l’habitude des petit jeux idiot j&amp;rsquo;ai persévéré, il faut dire que la 1ere page proposant de manger des bomboms n&amp;rsquo;est pas intéressante très longtemps.&lt;/p></description></item><item><title>Alsa plusieurs cartes son et sortie audio USB</title><link>https://blog.iglou.eu/alsa-plusieurs-cartes-son-et-sortie/</link><pubDate>Tue, 11 Mar 2014 14:33:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/alsa-plusieurs-cartes-son-et-sortie/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;strong>Bonjour à tous,&lt;/strong> après deux ans de loyaux services mon casque a rendu l’âme &amp;hellip; Il était donc naturel d&amp;rsquo;en quérir un nouveau. Malheureusement et bien que choisi avec soin, celui ci à une connectique USB me limitant donc aux ordi. La qualité sonore n&amp;rsquo;en est pas pourtant pas meilleur, et c&amp;rsquo;est donc adieu (temporaire) à l&amp;rsquo;universel JACK qui lui, m&amp;rsquo;aurait permis de connecter ce casque a ma console &amp;hellip;&lt;/p></description></item><item><title>Crash de LibreOffice sous Linux</title><link>https://blog.iglou.eu/crash-de-libreoffice-sous-linux/</link><pubDate>Thu, 16 Jan 2014 04:59:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/crash-de-libreoffice-sous-linux/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="libreoffice-crache-sa-sauce">LibreOffice crache sa sauce&lt;/h2>
 &lt;p>Créer un document, rédiger quelques ligne, être fière de son boulot et ce dire &amp;ldquo;Je vais enregistrer on ne sait jamais&amp;rdquo;, la BAM.&lt;br>
-Par deux fois, je me suis fait avoir par un crash de LibreOffice. Mais il ne m&amp;rsquo;y reprendras plus !&lt;/p></description></item><item><title>Benchmark apache entre 32-64bit</title><link>https://blog.iglou.eu/benchmark-apache-entre-32-64bit/</link><pubDate>Thu, 16 Jan 2014 04:25:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/benchmark-apache-entre-32-64bit/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
-&lt;p>&lt;strong>Bonjours à tous,&lt;/strong> dernièrement je me suis demandé quel seraient les différences entre un OS 32-64bit pour un serveur (notamment apache et ce après une discutions avec mon oncle), je m&amp;rsquo;attendais à de petites différences en faveur du 64bit. C&amp;rsquo;est la 1ere fois que je réalise un benchmark espérons que je ne fasse pas trop d&amp;rsquo;erreur&amp;hellip;&lt;/p></description></item><item><title>OpenBSD Memo</title><link>https://blog.iglou.eu/openbsd-memo/</link><pubDate>Fri, 31 May 2013 16:15:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/openbsd-memo/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+Par deux fois, je me suis fait avoir par un crash de LibreOffice. Mais il ne m&amp;rsquo;y reprendras plus !&lt;/p></description></item><item><title>Benchmark apache entre 32-64bit</title><link>https://blog.iglou.eu/benchmark-apache-entre-32-64bit/</link><pubDate>Thu, 16 Jan 2014 04:25:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/benchmark-apache-entre-32-64bit/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;strong>Bonjours à tous,&lt;/strong> dernièrement je me suis demandé quel seraient les différences entre un OS 32-64bit pour un serveur (notamment apache et ce après une discutions avec mon oncle), je m&amp;rsquo;attendais à de petites différences en faveur du 64bit. C&amp;rsquo;est la 1ere fois que je réalise un benchmark espérons que je ne fasse pas trop d&amp;rsquo;erreur&amp;hellip;&lt;/p></description></item><item><title>OpenBSD Memo</title><link>https://blog.iglou.eu/openbsd-memo/</link><pubDate>Fri, 31 May 2013 16:15:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/openbsd-memo/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="-open-ton-bsd">🐡 Open ton BSD&lt;/h3>
 &lt;p>&lt;strong>Pour ce nouveau post, BSD est a l&amp;rsquo;honneur et plus précisément, l&amp;rsquo;OpenBSD.&lt;/strong>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/puffy53.gif" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/puffy53.gif" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/puffy53.gif" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Inspiration du film blade runner pour cette V5.3
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Avant toute chose, si vous n&amp;rsquo;avez jamais touche à OpenBSD, je vous conseil de passer par leur &lt;a href="http://www.openbsd.org/faq/fr/index.html" class="article_content__link link inherit" rel="noreferrer nofollow noopener">FAQ&lt;/a>, qui est tout simplement génial ! Contrairement à la croyance cette distribution n&amp;rsquo;est pas vraiment déroutante, et ceux grâce à la trés bonne documentation qui offre toujours réponse à tout. Le système est là pour vous guider vers un pas de plus, notamment par ses nombreux &amp;ldquo;e-mails&amp;rdquo;. Vous me direz que ce mémo n&amp;rsquo;est donc pas utile &amp;hellip; Perso je n&amp;rsquo;aime pas chercher 3h dans une doc, un point particulier que j&amp;rsquo;ai déjà abordé 100fois.&lt;/p></description></item><item><title>Don't Starve Steam - Divers bug !</title><link>https://blog.iglou.eu/dont-starve-steam-divers-bug/</link><pubDate>Sat, 11 May 2013 19:52:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/dont-starve-steam-divers-bug/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Avant toute chose, si vous n&amp;rsquo;avez jamais touche à OpenBSD, je vous conseil de passer par leur 
+ &lt;a href="http://www.openbsd.org/faq/fr/index.html" class="external-link" rel="noreferrer nofollow noopener" target="_blank" >FAQ&lt;/a>
+
+, qui est tout simplement génial ! Contrairement à la croyance cette distribution n&amp;rsquo;est pas vraiment déroutante, et ceux grâce à la trés bonne documentation qui offre toujours réponse à tout. Le système est là pour vous guider vers un pas de plus, notamment par ses nombreux &amp;ldquo;e-mails&amp;rdquo;. Vous me direz que ce mémo n&amp;rsquo;est donc pas utile &amp;hellip; Perso je n&amp;rsquo;aime pas chercher 3h dans une doc, un point particulier que j&amp;rsquo;ai déjà abordé 100fois.&lt;/p></description></item><item><title>Don't Starve Steam - Divers bug !</title><link>https://blog.iglou.eu/dont-starve-steam-divers-bug/</link><pubDate>Sat, 11 May 2013 19:52:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/dont-starve-steam-divers-bug/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Bonjour a tous, je viens de m&amp;rsquo;offrir Don&amp;rsquo;t starve et comptais m&amp;rsquo;y metre de suite. Mais là encore Super-Bug est présent. Voici donc comment résoudre certaines erreurs que j&amp;rsquo;ai eu.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/td.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/td.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/td.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>&lt;strong>1. Le jeux ne voulais pas démarrer !&lt;/strong>&lt;/p>
-&lt;p>J&amp;rsquo;avais acctivé  la traduction française inclue avec le jeux sous forme de mod et le jeu refusait tout bonnement de ce lancer.&lt;/p></description></item><item><title>.kkrieger [Test]</title><link>https://blog.iglou.eu/kkrieger-test/</link><pubDate>Fri, 19 Apr 2013 00:59:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/kkrieger-test/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;strong>1. Le jeux ne voulais pas démarrer !&lt;/strong>&lt;/p></description></item><item><title>.kkrieger [Test]</title><link>https://blog.iglou.eu/kkrieger-test/</link><pubDate>Fri, 19 Apr 2013 00:59:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/kkrieger-test/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="kkrieger-un-bon-petit-fps-qui-tourne-comme-un-charme">.kkrieger, Un bon petit FPS qui tourne comme un charme.&lt;/h2>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/cvr.pl-gry-pic-kkrieger-logo.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/cvr.pl-gry-pic-kkrieger-logo.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/cvr.pl-gry-pic-kkrieger-logo.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;h3 id="le-jeu">Le jeu&lt;/h3>
 &lt;p>.Kkrieger fut realisé par &amp;lsquo;.theprodukkt&amp;rsquo; en 2004.&lt;/p>
 &lt;p>C&amp;rsquo;est un FPS, trés &amp;ldquo;quake like&amp;rdquo;. (J&amp;rsquo;apprécie toujours ces reprises bien réalisé.)&lt;/p>
-&lt;p>Comme dans tout FPS le but est de nettoyer la zone du petit bestiaire mis à disposition.&lt;/p></description></item><item><title>Utiliser un Terminal Linux et le comprendre</title><link>https://blog.iglou.eu/utiliser-un-terminal-linux-et-le/</link><pubDate>Wed, 17 Apr 2013 18:37:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/utiliser-un-terminal-linux-et-le/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Comme dans tout FPS le but est de nettoyer la zone du petit bestiaire mis à disposition.&lt;/p></description></item><item><title>Utiliser un Terminal Linux et le comprendre</title><link>https://blog.iglou.eu/utiliser-un-terminal-linux-et-le/</link><pubDate>Wed, 17 Apr 2013 18:37:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/utiliser-un-terminal-linux-et-le/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Je me souviens d&amp;rsquo;il y a ~15ans, le début de mes déboires en informatique. La difficulté que j&amp;rsquo;avais à comprendre Tutoriels divers passant par ces &amp;ldquo;Terminaux&amp;rdquo;. Ce n&amp;rsquo;est qu’après des mois ou plus encore que j&amp;rsquo;en avais compris l’utilité.&lt;/p>
-&lt;p>Il est certain que de nos jours avec internet que je n&amp;rsquo;avais pas à l’époque, les choses sont bien plus simples. Mais si personne ne prend la peine d&amp;rsquo;expliquer la BASE des BASES, on ne peut pas faire un pas de plus !&lt;/p></description></item><item><title>Erreur scanner Epson et Xsane</title><link>https://blog.iglou.eu/erreur-scanner-epson-et-xsane/</link><pubDate>Tue, 16 Apr 2013 13:56:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/erreur-scanner-epson-et-xsane/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Il est certain que de nos jours avec internet que je n&amp;rsquo;avais pas à l’époque, les choses sont bien plus simples. Mais si personne ne prend la peine d&amp;rsquo;expliquer la BASE des BASES, on ne peut pas faire un pas de plus !&lt;/p></description></item><item><title>Erreur scanner Epson et Xsane</title><link>https://blog.iglou.eu/erreur-scanner-epson-et-xsane/</link><pubDate>Tue, 16 Apr 2013 13:56:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/erreur-scanner-epson-et-xsane/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="epson2-e2_ext_read-cancel-request-received">[epson2] e2_ext_read: cancel request received&lt;/h2>
-&lt;p>Avec cette erreur, il y avait un moment que je n&amp;rsquo;avais pas touché a mon scanner. Lors d&amp;rsquo;une numérisation, il débutait et s’arrêtait directement. A l’époque j&amp;rsquo;avais réalisé des recherches sur quelques centaines de forum qui au final disait qu&amp;rsquo;il y avait un bug avec les pilotes epson&amp;hellip;&lt;/p></description></item><item><title>Logiciel et Jeux Windows sous Linux avec wine</title><link>https://blog.iglou.eu/logiciel-et-jeux-windows-sous-linux/</link><pubDate>Sun, 14 Apr 2013 16:56:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/logiciel-et-jeux-windows-sous-linux/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Avec cette erreur, il y avait un moment que je n&amp;rsquo;avais pas touché a mon scanner. Lors d&amp;rsquo;une numérisation, il débutait et s’arrêtait directement. A l’époque j&amp;rsquo;avais réalisé des recherches sur quelques centaines de forum qui au final disait qu&amp;rsquo;il y avait un bug avec les pilotes epson&amp;hellip;&lt;/p></description></item><item><title>Logiciel et Jeux Windows sous Linux avec wine</title><link>https://blog.iglou.eu/logiciel-et-jeux-windows-sous-linux/</link><pubDate>Sun, 14 Apr 2013 16:56:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/logiciel-et-jeux-windows-sous-linux/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="comment-utiliser-wine">Comment utiliser Wine&lt;/h3>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/lan.nost.biz-wp-content-uploads-2012-10-wine-logo.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/lan.nost.biz-wp-content-uploads-2012-10-wine-logo.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/lan.nost.biz-wp-content-uploads-2012-10-wine-logo.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Wine est un projet qui a débuté en 1993 et a donc 20ans ! Sa première version stable est sortie en 2008, il a fallu prés de 15ans pour la développer. Wine n&amp;rsquo;est pas un émulateur Windows, il n&amp;rsquo;a pas besoin du système Windows et c&amp;rsquo;est ce qui le différencie de beaucoup.&lt;/p></description></item><item><title>Un remplaçant a Photoshop.</title><link>https://blog.iglou.eu/un-remplacant-photoshop/</link><pubDate>Tue, 02 Apr 2013 02:22:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/un-remplacant-photoshop/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Wine est un projet qui a débuté en 1993 et a donc 20ans ! Sa première version stable est sortie en 2008, il a fallu prés de 15ans pour la développer. Wine n&amp;rsquo;est pas un émulateur Windows, il n&amp;rsquo;a pas besoin du système Windows et c&amp;rsquo;est ce qui le différencie de beaucoup.&lt;/p></description></item><item><title>Un remplaçant a Photoshop.</title><link>https://blog.iglou.eu/un-remplacant-photoshop/</link><pubDate>Tue, 02 Apr 2013 02:22:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/un-remplacant-photoshop/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>&lt;strong>Krita&lt;/strong>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/doc.ubuntu-fr.org-_media-applications-kde-koffice-krita.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/doc.ubuntu-fr.org-_media-applications-kde-koffice-krita.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/doc.ubuntu-fr.org-_media-applications-kde-koffice-krita.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;p>Il a tout d&amp;rsquo;un grand et fait tout comme un grand !&lt;/p>
 &lt;p>Krita est un logiciel de traitement d&amp;rsquo;image au même titre que photoshop, gimp &amp;hellip;&lt;/p>
-&lt;p>Krita s&amp;rsquo;appuie sur Calligra , qui est une suite bureautique développé pour l&amp;rsquo;environnement de bureau KDE.&lt;/p></description></item><item><title>Guild wars 2 sur Linux</title><link>https://blog.iglou.eu/guild-wars-2-sur-linux/</link><pubDate>Mon, 18 Mar 2013 05:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/guild-wars-2-sur-linux/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Krita s&amp;rsquo;appuie sur Calligra , qui est une suite bureautique développé pour l&amp;rsquo;environnement de bureau KDE.&lt;/p></description></item><item><title>Guild wars 2 sur Linux</title><link>https://blog.iglou.eu/guild-wars-2-sur-linux/</link><pubDate>Mon, 18 Mar 2013 05:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/guild-wars-2-sur-linux/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="guild-wars-2-de-moins-en-mois-bon">Guild wars 2, de moins en mois bon.&lt;/h2>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/www.ylluminatis.com-forum-uploads-ac62a944dff38639c307587be7f15a4f.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/www.ylluminatis.com-forum-uploads-ac62a944dff38639c307587be7f15a4f.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/www.ylluminatis.com-forum-uploads-ac62a944dff38639c307587be7f15a4f.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;p>A la base de la béta, ArenaNet annonçait fièrement ça compatibilité sous linux grâce a wine. Ce n&amp;rsquo;est plus complétement vrais.&lt;/p>
-&lt;p>Lors des mises a jours ou du téléchargement on peut avoir jusqu’à plus de 30plantages aven d&amp;rsquo;en finir.&lt;/p></description></item><item><title>Une solution a la lenteur de YouTube</title><link>https://blog.iglou.eu/une-solution-la-lenteur-de-youtube/</link><pubDate>Tue, 05 Mar 2013 02:31:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/une-solution-la-lenteur-de-youtube/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Lors des mises a jours ou du téléchargement on peut avoir jusqu’à plus de 30plantages aven d&amp;rsquo;en finir.&lt;/p></description></item><item><title>Une solution a la lenteur de YouTube</title><link>https://blog.iglou.eu/une-solution-la-lenteur-de-youtube/</link><pubDate>Tue, 05 Mar 2013 02:31:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/une-solution-la-lenteur-de-youtube/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>&lt;strong>Youtube est lent, ce n&amp;rsquo;est pas un secret .&lt;/strong>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/www.nikopik.com-wp-content-uploads-2012-09-youtube-loading-troll.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/www.nikopik.com-wp-content-uploads-2012-09-youtube-loading-troll.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/www.nikopik.com-wp-content-uploads-2012-09-youtube-loading-troll.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Regarder une video en hd ce sont des temps de chargement a n&amp;rsquo;en plus finir. Pourtant l&amp;rsquo;ADL est bien capable du supporter ce flux video sans problème.&lt;/p>
-&lt;p>Alors c&amp;rsquo;est merde ? Ou est l&amp;rsquo;erreur ? &amp;ldquo;L&amp;rsquo;erreur&amp;rdquo; ne sont pas les serveur youtube, vous pensez bien qu&amp;rsquo;avec tout ce fric &amp;hellip; ils peuvent assurer. Ce sont en réalité nos F.A.I qu&amp;rsquo;il faut pointer du doigt. SFR, FREE, ORANGE &amp;hellip; Ils ont tous pris le parti de brider la connexion.&lt;/p></description></item><item><title>Steam sous linux Et la SteamBox</title><link>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</link><pubDate>Mon, 04 Mar 2013 02:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Regarder une video en hd ce sont des temps de chargement a n&amp;rsquo;en plus finir. Pourtant l&amp;rsquo;ADL est bien capable du supporter ce flux video sans problème.&lt;/p></description></item><item><title>Steam sous linux Et la SteamBox</title><link>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</link><pubDate>Mon, 04 Mar 2013 02:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/steam-sous-linux-et-la-steambox/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="i-have-a-dream-__">I Have a Dream &lt;em>!&lt;/em>&lt;/h2>
 &lt;p>&lt;em>(pardonne moi martin de t&amp;rsquo;utiliser en informatique &amp;hellip;)&lt;/em>&lt;/p>
 &lt;p>Hé oui, steam est officiellement sous G/Linux depuis plus de 3semaines et c&amp;rsquo;est loin d’être un flop !&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/img.clubic.com-05720824-photo-steam-linux.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/img.clubic.com-05720824-photo-steam-linux.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/img.clubic.com-05720824-photo-steam-linux.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Avec un démarrage du feu des dieux, Steam-Linux serait déjà utilisé par plus de ~2,84%(tout linux confondu) de la communauté steam contre ~3.07% pour apple (bien que les mac ne soit pas des playeurs).&lt;/p></description></item><item><title>Utiliser Screen et résoudre "No more PTY"</title><link>https://blog.iglou.eu/utiliser-screen-et-r%C3%A9soudre-no-more-pty/</link><pubDate>Tue, 22 Jan 2013 16:07:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/utiliser-screen-et-r%C3%A9soudre-no-more-pty/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Avec un démarrage du feu des dieux, Steam-Linux serait déjà utilisé par plus de ~2,84%(tout linux confondu) de la communauté steam contre ~3.07% pour apple (bien que les mac ne soit pas des playeurs).&lt;/p></description></item><item><title>Utiliser Screen et résoudre "No more PTY"</title><link>https://blog.iglou.eu/utiliser-screen-et-r%C3%A9soudre-no-more-pty/</link><pubDate>Tue, 22 Jan 2013 16:07:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/utiliser-screen-et-r%C3%A9soudre-no-more-pty/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="un-screen-vaut-mieux-que-deux-tu-lauras">Un Screen vaut mieux que deux tu l&amp;rsquo;auras&lt;/h3>
 &lt;p>Après avoir combattu lamentablement pour utiliser &amp;ldquo;dtach&amp;rdquo;, je me suis résigné devant mes maigres réussites. Et est donc opté pour le plus simple et le plus rependu &amp;ldquo;Screen&amp;rdquo;.&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/lh3.ggpht.com-CXvIZ0OWmnY-UP6csWhQwsI-AAAAAAAAAcc-BL73NPmm6U4-s400-Sans-titre.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/lh3.ggpht.com-CXvIZ0OWmnY-UP6csWhQwsI-AAAAAAAAAcc-BL73NPmm6U4-s400-Sans-titre.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/lh3.ggpht.com-CXvIZ0OWmnY-UP6csWhQwsI-AAAAAAAAAcc-BL73NPmm6U4-s400-Sans-titre.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
-&lt;p>&lt;/p>
-&lt;p>Après ce screen de l&amp;rsquo;utilisation de &amp;ldquo;screen&amp;rdquo;, passons à une rapide vue de son fonctionnement. Sans oublier de l&amp;rsquo;installer au besoin &amp;hellip;&lt;/p></description></item><item><title>Sous domaine sur dédié</title><link>https://blog.iglou.eu/sous-domaine-sur-d%C3%A9di%C3%A9/</link><pubDate>Thu, 29 Nov 2012 14:03:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/sous-domaine-sur-d%C3%A9di%C3%A9/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>Sous domaine sur dédié</title><link>https://blog.iglou.eu/sous-domaine-sur-d%C3%A9di%C3%A9/</link><pubDate>Thu, 29 Nov 2012 14:03:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/sous-domaine-sur-d%C3%A9di%C3%A9/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Lors de me première installation/configuration d&amp;rsquo;un serveur dédié, j&amp;rsquo;ai ramé.&lt;/p>
-&lt;p>J’étais un habitué des système G/Linux comme utilisateur depuis déjà un moment, mais je n&amp;rsquo;imaginais pas le monde du serveur web. (Au passage, je ne voulais de base pas faire de serveur sous un Linux mais BSD, ayant débuté sur du serveur virtualisé mon hébergeur donnait que très peu de choix)&lt;/p></description></item><item><title>Apache2 et ssh, mini memo</title><link>https://blog.iglou.eu/apache2-et-ssh-mini-memo/</link><pubDate>Wed, 14 Nov 2012 05:56:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/apache2-et-ssh-mini-memo/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>J’étais un habitué des système G/Linux comme utilisateur depuis déjà un moment, mais je n&amp;rsquo;imaginais pas le monde du serveur web. (Au passage, je ne voulais de base pas faire de serveur sous un Linux mais BSD, ayant débuté sur du serveur virtualisé mon hébergeur donnait que très peu de choix)&lt;/p></description></item><item><title>Apache2 et ssh, mini memo</title><link>https://blog.iglou.eu/apache2-et-ssh-mini-memo/</link><pubDate>Wed, 14 Nov 2012 05:56:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/apache2-et-ssh-mini-memo/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="-deb--me-">🙈 Deb 🙉 me 🙊&lt;/h2>
-&lt;p>Il y a de cela 8mois, j&amp;rsquo;avais entamé la configuration de mon nouveau serveur dédié sous debian. Il y a peu, j&amp;rsquo;eus besoin de modifications très simples, mais pas moyen de me rappeler comment les effectuer. Profitons en pour realiser un memo qui me servira aussi dans le futur.&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 2]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</link><pubDate>Fri, 09 Nov 2012 04:07:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Il y a de cela 8mois, j&amp;rsquo;avais entamé la configuration de mon nouveau serveur dédié sous debian. Il y a peu, j&amp;rsquo;eus besoin de modifications très simples, mais pas moyen de me rappeler comment les effectuer. Profitons en pour realiser un memo qui me servira aussi dans le futur.&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 2]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</link><pubDate>Fri, 09 Nov 2012 04:07:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="loptimisation-pour-linfographie">L&amp;rsquo;optimisation pour l&amp;rsquo;infographie.&lt;/h3>
 &lt;p>Mettons les points sur les &amp;ldquo;I&amp;rdquo;. Que vous ayez l&amp;rsquo;argent ou pas, faire de l&amp;rsquo;infographie sur un ordinateur portable est une erreur ! Acheter un ordinateur dit d&amp;rsquo;infographie dans le commerce en est une autre.&lt;/p>
-&lt;p>Je vais vous parler ici des optimisations préférables pour l&amp;rsquo;infographie, que ce soit pour de la 3D, de la retouche, création 2D, etc &amp;hellip; Pour illustrer mes propos je vais utiliser les noms de logiciels connus comme Photoshop ou encore maya, mais ces optimisations sont valables pour tout logiciel du même genre.&lt;/p></description></item><item><title>KDE, un démarrage digne de windows.</title><link>https://blog.iglou.eu/kde-un-demarrage-digne-de-windows/</link><pubDate>Fri, 09 Nov 2012 02:15:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/kde-un-demarrage-digne-de-windows/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Je vais vous parler ici des optimisations préférables pour l&amp;rsquo;infographie, que ce soit pour de la 3D, de la retouche, création 2D, etc &amp;hellip; Pour illustrer mes propos je vais utiliser les noms de logiciels connus comme Photoshop ou encore maya, mais ces optimisations sont valables pour tout logiciel du même genre.&lt;/p></description></item><item><title>KDE, un démarrage digne de windows.</title><link>https://blog.iglou.eu/kde-un-demarrage-digne-de-windows/</link><pubDate>Fri, 09 Nov 2012 02:15:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/kde-un-demarrage-digne-de-windows/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Depuis quelques jours, j&amp;rsquo;ai réinstallé mon Archnunux. Le SSD en place, je boot en 0,4s depuis le chargement de GRUB2 à KDM, mais la connexion a KDE prend 10-12s.&lt;/p>
-&lt;p>A son passage en version 4, KDE c&amp;rsquo;est tout à coup pris de lenteur et bien que ce soit optimisé sur les dernières versions, le problème persiste.&lt;/p></description></item><item><title>Activer la function mail() pour son serveur php</title><link>https://blog.iglou.eu/activer-la-function-mail-pour-son/</link><pubDate>Thu, 02 Aug 2012 20:13:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/activer-la-function-mail-pour-son/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>A son passage en version 4, KDE c&amp;rsquo;est tout à coup pris de lenteur et bien que ce soit optimisé sur les dernières versions, le problème persiste.&lt;/p></description></item><item><title>Activer la function mail() pour son serveur php</title><link>https://blog.iglou.eu/activer-la-function-mail-pour-son/</link><pubDate>Thu, 02 Aug 2012 20:13:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/activer-la-function-mail-pour-son/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="php-ho-my-mail-">PHP, Ho my mail() !&lt;/h2>
 &lt;p>Serveur dédié (ou pas), si nous n&amp;rsquo;avons pas l’utilité d&amp;rsquo;un véritable serveur mail (genre l&amp;rsquo;usine postfix) pour quoi s’embêter. Voyons comment envoyer des email son pouvoir en recevoir sous Debian.&lt;/p>
-&lt;p>&lt;strong>On install Sendmail qui ce chargera de ça.&lt;/strong>&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 1]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</link><pubDate>Mon, 25 Jun 2012 19:08:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
-&lt;p>Sérieusement, étudiant ou pas, la plupart des personnes trimes pour avoir un peu d&amp;rsquo;argent. Et ainsi pouvoir aller 2-3 fois au cinéma, boire quelques verres entre amis, aller en boite et au resto et ce, en plus de son loyer et des divers charges. Alors comment pourrait on s’offrir un ordinateur correcte ? Si l&amp;rsquo;on est un gamer les config minimum demandaient sont des ordinateurs dans les 600€ et si l&amp;rsquo;on voudrais que le jeux tourne correctement on en parle même pas. Même chose pour les suite comme CS5, Maya, etc (Il n&amp;rsquo;y a que Gimp et Bender qui sont capable d’être optimisé &amp;hellip;)&lt;/p></description></item><item><title>Ecouter de la musique</title><link>https://blog.iglou.eu/ecouter-de-la-musique/</link><pubDate>Thu, 26 Jan 2012 02:56:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/ecouter-de-la-musique/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
-&lt;p>A vous qui aimez la musique. Qui, chaque jour, soutenu par leurs diverses mélodies travaillent avec entrain (ou ce détendent). J&amp;rsquo;ai remarqué le peu de respect en vers elle dont beaucoup font preuve, et dédit donc ce post à vous tous qui ne connaissaient probablement pas la véritable sonorité de vos morceaux favoris.&lt;/p></description></item><item><title>Un peu d'OS X (les bases)</title><link>https://blog.iglou.eu/un-peu-dos-x-les-bases/</link><pubDate>Mon, 16 Jan 2012 10:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/un-peu-dos-x-les-bases/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;strong>On install Sendmail qui ce chargera de ça.&lt;/strong>&lt;/p></description></item><item><title>L'informatique c'est pas si cher [Partie 1]</title><link>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</link><pubDate>Mon, 25 Jun 2012 19:08:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/linformatique-cest-pas-si-cher-partie-1/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Sérieusement, étudiant ou pas, la plupart des personnes trimes pour avoir un peu d&amp;rsquo;argent. Et ainsi pouvoir aller 2-3 fois au cinéma, boire quelques verres entre amis, aller en boite et au resto et ce, en plus de son loyer et des divers charges. Alors comment pourrait on s’offrir un ordinateur correcte ? Si l&amp;rsquo;on est un gamer les config minimum demandaient sont des ordinateurs dans les 600€ et si l&amp;rsquo;on voudrais que le jeux tourne correctement on en parle même pas. Même chose pour les suite comme CS5, Maya, etc (Il n&amp;rsquo;y a que Gimp et Bender qui sont capable d’être optimisé &amp;hellip;)&lt;/p></description></item><item><title>Ecouter de la musique</title><link>https://blog.iglou.eu/ecouter-de-la-musique/</link><pubDate>Thu, 26 Jan 2012 02:56:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/ecouter-de-la-musique/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>A vous qui aimez la musique. Qui, chaque jour, soutenu par leurs diverses mélodies travaillent avec entrain (ou ce détendent). J&amp;rsquo;ai remarqué le peu de respect en vers elle dont beaucoup font preuve, et dédit donc ce post à vous tous qui ne connaissaient probablement pas la véritable sonorité de vos morceaux favoris.&lt;/p></description></item><item><title>Un peu d'OS X (les bases)</title><link>https://blog.iglou.eu/un-peu-dos-x-les-bases/</link><pubDate>Mon, 16 Jan 2012 10:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/un-peu-dos-x-les-bases/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Il est rare pour moi d&amp;rsquo;avoir a toucher a un terminal de l&amp;rsquo;Os a la pomme.
-L&amp;rsquo;Os a la pomme (pourie) et les &amp;ldquo;Linux&amp;rdquo; on beaucoup de commandes en commun. Pourquoi ? Car ils sont tout deux basé sur &amp;ldquo;UNIX&amp;rdquo; et vous le savez (oui oui).
-Au passage il n&amp;rsquo;est plus correcte de parler de &amp;ldquo;MAC&amp;rdquo; pour désigner cette l&amp;rsquo;Os, la ligné &amp;ldquo;MAC&amp;rdquo; n’étant pas &amp;ldquo;UNIX&amp;rdquo; comparé a &amp;ldquo;MAC OS X&amp;rdquo;&lt;/p></description></item><item><title>Archlinux mini memo (partie 3)</title><link>https://blog.iglou.eu/archlinux-mini-memo-partie-3/</link><pubDate>Fri, 13 Jan 2012 10:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/archlinux-mini-memo-partie-3/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+L&amp;rsquo;Os a la pomme (pourie) et les Gnu/Linux on beaucoup de commandes en commun. Pourquoi ? Car ils sont tout deux des &amp;ldquo;UNIX Like&amp;rdquo; et vous le savez (oui oui).
+Au passage il n&amp;rsquo;est plus correcte de parler de &amp;ldquo;MAC&amp;rdquo; pour désigner cette l&amp;rsquo;Os, la ligné &amp;ldquo;MAC&amp;rdquo; n’étant pas &amp;ldquo;UNIX&amp;rdquo; comparé a &amp;ldquo;MAC OS X&amp;rdquo;&lt;/p></description></item><item><title>Archlinux mini memo (partie 3)</title><link>https://blog.iglou.eu/archlinux-mini-memo-partie-3/</link><pubDate>Fri, 13 Jan 2012 10:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/archlinux-mini-memo-partie-3/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="mes-mentos-darch">Mes &amp;ldquo;mentos&amp;rdquo; d&amp;rsquo;Arch&lt;/h2>
 &lt;p>Dans la partie 3 nous allons retrouver un moment mon très aimable initab, puis la gestion du poweroff et reboot pour les users, ainsi que les lancement a la connexion. Le tout d&amp;rsquo;un point de vue &amp;ldquo;virtual console&amp;rdquo;.&lt;/p>
-&lt;p>Pourquoi encore du inittab (fait chier avec son inittab&amp;hellip;) ? Car j&amp;rsquo;aime ça, mais aussi pour une connexion automatique de user en virtual console ! C&amp;rsquo;est le genre de petit truc que je trouve très utile parfois, mais que j’oublie rapidement &amp;hellip;&lt;/p></description></item><item><title>Archlinux mini memo (partie 2)</title><link>https://blog.iglou.eu/archlinux-mini-memo-partie-2/</link><pubDate>Thu, 12 Jan 2012 17:17:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/archlinux-mini-memo-partie-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Pourquoi encore du inittab (fait chier avec son inittab&amp;hellip;) ? Car j&amp;rsquo;aime ça, mais aussi pour une connexion automatique de user en virtual console ! C&amp;rsquo;est le genre de petit truc que je trouve très utile parfois, mais que j’oublie rapidement &amp;hellip;&lt;/p></description></item><item><title>Archlinux mini memo (partie 2)</title><link>https://blog.iglou.eu/archlinux-mini-memo-partie-2/</link><pubDate>Thu, 12 Jan 2012 17:17:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/archlinux-mini-memo-partie-2/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="âprés-le-mémos-dinstallation">Âprés le mémos d&amp;rsquo;installation&amp;hellip;&lt;/h2>
 &lt;p>Il est tellement génial  de s’amuser sur arch.&lt;/p>
 &lt;p>&lt;strong>/etc/Inittab utilisation :&lt;/strong>&lt;br>
-Il est tres simple d&amp;rsquo;utiliser Cron pour planifier une tache, mais lorsque l&amp;rsquo;on aimerait avoir un script aven tout le reste &amp;hellip; utiliser inittab c&amp;rsquo;est cool (même si j&amp;rsquo;en entend me dire &amp;ldquo;c&amp;rsquo;est pas propre&amp;rdquo;).&lt;/p></description></item><item><title>Les Blaze sont nos amis !</title><link>https://blog.iglou.eu/les-blaze-sont-nos-amis/</link><pubDate>Wed, 11 Jan 2012 10:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/les-blaze-sont-nos-amis/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+Il est tres simple d&amp;rsquo;utiliser Cron pour planifier une tache, mais lorsque l&amp;rsquo;on aimerait avoir un script aven tout le reste &amp;hellip; utiliser inittab c&amp;rsquo;est cool (même si j&amp;rsquo;en entend me dire &amp;ldquo;c&amp;rsquo;est pas propre&amp;rdquo;).&lt;/p></description></item><item><title>Les Blaze sont nos amis !</title><link>https://blog.iglou.eu/les-blaze-sont-nos-amis/</link><pubDate>Wed, 11 Jan 2012 10:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/les-blaze-sont-nos-amis/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Si ce titre vous fait penser a une chanson, c&amp;rsquo;est elle :&lt;/p>
-&lt;p>&lt;a href="http://www.dailymotion.com/video/x56jlu_les-inconnus-les-insectes-sont-nos_fun" class="article_content__link link inherit" rel="noreferrer nofollow noopener">LES INCONNUS - Les Insectes Sont Nos Amis&lt;/a> &lt;em>par &lt;a href="http://www.dailymotion.com/MOLUSKAILLRA" class="article_content__link link inherit" rel="noreferrer nofollow noopener">MOLUSKAILLRA&lt;/a>&lt;/em>&lt;/p>
-&lt;p>Mais il n&amp;rsquo;est pas question pour nous de ce pencher sur un vide ordure, ni même de serrer la main d&amp;rsquo;un blaze. Déjà parce qu’il n&amp;rsquo;en a pas, mais aussi parce qu&amp;rsquo;il si refuserait !&lt;/p></description></item><item><title>Archlinux passé au papercraft</title><link>https://blog.iglou.eu/archlinux-passe-au-papercraft/</link><pubDate>Tue, 10 Jan 2012 13:30:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/archlinux-passe-au-papercraft/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p> 
+ &lt;a href="http://www.dailymotion.com/video/x56jlu_les-inconnus-les-insectes-sont-nos_fun" class="external-link" rel="noreferrer nofollow noopener" target="_blank" >LES INCONNUS - Les Insectes Sont Nos Amis&lt;/a>
+
+ &lt;em>par 
+ &lt;a href="http://www.dailymotion.com/MOLUSKAILLRA" class="external-link" rel="noreferrer nofollow noopener" target="_blank" >MOLUSKAILLRA&lt;/a>
+
+&lt;/em>&lt;/p>
+&lt;p>Mais il n&amp;rsquo;est pas question pour nous de ce pencher sur un vide ordure, ni même de serrer la main d&amp;rsquo;un blaze. Déjà parce qu’il n&amp;rsquo;en a pas, mais aussi parce qu&amp;rsquo;il si refuserait !&lt;/p></description></item><item><title>Archlinux passé au papercraft</title><link>https://blog.iglou.eu/archlinux-passe-au-papercraft/</link><pubDate>Tue, 10 Jan 2012 13:30:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/archlinux-passe-au-papercraft/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="larch-cube-pour-ce-refraichir-">L&amp;rsquo;Arch cube, pour ce refraichir !&lt;/h2>
 &lt;p>Un papercraft c&amp;rsquo;est toujours mignon et ça peut occuper !&lt;/p>
 &lt;p>Et grâce a ArchLinux ça peut même aider en y cachant un memento &amp;hellip;&lt;/p>
-&lt;p>Faites donc place au ArchCube, qui de plus nous rappel très gentiment &amp;ldquo;SEE THE MAN PAGE FOR MORE OPTIONS&amp;rdquo;&lt;/p></description></item><item><title>Archlinux mini memo (partie 1)</title><link>https://blog.iglou.eu/archlinux-mini-memo-partie-1/</link><pubDate>Mon, 09 Jan 2012 05:15:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/archlinux-mini-memo-partie-1/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Faites donc place au ArchCube, qui de plus nous rappel très gentiment &amp;ldquo;SEE THE MAN PAGE FOR MORE OPTIONS&amp;rdquo;&lt;/p></description></item><item><title>Archlinux mini memo (partie 1)</title><link>https://blog.iglou.eu/archlinux-mini-memo-partie-1/</link><pubDate>Mon, 09 Jan 2012 05:15:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/archlinux-mini-memo-partie-1/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="my-arch-">My Arch 🐧&lt;/h2>
-&lt;p>Qui n&amp;rsquo;a jamais passé des heures et des heures, a creusé ses méninges afin d&amp;rsquo;en faire sortir son précieux jus, contenant les commandes permettant de finir son installation correctement. Ou encore a secouer son moteur de recherche comme un prunier !&lt;/p></description></item><item><title>Présentation et première astuce</title><link>https://blog.iglou.eu/presentation-et-premiere-astuce/</link><pubDate>Wed, 14 Dec 2011 18:09:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/presentation-et-premiere-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>Qui n&amp;rsquo;a jamais passé des heures et des heures, a creusé ses méninges afin d&amp;rsquo;en faire sortir son précieux jus, contenant les commandes permettant de finir son installation correctement. Ou encore a secouer son moteur de recherche comme un prunier !&lt;/p></description></item><item><title>Présentation et première astuce</title><link>https://blog.iglou.eu/presentation-et-premiere-astuce/</link><pubDate>Wed, 14 Dec 2011 18:09:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/presentation-et-premiere-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Bonjour à vous probables futur lecteur et lectrices.&lt;/p>
 &lt;p>Il arrive bien souvent de chercher des heures une solution a un problème, mais il arrive que ce problème une fois résolue ce représente et que l&amp;rsquo;on doive ainsi repartir en quête de sa solution.&lt;/p></description></item></channel></rss>

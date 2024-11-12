@@ -1,43 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bsd on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/bsd/</link><description>Recent content in Bsd on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Fri, 08 Nov 2024 15:43:47 +0100</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/bsd/index.xml" rel="self" type="application/rss+xml"/><item><title>[OpenBSD] Juste de l'OpenHttpd, du LuaPatterns et du Let's encrypt</title><link>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</link><pubDate>Thu, 02 Aug 2018 20:18:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bsd on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/bsd/</link><description>Recent content in Bsd on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Thu, 02 Aug 2018 20:18:04 +0000</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/bsd/index.xml" rel="self" type="application/rss+xml"/><item><title>[OpenBSD] Juste de l'OpenHttpd, du LuaPatterns et du Let's encrypt</title><link>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</link><pubDate>Thu, 02 Aug 2018 20:18:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/openbsd-juste-de-lopenhttpd-du/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="le-dernier-espoir--openhttpd">Le dernier espoir : OpenHTTPD&lt;/h2>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/2.bp.blogspot.com-3v13E4KCfGI-W2IlD-UYSNI-AAAAAAAAAyw-tZu9O6AeJIIPSvYI00qW1i5LLzErnnBVACPcBGAYYCw-s1600-openhttpd-logo.png" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
 &lt;/figure>
 &lt;p>&lt;/p>
 &lt;p>Salut à toi lecteur.&lt;/p>
 &lt;p>Moi, c&amp;rsquo;est Luc, Jean-Luc, Jean-Luc qui porte un sky, lecteur ! &lt;br>
-Si tu es là, c&amp;rsquo;est qu&amp;rsquo;tu connais un peu le bousin, la force est déjà avec toi et elle t&amp;rsquo;a mené à moi.&lt;/p></description></item><item><title>[Scaleway] Avoir un OpenBSD (ou autre) sur les serveurs Scaleway</title><link>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</link><pubDate>Fri, 11 May 2018 16:00:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+Si tu es là, c&amp;rsquo;est qu&amp;rsquo;tu connais un peu le bousin, la force est déjà avec toi et elle t&amp;rsquo;a mené à moi.&lt;/p></description></item><item><title>[Scaleway] Avoir un OpenBSD (ou autre) sur les serveurs Scaleway</title><link>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</link><pubDate>Fri, 11 May 2018 16:00:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/scaleway-avoir-un-openbsd-ou-autre-sur/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h2 id="scale-my-bsd-">Scale my BSD 🐡&lt;/h2>
 &lt;p>&lt;strong>Moi&lt;/strong>: Vous savez quoi ?&lt;br>
 &lt;strong>Vous&lt;/strong>: Non, mais tu vas nous le dire !&lt;br>
 &lt;strong>Moi&lt;/strong>: En serveur, je préfère grandement un OpenBSD à un GNU/Linux&lt;br>
 &lt;strong>Vous&lt;/strong>: Et pourquoi donc ?&lt;br>
 &lt;strong>Moi&lt;/strong>: Pour pleins de raisons, comme son PF, HTTPD, SMTPD &amp;hellip;&lt;br>
-&lt;strong>Vous&lt;/strong>: Moué, enfin SMTPD il est aussi sur d&amp;rsquo;autres os, puis OpenBSD n&amp;rsquo;est pas disponible de base, et les solutions trouvées jusque-là sur le net ne sont pas pratiques, et c&amp;rsquo;est compliqué et blabla bla &amp;hellip;&lt;/p></description></item><item><title>Installer un Windows depuis "n'importe" quel OS</title><link>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</link><pubDate>Wed, 24 May 2017 11:18:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;strong>Vous&lt;/strong>: Moué, enfin SMTPD il est aussi sur d&amp;rsquo;autres os, puis OpenBSD n&amp;rsquo;est pas disponible de base, et les solutions trouvées jusque-là sur le net ne sont pas pratiques, et c&amp;rsquo;est compliqué et blabla bla &amp;hellip;&lt;/p></description></item><item><title>Installer un Windows depuis "n'importe" quel OS</title><link>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</link><pubDate>Wed, 24 May 2017 11:18:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/installer-un-windows-depuis-nimporte/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Haaa, ces produits Windows de chez M$, quel… merde, et dire qu&amp;rsquo;il y a des moments où l&amp;rsquo;on ne peut pas s&amp;rsquo;en passer… Merci les solutions proprio 🤢&lt;/p>
 &lt;p>&lt;em>Cette solution fonctionne sur tout Os ayant de la virtualisation (VirtualBox ici)&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/windows-10-installation-maj.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/windows-10-installation-maj.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/windows-10-installation-maj.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Long, moche et sans debug
  &lt;/figcaption>
  
 &lt;/figure>
-&lt;p>&lt;/p></description></item><item><title>OpenBSD Memo</title><link>https://blog.iglou.eu/openbsd-memo/</link><pubDate>Fri, 31 May 2013 16:15:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/openbsd-memo/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+&lt;p>&lt;/p></description></item><item><title>OpenBSD Memo</title><link>https://blog.iglou.eu/openbsd-memo/</link><pubDate>Fri, 31 May 2013 16:15:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/openbsd-memo/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;h3 id="-open-ton-bsd">🐡 Open ton BSD&lt;/h3>
 &lt;p>&lt;strong>Pour ce nouveau post, BSD est a l&amp;rsquo;honneur et plus précisément, l&amp;rsquo;OpenBSD.&lt;/strong>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/puffy53.gif" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/puffy53.gif" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/puffy53.gif" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Inspiration du film blade runner pour cette V5.3
  &lt;/figcaption>
  
 &lt;/figure>
 &lt;p>&lt;/p>
-&lt;p>Avant toute chose, si vous n&amp;rsquo;avez jamais touche à OpenBSD, je vous conseil de passer par leur &lt;a href="http://www.openbsd.org/faq/fr/index.html" class="article_content__link link inherit" rel="noreferrer nofollow noopener">FAQ&lt;/a>, qui est tout simplement génial ! Contrairement à la croyance cette distribution n&amp;rsquo;est pas vraiment déroutante, et ceux grâce à la trés bonne documentation qui offre toujours réponse à tout. Le système est là pour vous guider vers un pas de plus, notamment par ses nombreux &amp;ldquo;e-mails&amp;rdquo;. Vous me direz que ce mémo n&amp;rsquo;est donc pas utile &amp;hellip; Perso je n&amp;rsquo;aime pas chercher 3h dans une doc, un point particulier que j&amp;rsquo;ai déjà abordé 100fois.&lt;/p></description></item></channel></rss>
+&lt;p>Avant toute chose, si vous n&amp;rsquo;avez jamais touche à OpenBSD, je vous conseil de passer par leur 
+ &lt;a href="http://www.openbsd.org/faq/fr/index.html" class="external-link" rel="noreferrer nofollow noopener" target="_blank" >FAQ&lt;/a>
+
+, qui est tout simplement génial ! Contrairement à la croyance cette distribution n&amp;rsquo;est pas vraiment déroutante, et ceux grâce à la trés bonne documentation qui offre toujours réponse à tout. Le système est là pour vous guider vers un pas de plus, notamment par ses nombreux &amp;ldquo;e-mails&amp;rdquo;. Vous me direz que ce mémo n&amp;rsquo;est donc pas utile &amp;hellip; Perso je n&amp;rsquo;aime pas chercher 3h dans une doc, un point particulier que j&amp;rsquo;ai déjà abordé 100fois.&lt;/p></description></item></channel></rss>

@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Analytics on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/analytics/</link><description>Recent content in Analytics on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Fri, 08 Nov 2024 15:43:47 +0100</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>Pourquoi Matomo ne devrait pas être votre alternative à Google Analytics</title><link>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</link><pubDate>Thu, 27 Apr 2023 15:25:53 +0200</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</guid><description>&lt;h1 id="-de-linutilité-des-outils-de-mesure-statistiques-sur-la-toile">📊 De l&amp;rsquo;inutilité des outils de mesure statistiques sur la toile&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Analytics on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/analytics/</link><description>Recent content in Analytics on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>Pourquoi Matomo ne devrait pas être votre alternative à Google Analytics</title><link>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</link><pubDate>Thu, 27 Apr 2023 15:25:53 +0200</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/inutilite_des_outils_de_mesure_sur_la_toile/</guid><description>&lt;h1 id="-de-linutilité-des-outils-de-mesure-statistiques-sur-la-toile">📊 De l&amp;rsquo;inutilité des outils de mesure statistiques sur la toile&lt;/h1>
 &lt;p>&lt;em>🎵 Même s&amp;rsquo;il se lève tôt, sortir de Google&lt;/em>&lt;br>
 &lt;em>🎶 En perpétrant son forfait, nul ne perçoit son méfait&lt;/em>&lt;br>
 &lt;em>🎵 Déployant son Matomo, rester aveugle&lt;/em>&lt;br>
 &lt;em>🎶 Gargantua encore pourra, digérer nos âpre data&lt;/em>&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/gargantua_eat_computer.png" alt="Représentation satirique de Gargantua mangeant un ordinateur" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/gargantua_eat_computer.png" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/gargantua_eat_computer.png" alt="Représentation satirique de Gargantua mangeant un ordinateur" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  Gargantua n&amp;rsquo;a jamais fait d&amp;rsquo;aussi bon repas
  &lt;/figcaption>
  

@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reprap on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/reprap/</link><description>Recent content in Reprap on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (Adrien K)</managingEditor><webMaster>adrien@iglou.eu (Adrien K)</webMaster><lastBuildDate>Mon, 04 Apr 2022 00:31:17 +0200</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/reprap/index.xml" rel="self" type="application/rss+xml"/><item><title>[Imprimante 3D] Offset Z, Sonde et astuce ATX</title><link>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</link><pubDate>Sat, 03 Feb 2018 00:22:00 +0000</pubDate><author>adrien@iglou.eu (Adrien K)</author><guid>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reprap on Blog Iglou.eu</title><link>https://blog.iglou.eu/tags/reprap/</link><description>Recent content in Reprap on Blog Iglou.eu</description><generator>Hugo</generator><language>fr-fr</language><managingEditor>adrien@iglou.eu (🐧 Adrien l'pingouin)</managingEditor><webMaster>adrien@iglou.eu (🐧 Adrien l'pingouin)</webMaster><lastBuildDate>Sat, 03 Feb 2018 01:05:09 +0000</lastBuildDate><atom:link href="https://blog.iglou.eu/tags/reprap/index.xml" rel="self" type="application/rss+xml"/><item><title>[Imprimante 3D] Offset Z, Sonde et astuce ATX</title><link>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</link><pubDate>Sat, 03 Feb 2018 00:22:00 +0000</pubDate><author>adrien@iglou.eu (🐧 Adrien l'pingouin)</author><guid>https://blog.iglou.eu/imprimante-3d-offset-z-sonde-et-astuce/</guid><description>&lt;div class="box warning monospace">&lt;span>Cet article est issu d&amp;rsquo;une importation historique.&lt;br>Il fut fait sans correcteur orthographique et grammaticale, il est aussi fort probable que des images et liens soient indisponible.&lt;/span>&lt;/div>
 &lt;p>Bonjours a tou·te·s,&lt;/p>
 &lt;p>Waaoooo, bien tôt 1 an sans articles, je suis tout ému !&lt;/p>
-&lt;p>&lt;/p>
-&lt;figure class="article_content__img" tabindex="0">
- &lt;img src="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="article_content__img_src" />
+&lt;p>
+&lt;/p>
+&lt;figure class="article-img">
+ &lt;a href="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" target="_blank" title="Ouvrir l'image dans un onglet">
+ &lt;img src="https://blog.iglou.eu/images/4.bp.blogspot.com-OeNndYJD4p8-WnTQw5cvQQI-AAAAAAAAAuU-O0xDVBXg-DgPhaCP1FvP4209mIGdLXMAwCPcBGAYYCw-s400-images.duckduckgo.com.jpg" alt="Image de presentation" referrerpolicy="no-referrer" loading="lazy" class="img-src" />
+ &lt;/a>
  
- &lt;figcaption class="article_content__img_desc">
+ &lt;figcaption class="img-desc">
  “I do not understand why the Designer chose to put such flaws into the world, that it appears almost as if it were damaged. But I must believe that there is a purpose here I cannot see.” – &lt;em>1w/Faith v10.3.0047f&lt;/em>
  &lt;/figcaption>
  
