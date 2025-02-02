@@ -10,7 +10,7 @@ menu:
       pageRef: "/"
       weight: 1
 
-params: 
+params:
   icon: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIj7wn5K+PC90ZXh0Pjwvc3ZnPg=='
   color: '#dbf3f4'
   locale: fr_fr

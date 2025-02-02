@@ -28,7 +28,7 @@
         </aside>
       </header>
 
-      <p class="article-summary">■ {{if .Description}}{{.Description}}{{else}}{{.Summary}}{{end}}</p>
+      <p class="article-summary">■ {{if .Description}}{{.Description}}{{else}}{{.Summary | truncate 250 }}{{end}}</p>
 
       <footer class="article-footer">
         <a class="article-read tags-link" href="{{.Permalink}}">Lire la suite …</a>

@@ -49,6 +49,11 @@ img {
     max-width: 100%;
 }
 
+pre {
+    overflow: auto;
+    padding-bottom: .25em;
+}
+
 .main-menu {
     a {
         border-bottom: .1em solid;
