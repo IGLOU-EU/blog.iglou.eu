@@ -133,6 +133,13 @@ pre {
     grid-area: right_panel;
 }
 
+.blog-comment {
+    padding: 1em;
+    text-align: right;
+    margin-left: -1em;
+    background-color: var(--color-spanel-background);
+}
+
 .toc {
     a {
         color: var(--color-spanel-toc-link);
@@ -211,7 +218,7 @@ pre {
         text-decoration: none;
         text-transform: capitalize;
         border-radius: .5em;
-        padding: .25em .5em;
+        padding: .5em .5em .25em .5em;
 
         color: var(--color-spanel-tags-button-text);
         border: .1em solid var(--color-spanel-tags-button-border);

@@ -40,4 +40,7 @@
 <article class="blog-article markdown">
   {{ .Content }}
 </article>
+<div class="blog-comment">
+  {{ partial "statiquepouet-hugo/content.html" . }}
+</div>
 {{ end }}

@@ -1,0 +1,125 @@
+// Styling de statique-pouet. Réutilise les classes du thème via @extend.
+// Les liens (auteur, view, contenu) héritent déjà du `body a` global.
+
+.statique-pouet-button,
+.statique-pouet-action-reply,
+.statique-pouet-modal-cancel,
+.statique-pouet-modal-submit {
+    @extend .tags-link;
+    cursor: pointer;
+    font: inherit;
+}
+
+.statique-pouet-button {
+    display: inline-flex;
+    gap: .5em;
+
+    &-load::before  { content: '\27F3'; }
+    &-share::before { content: '\2197'; }
+    &-reply::before { content: '\21A9'; }
+}
+
+.statique-pouet-comment {
+    padding: 1em 0;
+    border-bottom: .1em solid var(--color-tpanel-border);
+
+    &:last-child {
+        border-bottom: none;
+    }
+
+    &-header {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: .5em;
+        margin-bottom: .5em;
+    }
+
+    &-replies {
+        margin-top: 1em;
+        padding-left: 1em;
+        border-left: .25em solid var(--color-article-quote-border);
+    }
+}
+
+.statique-pouet-avatar {
+    width: 2.5em;
+    height: 2.5em;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.statique-pouet-author {
+    font-weight: bold;
+}
+
+.statique-pouet-handle,
+.statique-pouet-date {
+    font-size: .9em;
+    opacity: .75;
+}
+
+.statique-pouet-date {
+    margin-left: auto;
+}
+
+.statique-pouet-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5em;
+    margin-top: .5em;
+}
+
+.statique-pouet-alert {
+    padding: .5em 1em;
+    margin: 1em 0;
+    border-left: .25em solid var(--color-article-box-msg-border);
+
+    &-error {
+        border-left-color: var(--color-article-box-warn-border);
+    }
+}
+
+#statique-pouet-modal {
+    border: none;
+    padding: 1.5em;
+    width: #{"min(90vw, 32em)"};
+    border-radius: .5em;
+    color: var(--color-spanel-text);
+    background-color: var(--color-spanel-background);
+
+    &::backdrop {
+        background-color: rgba(0, 0, 0, .6);
+    }
+}
+
+#statique-pouet-modal-input {
+    width: 100%;
+    padding: .5em .75em;
+    font: inherit;
+    border-radius: .5em;
+    color: var(--color-spanel-text);
+    background-color: var(--color-global-background);
+    border: .1em solid var(--color-spanel-tags-button-border);
+}
+
+.statique-pouet-modal-title {
+    margin: 0 0 .5em;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.statique-pouet-modal-form {
+    display: flex;
+    flex-direction: column;
+    gap: .75em;
+}
+
+.statique-pouet-modal-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: .5em;
+    margin-top: 1em;
+}

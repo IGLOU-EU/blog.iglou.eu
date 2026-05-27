@@ -3,6 +3,12 @@ title: "La quête du chausson pour pied"
 description: "Embarquer avec moi dans cette magnifique épopée, cette quête, parfaite pour un chevalier des temps modernes !"
 miniature: "/images/la-quete-du-chausson-pour-pieds.webp"
 date: 2024-11-06T02:35:54+02:00
+fediverse_context: "https://mastodon.social/@norihiori/116648839657725071"
+fediverse_hashtags:
+  - "blog"
+  - "france"
+  - "chausson"
+  - "lowtech"
 tags: 
   - "mode de vie"
 refs:
