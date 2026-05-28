@@ -3,6 +3,10 @@
 
 @use "global";
 
+.statique-pouet-buttons {
+    text-align: right;
+}
+
 .statique-pouet-button,
 .statique-pouet-action-reply,
 .statique-pouet-modal-cancel,
@@ -74,12 +78,40 @@
 }
 
 .statique-pouet-alert {
-    padding: .5em 1em;
     margin: 1em 0;
-    border-left: .25em solid var(--color-article-box-msg-border);
+    padding: .5em 1em;
+    border-left: 4px solid transparent;
+    font-weight: bold;
+    background-color: var(--color-article-background);
+
+    &-info {
+        color: var(--color-article-box-msg-border);
+        border-left-color: var(--color-article-box-msg-border);
+    }
 
     &-error {
+        color: var(--color-article-box-warn-border);
         border-left-color: var(--color-article-box-warn-border);
+    }
+}
+
+.statique-pouet-loading::before {
+    content: '•';
+    display: inline-block;
+    margin-right: .5em;
+    font-weight: bold;
+    line-height: 1;
+    animation: statique-pouet-bob 1.1s linear infinite;
+}
+
+@keyframes statique-pouet-bob {
+    from { transform: rotate(0deg)   translateY(-.25em); }
+    to   { transform: rotate(360deg) translateY(-.25em); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .statique-pouet-loading::before {
+        animation: none;
     }
 }
 
