@@ -1,9 +1,5 @@
-@import "_reset.scss";
-
-@import "_color.scss";
-
-@import "_global.scss";
-
-@import "_markdown.scss";
-
-@import "_statiquepouet.scss";
+@use "reset";
+@use "color";
+@use "global";
+@use "markdown";
+@use "statiquepouet";

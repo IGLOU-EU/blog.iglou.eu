@@ -1,6 +1,8 @@
 // Styling de statique-pouet. Réutilise les classes du thème via @extend.
 // Les liens (auteur, view, contenu) héritent déjà du `body a` global.
 
+@use "global";
+
 .statique-pouet-button,
 .statique-pouet-action-reply,
 .statique-pouet-modal-cancel,
