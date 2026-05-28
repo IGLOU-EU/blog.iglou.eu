@@ -17,10 +17,10 @@
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Include schema.org metadata template -->
-{{ template "_internal/schema.html" . }}
+{{ partial "schema.html" . }}
 
 <!-- Include Open Graph metadata template for social media sharing -->
-{{ template "_internal/opengraph.html" . }}
+{{ partial "opengraph.html" . }}
 
 {{- with or .Params.miniature }}
     <meta property="og:image" content="{{ absURL . }}">
