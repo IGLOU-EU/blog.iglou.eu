@@ -6,11 +6,6 @@ on:
       - main
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -20,8 +15,63 @@ defaults:
     shell: bash
 
 jobs:
-  build:
+  announce:
     runs-on: ubuntu-latest
+    container: golang:latest
+    environment:
+      name: announce
+    permissions:
+      contents: write
+    env:
+      ANNOUNCE_DIR: ${{ vars.ANNOUNCE_DIR }}
+      MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+      MASTODON_INSTANCE: ${{ vars.MASTODON_INSTANCE }}
+      STATUS_VISIBILITY: ${{ vars.STATUS_VISIBILITY }}
+      STATUS_TEMPLATE: ${{ vars.STATUS_TEMPLATE }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          submodules: recursive
+
+      - name: Check required variables
+        run: |
+          for v in MASTODON_TOKEN MASTODON_INSTANCE; do
+            eval "val=\$$v"
+            [ -n "$val" ] || { echo "announce: required variable $v is unset"; exit 1; }
+          done
+
+      - name: Announce
+        env:
+          # Resolved from the module directory, so pin it to the checkout.
+          SITE_ROOT: ${{ github.workspace }}
+        run: |
+          ANNOUNCE_DIR="${ANNOUNCE_DIR:-$(dirname "$(grep -rl --include=go.mod 'iglou-eu/statiquepouet-hugo' "$SITE_ROOT" | head -n1)")}"
+          [ -f "$ANNOUNCE_DIR/go.mod" ] || { echo "announce: could not locate the announce module under $SITE_ROOT (set vars.ANNOUNCE_DIR to override)"; exit 1; }
+          echo "announce: using module at $ANNOUNCE_DIR"
+          cd "$ANNOUNCE_DIR"
+          go mod tidy
+          go run .
+
+      - name: Commit and push front-matter changes
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.email "actions@github.com"
+          git config user.name "StatiquePouet announce bot"
+          if git diff --quiet -- content; then
+            echo "announce: no front-matter changes to commit"
+          else
+            git add content
+            git commit -m "chore: announce articles to Mastodon"
+            git push
+          fi
+
+  build:
+    needs: announce
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
     env:
       DART_SASS_VERSION: 1.99.0
       TZ: Europe/Paris
@@ -29,6 +79,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
         with:
+          # Check out the branch tip rather than the triggering SHA so we pick up
+          # the front-matter commit pushed by the announce job above.
+          ref: ${{ github.ref_name }}
           submodules: recursive
           fetch-depth: 0
 
