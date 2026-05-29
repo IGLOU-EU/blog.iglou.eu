@@ -398,6 +398,95 @@ pre {
     display: none;
 }
 
+.img-dialog {
+    padding: 0;
+    border: none;
+    overflow: hidden;
+    background: transparent;
+
+    width: 100dvw;
+    height: 100dvh;
+    max-width: 100dvw;
+    max-height: 100dvh;
+
+    opacity: 0;
+    transform: scale(.95);
+    transition:
+        opacity .25s ease,
+        transform .25s ease,
+        overlay .25s ease allow-discrete,
+        display .25s ease allow-discrete;
+
+    &:popover-open {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    @starting-style {
+        &:popover-open {
+            opacity: 0;
+            transform: scale(.95);
+        }
+    }
+
+    &::backdrop {
+        background: rgb(0 0 0 / 0);
+        transition:
+            background .25s ease,
+            overlay .25s ease allow-discrete,
+            display .25s ease allow-discrete;
+    }
+
+    &:popover-open::backdrop {
+        background: rgb(0 0 0 / .85);
+    }
+
+    @starting-style {
+        &:popover-open::backdrop {
+            background: rgb(0 0 0 / 0);
+        }
+    }
+
+    &-button {
+        padding: 0;
+        margin: 0;
+        border-radius: 0;
+        border: none;
+        background: none;
+        display: block;
+        cursor: zoom-in;
+    }
+
+    &-content {
+        display: block;
+    }
+
+    .img-dialog-button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        cursor: zoom-out;
+    }
+
+    .img-dialog-content {
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        max-height: 100%;
+        object-fit: contain;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+    .img-dialog,
+    .img-dialog::backdrop {
+        transition: none;
+    }
+}
+
 @media (max-width: $breakpoints-md) {
     .content-main {
         display: block;
