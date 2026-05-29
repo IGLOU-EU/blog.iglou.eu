@@ -40,7 +40,10 @@
 <article class="blog-article markdown">
   {{ .Content }}
 </article>
+
+{{- if .Params.fediverse_context -}}
 <div class="blog-comment">
   {{ partial "statiquepouet-hugo/content.html" . }}
 </div>
+{{ end }}
 {{ end }}
