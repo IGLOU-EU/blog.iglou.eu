@@ -1,18 +1,20 @@
 ---
 draft: true
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ with getenv "HUGO_NEWTITLE" }}{{ . }}{{ else }}{{ replace $.Name "-" " " | title }}{{ end }}"
 description: ""
-miniature: "/images/.webp"
+miniature: ".webp"
 date: {{ .Date }}
-mastodon:
+fediverse_context: ""
+fediverse_hashtags:
+  - ""
 tags: 
   - ""
 refs:
   - " []()"
 ---
 
-# {{ replace .Name "-" " " | title }}
+# {{ with getenv "HUGO_NEWTITLE" }}{{ . }}{{ else }}{{ replace $.Name "-" " " | title }}{{ end }}
 
-![](.png "")
+![description](.png "note sous l'image")
 
 ## 
