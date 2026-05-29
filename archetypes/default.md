@@ -4,8 +4,8 @@ title: "{{ with getenv "HUGO_NEWTITLE" }}{{ . }}{{ else }}{{ replace $.Name "-" 
 description: ""
 miniature: ".webp"
 date: {{ .Date }}
-fediverse_context: ""
-fediverse_hashtags:
+fediverseContext: ""
+fediverseHashtags:
   - ""
 tags: 
   - ""

@@ -85,6 +85,7 @@ disableHugoGeneratorInject = true
     high = 250
 
   [params.statiquepouet]
+    fediverseHashtags = ["blog", "france"]
     buttonLoadText = "Voir les commentaires"
     buttonReplyText = "Répondre"
     buttonShareText = "Partager"
