@@ -3,7 +3,7 @@ title: "Dessin en trois mots: cocotte - zeus - monocle"
 description: "Pour avoir une inspiration amusante, je prends trois mots au hasard et j'en fais un dessin."
 miniature: "202604_cocotte-zeus-monocle_fined_mini.png"
 date: 2026-04-29T00:39:02+02:00
-fediverseContext: ""
+fediverseContext: "https://mastodon.social/@norihiori/116661032236423515"
 fediverseHashtags:
   - "dessin"
   - "drawing"
