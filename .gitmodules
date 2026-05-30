@@ -1,3 +1,3 @@
-[submodule "themes/iglou.eu/layouts/_partials/statiquepouet-hugo"]
-	path = themes/iglou.eu/layouts/_partials/statiquepouet-hugo
+[submodule "themes/statiquepouet-hugo"]
+	path = themes/statiquepouet-hugo
 	url = https://gitlab.com/iglou.eu/statiquepouet-hugo.git

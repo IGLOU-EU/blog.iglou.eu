@@ -43,13 +43,13 @@ jobs:
 
       - name: Announce
         env:
-          # Resolved from the module directory, so pin it to the checkout.
+          # Pin the Hugo site root to the checkout.
           SITE_ROOT: ${{ github.workspace }}
         run: |
-          ANNOUNCE_DIR="${ANNOUNCE_DIR:-$(dirname "$(grep -rl --include=go.mod 'iglou-eu/statiquepouet-hugo' "$SITE_ROOT" | head -n1)")}"
-          [ -f "$ANNOUNCE_DIR/go.mod" ] || { echo "announce: could not locate the announce module under $SITE_ROOT (set vars.ANNOUNCE_DIR to override)"; exit 1; }
-          echo "announce: using module at $ANNOUNCE_DIR"
-          cd "$ANNOUNCE_DIR"
+          MODULE_DIR="$SITE_ROOT/${ANNOUNCE_DIR:-themes/statiquepouet-hugo/announce}"
+          [ -f "$MODULE_DIR/go.mod" ] || { echo "announce: $MODULE_DIR not found (set vars.ANNOUNCE_DIR if the theme dir is named differently)"; exit 1; }
+          echo "announce: using module at $MODULE_DIR"
+          cd "$MODULE_DIR"
           go mod tidy
           go run .
 

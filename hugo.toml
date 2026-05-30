@@ -1,6 +1,6 @@
 # Informations du site
 title = "Blog Iglou.eu"
-theme = "iglou.eu"
+theme = ["iglou.eu", "statiquepouet-hugo"]
 baseURL = "https://blog.iglou.eu/"
 
 # Langue
